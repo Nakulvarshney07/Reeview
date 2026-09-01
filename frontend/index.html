@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>V2 Trainable Aspect & Sub-Aspect Prediction Engine</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="brand">
+                <div class="logo-icon">✨</div>
+                <div>
+                    <h1>AspectPredict <span class="badge">V2 Neural Model</span></h1>
+                    <p class="subtitle">Supervised Product Experience Aspect & Sub-Aspect Neural Predictor</p>
+                </div>
+            </div>
+            <nav class="nav-tabs">
+                <button class="nav-tab active" id="tab-predict" onclick="switchTab('predict')">Aspect Predictor</button>
+                <button class="nav-tab" id="tab-benchmark" onclick="switchTab('benchmark')">Benchmark & Evaluation</button>
+            </nav>
+        </header>
+
+        <!-- Predictor Section -->
+        <main class="content-area" id="view-predict">
+            <div class="grid-layout">
+                <!-- Input Panel -->
+                <div class="glass-card input-card">
+                    <div class="card-header">
+                        <h2>Product Document Input</h2>
+                        <span class="info-tag">Combined Title + Specs + Reviews</span>
+                    </div>
+
+                    <div class="sample-selector">
+                        <label>Quick Load Multi-Domain Samples:</label>
+                        <div class="chip-group" id="sample-chips">
+                            <!-- Populated dynamically via JS -->
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <textarea id="product-input" placeholder="Paste product title, specifications, and 1-star to 5-star customer reviews here...
+
+Example:
+Product: MuscleBlaze Biozyme Whey Protein Powder...
+Specifications: Flavor: French Vanilla Creme, Protein: 25g...
+5-star reviews: Mixes smoothly, great taste...
+1-star reviews: Too sweet, dissloves poorly in cold milk..."></textarea>
+                    </div>
+
+                    <button class="btn btn-primary" id="btn-predict" onclick="runPrediction()">
+                        <span class="btn-text">Predict Aspects & Sub-aspects</span>
+                        <div class="spinner hidden" id="predict-spinner"></div>
+                    </button>
+                </div>
+
+                <!-- Output Panel -->
+                <div class="glass-card output-card">
+                    <div class="card-header">
+                        <h2>Predicted Experience Dimensions</h2>
+                        <span class="model-badge" id="model-badge-text">Neural Model Ready</span>
+                    </div>
+
+                    <div id="output-placeholder" class="placeholder-state">
+                        <div class="placeholder-icon">📊</div>
+                        <p>Paste product information and click <strong>Predict Aspects</strong> to generate 5–10 customer experience dimensions.</p>
+                    </div>
+
+                    <div id="output-results" class="results-container hidden">
+                        <div class="summary-stats">
+                            <span id="predicted-count">0 Aspects Predicted</span>
+                        </div>
+
+                        <div class="aspects-list" id="aspects-list">
+                            <!-- Dynamic Aspect Cards -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Benchmark & Evaluation Section -->
+        <main class="content-area hidden" id="view-benchmark">
+            <div class="glass-card benchmark-card">
+                <div class="card-header">
+                    <div>
+                        <h2>Model Evaluation & Benchmark Comparison</h2>
+                        <p class="section-desc">Performance metrics comparing Our V2 Supervised Neural Network against Llama 3.2 Baseline on unseen test products.</p>
+                    </div>
+                    <button class="btn btn-secondary" onclick="loadBenchmark()">Refresh Benchmark</button>
+                </div>
+
+                <div class="benchmark-table-wrapper">
+                    <table class="benchmark-table">
+                        <thead>
+                            <tr>
+                                <th>Evaluation Metric</th>
+                                <th>Human Consensus</th>
+                                <th>LLAMA 3.2 Baseline</th>
+                                <th class="highlight-col">OUR V2 MODEL</th>
+                            </tr>
+                        </thead>
+                        <tbody id="benchmark-tbody">
+                            <tr><td colspan="4" class="loading-td">Loading benchmark evaluations...</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="app-footer">
+            <p>Minor Project Stage 1: Product Experience Aspect & Sub-aspect Neural Prediction Pipeline</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

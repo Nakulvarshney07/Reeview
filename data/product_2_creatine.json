@@ -1,0 +1,126 @@
+{
+  "product_id": "P002",
+  "name": "MuscleBlaze Micronised Creatine Monohydrate CreAMP Powder, Unflavoured (32 Servings, 100g)",
+  "category": "Health & Supplements",
+  "specs": {
+    "Brand": "MuscleBlaze",
+    "Flavour": "Unflavoured",
+    "Primary Supplement Type": "Creatine Monohydrate",
+    "Net Quantity": "100.0 Grams (32 Servings)",
+    "Item Form": "Micronised Powder",
+    "Special Ingredients": "Creatine, MB CreAbsorb Technology",
+    "Diet Type": "Vegetarian",
+    "Product Benefits": "Advanced Creatine Absorption, Energy Management, Muscle Strength & Endurance",
+    "Certifications": "Trustified Certified Quality for Purity and Safety"
+  },
+  "llama_output": [
+    {
+      "aspect": "Quantity and Pricing",
+      "subaspects": ["accurate quantity vs. actual served amount"]
+    },
+    {
+      "aspect": "Taste and Mixing Quality",
+      "subaspects": ["mixability with water/milk", "flavor consistency"]
+    },
+    {
+      "aspect": "Customer Service and Return Policy",
+      "subaspects": ["response time", "refund process"]
+    },
+    {
+      "aspect": "Product Authenticity",
+      "subaspects": ["certification", "seal integrity"]
+    },
+    {
+      "aspect": "Influence of Product on Performance",
+      "subaspects": ["muscle recovery", "endurance"]
+    },
+    {
+      "aspect": "Product Certifications and Regulations",
+      "subaspects": ["compliance with safety standards"]
+    },
+    {
+      "aspect": "Serving Size and Quantity Accuracy",
+      "subaspects": ["serving size consistency"]
+    }
+  ],
+  "human_annotations": {
+    "Kartikey": ["Mixability", "Flavour", "Nutritional value", "Affordable"],
+    "Anshul": ["Micronized", "Performance", "Water intake", "Price"],
+    "Nakul": ["SideEffects", "Quality", "Authenticity", "Value for money"],
+    "Kushagra": ["Flavour", "Taste", "Results", "Number of scoops", "Solubility"],
+    "Aditya": ["Unflavoured", "Not too costly", "Clinically tested", "Provide a good container", "Free shaker"]
+  },
+  "human_consensus": [
+    {
+      "aspect": "Mixability & Solubility",
+      "subaspects": ["Easy to mix", "Micronized texture", "Smooth consistency in water/shake"]
+    },
+    {
+      "aspect": "Taste & Flavour Options",
+      "subaspects": ["Unflavoured versatility", "No bitter aftertaste", "Flavoured variants availability"]
+    },
+    {
+      "aspect": "Nutritional Value & Performance",
+      "subaspects": ["Boosts strength & endurance", "Supports workout performance", "Energy management"]
+    },
+    {
+      "aspect": "Ingredient Quality & Safety",
+      "subaspects": ["High purity creatine monohydrate", "Trustified certified", "Minimal side effects", "Clinically tested"]
+    },
+    {
+      "aspect": "Value for Money",
+      "subaspects": ["Affordable pricing", "Good price per serving", "Quantity accuracy"]
+    },
+    {
+      "aspect": "Packaging & Additional Benefits",
+      "subaspects": ["Sturdy container", "Seal integrity", "Free shaker / scoop accuracy"]
+    }
+  ],
+  "reviews": {
+    "5_star": [
+      {
+        "author": "Dinesh Singh",
+        "date": "10 March 2026",
+        "rating": 5,
+        "title": "Genuine and quality product for gym and sports freak persons.",
+        "body": "Quality is good as it is genuine micronized creatine monohydrate. Mixes seamlessly in my protein shake without leaving heavy residue."
+      }
+    ],
+    "4_star": [
+      {
+        "author": "Rohan Gupta",
+        "date": "15 February 2026",
+        "rating": 4,
+        "title": "Good performance boost",
+        "body": "Noticed strength improvements in 2 weeks. Solubility in cold water takes a bit of extra stirring, but unflavored version mixes easily with juice."
+      }
+    ],
+    "3_star": [
+      {
+        "author": "Vikas K",
+        "date": "02 January 2026",
+        "rating": 3,
+        "title": "Average packaging",
+        "body": "Creatine power is good quality, but the scoop is buried deep inside and jar opening is narrow."
+      }
+    ],
+    "2_star": [
+      {
+        "author": "Sanjay M",
+        "date": "18 November 2025",
+        "rating": 2,
+        "title": "Mild stomach discomfort",
+        "body": "Product is authentic with Trustified mark, but caused slight bloating when taken without extra water intake."
+      }
+    ],
+    "1_star": [
+      {
+        "author": "Karan P",
+        "date": "04 October 2025",
+        "rating": 1,
+        "title": "Damaged seal on delivery",
+        "body": "Received jar with broken inner seal and powder spilled inside outer packaging. Return request took long time."
+      }
+    ]
+  }
+}

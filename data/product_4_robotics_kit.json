@@ -1,0 +1,53 @@
+{
+  "product_id": "P004",
+  "name": "Butterfly Edufields 10-in-1 STEM Robotics Kit for Kids Ages 8-14",
+  "category": "STEM Toys & Robotics",
+  "specs": {
+    "Brand": "Butterfly EduFields",
+    "Size": "10 x 20 x 2 cm",
+    "Age Range": "8-14 Years",
+    "Components": "100+ parts (wires, switches, motors, connectors, LED modules)",
+    "Key Features": "Build 10 working robots, Illustrated step-by-step building guide, Electronic logic & automation learning"
+  },
+  "llama_output": [
+    {"aspect": "Durable Materials", "subaspects": ["fragile parts concern in reviews"]},
+    {"aspect": "Ease of Assembly", "subaspects": ["unclear instructions and poor fitting parts"]},
+    {"aspect": "Comprehensive Component Set", "subaspects": ["modular electronics and variety of projects"]},
+    {"aspect": "Instructions and Guides", "subaspects": ["illustrated manual clarity"]},
+    {"aspect": "Quality Control", "subaspects": ["flimsy balsa wood stands and connector stiffness"]},
+    {"aspect": "Age Suitability", "subaspects": ["suitable for 8-14 years"]},
+    {"aspect": "Value for Money", "subaspects": ["debate due to missing items and assembly frustration"]}
+  ],
+  "human_annotations": {
+    "Kushagra": ["Safe from electric shock", "Not easily breakable", "Non toxic materials"],
+    "Kartikey": ["Quality", "Value for money", "Impactful STEM learning"],
+    "Rahul": ["Not harmful", "Durable", "Value for money", "Knowledge increasing", "Repairable"],
+    "Nakul": ["Quality", "All components present", "Durability"]
+  },
+  "human_consensus": [
+    {"aspect": "Component Quality & Reliability", "subaspects": ["Sturdy connectors & motors", "Durable non-flimsy materials"]},
+    {"aspect": "Instruction Manual & Ease of Assembly", "subaspects": ["Clear step-by-step illustrations", "Accurate wiring diagrams"]},
+    {"aspect": "STEM Educational Value", "subaspects": ["Hands-on robotics concepts", "Circuit logic and problem-solving skills"]},
+    {"aspect": "Safety & Child Friendliness", "subaspects": ["Low voltage electric safety", "Non-toxic and smooth edge components"]},
+    {"aspect": "Completeness & Packaging", "subaspects": ["All 100+ screws & sensors included", "No missing parts"]},
+    {"aspect": "Value for Money", "subaspects": ["Reasonable price for 10-in-1 robot project variety"]}
+  ],
+  "reviews": {
+    "5_star": [
+      {"author": "Parijat tripathi", "date": "7 April 2026", "rating": 5, "title": "Good for students", "body": "Nice robotic tool kit for beginners."},
+      {"author": "Deepak", "date": "9 April 2026", "rating": 5, "title": "A very good electronic tool kit for kids", "body": "Very interesting robotic kit for kids interested in electronics."}
+    ],
+    "4_star": [
+      {"author": "Noah", "date": "23 July 2024", "rating": 4, "title": "Creative ideas", "body": "Original had faulty LED replaced promptly. Parts are a bit fragile and instructions had minor error on alarm bell connection. Overall creative idea."}
+    ],
+    "3_star": [
+      {"author": "Hari", "date": "31 March 2026", "rating": 3, "title": "Wrong instructions for Don't Pet Me Robot", "body": "IR sensor had short range and connections were tricky to remove from processor."}
+    ],
+    "2_star": [
+      {"author": "DE", "date": "16 August 2023", "rating": 2, "title": "Neat idea hamstrung by cheap materials", "body": "Balsa wood parts are flimsy and screw holes don't align precisely. Connectors are stiff for 8-year-olds."}
+    ],
+    "1_star": [
+      {"author": "Raghavendra SN", "date": "1 September 2025", "rating": 1, "title": "Doesn't work", "body": "Not even one project works. Jumper wires wobble and lose connection."}
+    ]
+  }
+}

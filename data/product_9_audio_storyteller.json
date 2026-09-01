@@ -1,0 +1,50 @@
+{
+  "product_id": "P009",
+  "name": "TARBULL SuperBuddy Screen-Free Audio Storyteller for Kids",
+  "category": "Educational Tech & Toys",
+  "specs": {
+    "Brand": "TARBULL",
+    "Connectivity": "Bluetooth / Open Content Ecosystem",
+    "Audio Output": "Mono Speaker",
+    "Material": "Acrylonitrile Butadiene Styrene (ABS Plastic)",
+    "Age Group": "3-10 Years",
+    "Key Features": "900+ rhymes & moral stories, 100% Screen-free, Voice recording feature, Family story upload"
+  },
+  "llama_output": [
+    {"aspect": "Screen-free Entertainment", "subaspects": ["reduces gadget time and screen addiction"]},
+    {"aspect": "Moral Stories and Audio Content", "subaspects": ["900+ rhymes, folk tales, freedom fighter stories"]},
+    {"aspect": "Battery Life & Charging", "subaspects": ["battery duration concerns and cable length"]},
+    {"aspect": "Audio Quality & Volume Control", "subaspects": ["speaker clarity vs volume auto-increase issues"]},
+    {"aspect": "Product Quality & After-Sales Support", "subaspects": ["sturdy ABS body vs repair center availability"]}
+  ],
+  "human_annotations": {
+    "Kartikey": ["Sound Quality", "Diversity of stories", "Durability", "Value for money"],
+    "Rahul": ["Ease to use", "Sound quality", "Easy to fix", "Long lasting", "Attractive"],
+    "Nakul": ["Sound Quality", "Engagement", "Battery life", "Value for money"]
+  },
+  "human_consensus": [
+    {"aspect": "Audio Quality & Speaker Performance", "subaspects": ["Clear voice pronunciation", "Soothing playback tone", "Volume control stability"]},
+    {"aspect": "Content Diversity & Screen-Free Learning", "subaspects": ["900+ moral stories & rhymes", "Custom voice recording", "Reduces screen addiction"]},
+    {"aspect": "Battery Life & Charging Convenience", "subaspects": ["Sustained battery runtime", "Unplugged playback portability"]},
+    {"aspect": "Durability & Child-Safe Build", "subaspects": ["Sturdy ABS plastic casing", "Drop resistant dinosaur design"]},
+    {"aspect": "Customer Service & Warranty Support", "subaspects": ["Prompt technical support", "Warranty replacement availability"]},
+    {"aspect": "Value for Money", "subaspects": ["Worth price for long-term educational engagement"]}
+  ],
+  "reviews": {
+    "5_star": [
+      {"author": "Raghu M J", "date": "18 January 2026", "rating": 5, "title": "The superbuddy has a lot of information", "body": "Good moral stories, freedom fighters. Simple interface for kids to use independently."}
+    ],
+    "4_star": [
+      {"author": "mahesh", "date": "1 June 2024", "rating": 4, "title": "Good no screen time for kids", "body": "Kids love Priyanka didi stories. Responsive customer service replaced device when update failed."}
+    ],
+    "3_star": [
+      {"author": "Rajamohan", "date": "19 March 2025", "rating": 3, "title": "Technical issues", "body": "Battery doesn't last as long as advertised and volume auto-increases."}
+    ],
+    "2_star": [
+      {"author": "Kraaftify", "date": "23 June 2025", "rating": 2, "title": "No after service", "body": "First came broken, second stopped working after 2 months."}
+    ],
+    "1_star": [
+      {"author": "Shivani Negi", "date": "23 February 2026", "rating": 1, "title": "Received Defective Item", "body": "Product is defective and not turning on unless plugged in continuously."}
+    ]
+  }
+}

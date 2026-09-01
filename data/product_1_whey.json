@@ -1,0 +1,172 @@
+{
+  "product_id": "P001",
+  "name": "MuscleBlaze Biozyme Performance Whey Protein Powder, French Vanilla Creme (1kg / 2.2lbs)",
+  "category": "Health & Supplements",
+  "specs": {
+    "Flavor": "French Vanilla Créme",
+    "Diet Type": "Vegetarian",
+    "Product Benefits": "Maximize Muscle gain, Muscle recovery, Support lean muscle gain",
+    "Protein Source": "Whey",
+    "Protein": "25 Grams per scoop",
+    "Vitamins And Minerals": "136.4 Milligrams",
+    "Supplement Formulation": "Individual Supplement",
+    "Key Claims": "Clinically Tested 50% Higher Protein Absorption, Scoop on Top"
+  },
+  "llama_output": [
+    {
+      "aspect": "Flavor Consistency",
+      "subaspects": ["taste", "sweetness level"]
+    },
+    {
+      "aspect": "Packaging Quality",
+      "subaspects": ["scoop spoon design", "protein scoop size"]
+    },
+    {
+      "aspect": "Price Stability",
+      "subaspects": ["monthly price increases", "affordability concern"]
+    },
+    {
+      "aspect": "Insect Infestation",
+      "subaspects": ["quality control issue", "safety concern"]
+    },
+    {
+      "aspect": "Protein Content",
+      "subaspects": ["amount per serving", "absorption rate"]
+    },
+    {
+      "aspect": "Brand Reliability",
+      "subaspects": ["customer trust", "repeated orders"]
+    },
+    {
+      "aspect": "Taste and Texture",
+      "subaspects": ["mixability with water/milk"]
+    },
+    {
+      "aspect": "Ingredient Quality",
+      "subaspects": ["artificial sweeteners", "presence of Sucralose"]
+    },
+    {
+      "aspect": "Customer Support",
+      "subaspects": ["response time", "resolution quality"]
+    },
+    {
+      "aspect": "Return Policy",
+      "subaspects": ["ease of returns", "refund process"]
+    }
+  ],
+  "human_annotations": {
+    "Kartikey": ["Protein content", "Scoop size", "Value for money", "Mixability", "Flavour"],
+    "Nakul": ["Vegetarian", "Taste", "Quality", "Effectiveness", "Money"],
+    "Anshul": ["Percentage of protein", "Pricing", "Mixability", "Taste", "Digestion"],
+    "Kushagra": ["Soy free", "Sugar free", "% of protein", "Taste", "Number of Flavours", "Mixability"],
+    "Aditya": ["Less calories", "More protein", "Mid range", "Clinically tested", "Good taste"]
+  },
+  "human_consensus": [
+    {
+      "aspect": "Protein Content & Nutritional Value",
+      "subaspects": ["High protein percentage", "Low calories", "Nutritionally balanced"]
+    },
+    {
+      "aspect": "Ingredient Quality & Composition",
+      "subaspects": ["Vegetarian", "Soy-free & sugar-free", "Clinically tested formulation"]
+    },
+    {
+      "aspect": "Taste & Flavour Variety",
+      "subaspects": ["Pleasant taste", "Multiple flavour options", "Sweetness control"]
+    },
+    {
+      "aspect": "Mixability & Consumption Experience",
+      "subaspects": ["Easy to mix", "Smooth consistency", "Good digestion & absorption"]
+    },
+    {
+      "aspect": "Effectiveness",
+      "subaspects": ["Delivers expected fitness/health results", "Muscle recovery"]
+    },
+    {
+      "aspect": "Value for Money",
+      "subaspects": ["Reasonable pricing", "Price stability", "Good overall quality and quantity"]
+    }
+  ],
+  "reviews": {
+    "5_star": [
+      {
+        "author": "Padma jigmet",
+        "date": "3 April 2026",
+        "rating": 5,
+        "title": "Good product",
+        "body": "Very good product 👍🏻👍🏻"
+      },
+      {
+        "author": "A",
+        "date": "10 May 2025",
+        "rating": 5,
+        "title": "Great quality and absorption",
+        "body": "Protein is genuine and effective for muscle recovery after workouts."
+      }
+    ],
+    "4_star": [
+      {
+        "author": "A",
+        "date": "10 May 2025",
+        "rating": 4,
+        "title": "Price increases every month",
+        "body": "Protein is good. Taste is good. But this company pricing is strange. They keep increasing 200 rupees every month. With this rate, it will no longer be affordable in few months. So if you are trying to rely on one protein brand, you should rethink."
+      },
+      {
+        "author": "Anchal Banrji",
+        "date": "25 January 2026",
+        "rating": 4,
+        "title": ".",
+        "body": "Long term use ke liye sahi hai"
+      }
+    ],
+    "3_star": [
+      {
+        "author": "aditya",
+        "date": "24 August 2025",
+        "rating": 3,
+        "title": "Flavour is too sweet",
+        "body": "Soo sweet that it's hard to have the required quantity even after mixing with lots of water and some milk. Otherwise ok."
+      },
+      {
+        "author": "Philip",
+        "date": "13 April 2025",
+        "rating": 3,
+        "title": "Too sweet and contains Sucralose.",
+        "body": "Taste is good. But it is too sweet. I am a sweet lover normally. But this is too sweet even for me. Protein and packaging are good. Especially the scoop spoon design. This protein contains Sucralose."
+      }
+    ],
+    "2_star": [
+      {
+        "author": "AMAR PAL",
+        "date": "24 July 2024",
+        "rating": 2,
+        "title": "i buy Vanilla Flavour & taste is very sweet , added artificial sweetener ?",
+        "body": "i buy Vanilla Flavour & taste is very sweet i feel like they have added artificial sweetener which is more bad than suger , but i did not see this in description mentioning about this"
+      },
+      {
+        "author": "Unverified User",
+        "date": "10 August 2024",
+        "rating": 2,
+        "title": "Very bad product",
+        "body": "Very bad product insect in box and customer service not reply for this issue"
+      }
+    ],
+    "1_star": [
+      {
+        "author": "Om",
+        "date": "30 January 2026",
+        "rating": 1,
+        "title": "Can’t Trust",
+        "body": "I’ve ordered it multiple times but this time it tastes weird and doesn’t mix properly with water and milk."
+      },
+      {
+        "author": "Anand Aalgi",
+        "date": "24 March 2026",
+        "rating": 1,
+        "title": "Too Wrost Product Calcium is Too High",
+        "body": "Too Wrost Product Calcium is Too High that reason We get Kidney Stone 🪨 so please do not buy the product 😭🙏"
+      }
+    ]
+  }
+}

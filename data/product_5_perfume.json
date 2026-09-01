@@ -1,0 +1,52 @@
+{
+  "product_id": "P005",
+  "name": "Denver Hamilton EDP & Beardo Whisky Smoke EDP Perfume for Men",
+  "category": "Beauty & Personal Care",
+  "specs": {
+    "Brand": "Denver / Beardo",
+    "Fragrance Classification": "Eau de Parfum (EDP)",
+    "Ideal For": "Men",
+    "Quantity": "100 ml / 50 ml",
+    "Fragrance Family": "Floral / Woody / Whisky Smoke",
+    "Key Features": "Masculine fragrance, Long-lasting scent, Top notes Tobacco & Whisky, Base notes Sandalwood & Oudh"
+  },
+  "llama_output": [
+    {"aspect": "Long-lasting fragrance", "subaspects": ["lasts for hours on skin and clothes"]},
+    {"aspect": "Fragrance type and classification", "subaspects": ["Eau de Parfum, masculine fragrance profile"]},
+    {"aspect": "Perfume size and value", "subaspects": ["100ml bottle size offering good value"]},
+    {"aspect": "Quality of scent", "subaspects": ["fresh, elegant signature scent vs poor scent concerns"]},
+    {"aspect": "Packaging Durability", "subaspects": ["bottle cap and nozzle integrity"]}
+  ],
+  "human_annotations": {
+    "Kartikey": ["Fragrance", "Effect duration", "Durability", "Volume", "Brand"],
+    "Rahul": ["Fragrance", "Bottle Appearance", "Duration"],
+    "Anshumaan": ["Long lasting fragrance", "Fragrance"],
+    "Nakul": ["Effect duration", "Durability", "Volume", "Scent"],
+    "Kushagra": ["Good fragrance", "Long lasting", "Good quantity", "Sturdy container"],
+    "Aditya": ["No sharp smell", "No gas", "Long lasting", "Masculine smell"]
+  },
+  "human_consensus": [
+    {"aspect": "Fragrance Profile & Scent Quality", "subaspects": ["Pleasant masculine scent", "No harsh chemical/sharp smell", "Exotic notes (whisky, sandalwood, vanilla)"]},
+    {"aspect": "Longevity & Effect Duration", "subaspects": ["Long-lasting fragrance performance", "Sustained sillage over 6-8 hours"]},
+    {"aspect": "Volume & Product Quantity", "subaspects": ["Adequate 100ml bottle volume", "Generous spray quantity"]},
+    {"aspect": "Durability & Packaging Quality", "subaspects": ["Sturdy glass bottle construction", "Leakproof spray nozzle & cap"]},
+    {"aspect": "Value for Money", "subaspects": ["Affordable price for Eau de Parfum quality"]}
+  ],
+  "reviews": {
+    "5_star": [
+      {"author": "Sejal pargal", "date": "4 December 2025", "rating": 5, "title": "Long lasting perfume", "body": "The fragrance is elegant, fresh, and long lasting. 100 ml bottle offers great value for money."}
+    ],
+    "4_star": [
+      {"author": "KB", "date": "3 February 2026", "rating": 4, "title": "Amazing fragrance", "body": "Nice fragrance but not lasting full day. Good for price."}
+    ],
+    "3_star": [
+      {"author": "Anoushka E.", "date": "14 May 2024", "rating": 3, "title": "Fragrance not long lasting", "body": "Lingering time reduces over hours."}
+    ],
+    "2_star": [
+      {"author": "Hasan", "date": "12 December 2021", "rating": 2, "title": "Waste of money", "body": "Poor scent, lasts only 20-30 minutes."}
+    ],
+    "1_star": [
+      {"author": "Anitha", "date": "31 March 2025", "rating": 1, "title": "Worst", "body": "After 1 hour you cannot feel the smell."}
+    ]
+  }
+}

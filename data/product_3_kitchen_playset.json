@@ -1,0 +1,46 @@
+{
+  "product_id": "P003",
+  "name": "Wooden Kitchen Set with Refrigerator for Kids | Pretend Cooking Playset",
+  "category": "Toys & Learning",
+  "specs": {
+    "Material": "Wood",
+    "Size": "30 cm x 65 cm x 90 cm",
+    "Colour": "Multicolor",
+    "Style": "Kitchen Playset",
+    "Brand": "THE DODOS STORE",
+    "Age Recommendation": "3 Years and Above",
+    "Key Features": "Realistic Kitchen Design (fridge, stove, oven, sink), Complete Cooking Set (pots, pans, utensils), Safe Wooden Material with smooth non-toxic edges"
+  },
+  "llama_output": [
+    {"aspect": "Durable Materials", "subaspects": ["non-toxic and smooth wooden construction"]},
+    {"aspect": "Safety Features", "subaspects": ["no reviews mention concerns, implying safe usage"]},
+    {"aspect": "Play Value", "subaspects": ["encourages creative role play and learning through pretend cooking"]},
+    {"aspect": "Aesthetics", "subaspects": ["realistic kitchen design with color recognition opportunities"]},
+    {"aspect": "Size and Portability", "subaspects": ["30 cm x 65 cm x 90 cm, suitable for indoor or outdoor use"]},
+    {"aspect": "Age Range Suitability", "subaspects": ["recommended for children aged 3+ years"]},
+    {"aspect": "Value for Money", "subaspects": ["playset suggesting potential value for educational purposes"]},
+    {"aspect": "Design and Functionality", "subaspects": ["complete cooking set with utensils, pots, pans"]}
+  ],
+  "human_annotations": {
+    "Kushagra": ["Safe for kids", "Non Toxic", "Not easily breakable", "Fun to play with", "Colorful"],
+    "Kartikey": ["Value for money", "Impact on children", "Durability", "Quality"],
+    "Rahul": ["Not harmful (soft)", "Durable", "Value for money", "Knowledge increasing", "Component exchangeable"],
+    "Anshumaan": ["Not too complicated", "Soft and safe"],
+    "Nakul": ["Size", "Value for money", "Durability", "Warranty"]
+  },
+  "human_consensus": [
+    {"aspect": "Safety & Child Friendliness", "subaspects": ["Soft, non-harmful design", "Safe non-toxic materials for children"]},
+    {"aspect": "Durability & Build Quality", "subaspects": ["Strong, long-lasting wooden construction", "Resistant to easy breaking"]},
+    {"aspect": "Educational Value & Usability", "subaspects": ["Enhances children learning", "Creative roleplay", "Not overly complex"]},
+    {"aspect": "Repairability & Maintenance", "subaspects": ["Replaceable parts", "Warranty support"]},
+    {"aspect": "Size & Suitability", "subaspects": ["Appropriate dimensions", "Fits play area comfortably"]},
+    {"aspect": "Value for Money", "subaspects": ["Reasonable price for full playset quality"]}
+  ],
+  "reviews": {
+    "5_star": [],
+    "4_star": [],
+    "3_star": [],
+    "2_star": [],
+    "1_star": []
+  }
+}

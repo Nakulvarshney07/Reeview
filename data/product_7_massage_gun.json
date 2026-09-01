@@ -1,0 +1,37 @@
+{
+  "product_id": "P007",
+  "name": "Cult Impact Deep Tissue Massage Gun (3000mAh Battery, 6-Speed Intensity)",
+  "category": "Health & Personal Care",
+  "specs": {
+    "Brand": "Cult / Cultsport",
+    "Battery Capacity": "3000mAh Lithium Rechargeable",
+    "Speed Settings": "6-Speed Adjustable Intensity",
+    "Head Attachments": "Silicone Round Head + 4 Interchangeable Massage Heads",
+    "Key Claims": "Deep tissue muscle recovery, 3x lifespan silicone head, quiet motor technology"
+  },
+  "llama_output": [
+    {"aspect": "Battery Capacity & Runtime", "subaspects": ["3000mAh battery life and charging speed"]},
+    {"aspect": "Massage Intensity & Speed Levels", "subaspects": ["6-speed adjustable intensity for deep tissue relief"]},
+    {"aspect": "Head Attachment Variety", "subaspects": ["Silicone round head durability and 4 custom heads"]},
+    {"aspect": "Build Quality & Motor Noise", "subaspects": ["Ergonomic grip and quiet motor operation"]},
+    {"aspect": "Value for Money", "subaspects": ["Affordability vs muscle recovery effectiveness"]}
+  ],
+  "human_annotations": {
+    "Nakul": ["Battery Life", "Massage Power & Speeds", "Attachment Quality", "Noise Level"],
+    "Kartikey": ["Durability", "Portability", "Effectiveness", "Value for Money"]
+  },
+  "human_consensus": [
+    {"aspect": "Battery Life & Power Management", "subaspects": ["Long 3000mAh battery runtime", "Fast USB charging"]},
+    {"aspect": "Massage Performance & Speed Intensity", "subaspects": ["Deep tissue penetration", "6-speed vibration control"]},
+    {"aspect": "Attachment Quality & Ergonomics", "subaspects": ["Durable 3x lifespan silicone round head", "Versatile massage heads for all muscle groups"]},
+    {"aspect": "Motor Noise & Heat Dissipation", "subaspects": ["Quiet motor operation", "Cooling vents during extended use"]},
+    {"aspect": "Build Quality & Portability", "subaspects": ["Non-slip silicone grip", "Lightweight portable design"]}
+  ],
+  "reviews": {
+    "5_star": [],
+    "4_star": [],
+    "3_star": [],
+    "2_star": [],
+    "1_star": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "product_id": "P006",
+  "name": "Boldfit Heavy Resistance Band Set for Exercise & Pull-Up Stretching",
+  "category": "Sports & Fitness",
+  "specs": {
+    "Brand": "Boldfit",
+    "Material": "100% Eco-Friendly Natural Latex",
+    "Resistance Levels": "5 Strength Levels (X-Light, Light, Medium, Heavy, X-Heavy / 3-30 kg)",
+    "Key Features": "Sweat-resistant, non-slip elasticity, Suitable for pull-ups, squats, physical therapy, full body workout"
+  },
+  "llama_output": [
+    {"aspect": "Durable Material", "subaspects": ["long-lasting, flexible, sweat-resistant latex"]},
+    {"aspect": "Resistance Level Variability", "subaspects": ["multiple tension levels 3kg to 30kg"]},
+    {"aspect": "Grip Quality", "subaspects": ["good non-slip grip during stretching"]},
+    {"aspect": "Band Size Consistency", "subaspects": ["width size consistency vs displayed pictures"]},
+    {"aspect": "Price-Performance Ratio", "subaspects": ["great value for money"]}
+  ],
+  "human_annotations": {
+    "Kartikey": ["Weight category", "Easy to use", "Durability"],
+    "Rahul": ["Grip", "Elasticity maintenance", "Hook quality"],
+    "Anshumaan": ["Handle comfort", "Band quality", "Hook quality"],
+    "Nakul": ["Easy to use", "Size", "Weights & tension"],
+    "Kushagra": ["Can bear high load", "Not easily breakable", "Different weights", "Flat and pipe variants"],
+    "Aditya": ["Multiple bands", "Durable", "Colorful", "Affordable"]
+  },
+  "human_consensus": [
+    {"aspect": "Resistance Levels & Weight Options", "subaspects": ["Multiple strength categories (3kg - 30kg)", "Consistent variable tension"]},
+    {"aspect": "Material Quality & Durability", "subaspects": ["100% Natural latex construction", "Resistant to snapping under high load", "Maintains elasticity over time"]},
+    {"aspect": "Comfort & Grip Performance", "subaspects": ["Non-slip surface texture", "Comfortable handling during pull-ups"]},
+    {"aspect": "Versatility & Portability", "subaspects": ["Suitable for home gym & travel", "Full body training support"]},
+    {"aspect": "Value for Money", "subaspects": ["Affordable pricing for multi-band set"]}
+  ],
+  "reviews": {
+    "5_star": [
+      {"author": "Arihant.Sasank", "date": "7 April 2026", "rating": 5, "title": "Good useful", "body": "Very good product. Helps muscles keep tense during workout intervals."}
+    ],
+    "4_star": [
+      {"author": "Lizard", "date": "15 March 2026", "rating": 4, "title": "Nearly a Year In and Still Going Strong", "body": "Been using for almost a year, zero signs of wear, no snapping. Variable resistance takes getting used to for pullups but amazing for pushups and arms."}
+    ],
+    "3_star": [
+      {"author": "Kunal", "date": "28 August 2025", "rating": 3, "title": "Band resize", "body": "Band width size is slightly thinner than displayed images, but quality is ok."}
+    ],
+    "2_star": [
+      {"author": "Abhishek", "date": "12 October 2025", "rating": 2, "title": "Slightly disappointed", "body": "Too thin compared to displayed picture, only 1/2 cm width."}
+    ],
+    "1_star": [
+      {"author": "Amar yadav", "date": "4 April 2026", "rating": 1, "title": "Bad Quality", "body": "Snaps easily under heavy tension, waste of money."}
+    ]
+  }
+}

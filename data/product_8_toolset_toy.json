@@ -1,0 +1,42 @@
+{
+  "product_id": "P008",
+  "name": "Biltoxi Interactive Tool / Roleplay Toy Bench Playset for Toddlers",
+  "category": "Toys & Roleplay",
+  "specs": {
+    "Brand": "Biltoxi",
+    "Material": "Non-Toxic ABS Plastic",
+    "Colour": "Multicolor",
+    "Style": "Tool Set / Workbench",
+    "Age Recommended": "36 Months (3 Years+)",
+    "Key Features": "21 realistic tool parts (nuts, screws, saw, wrench), Portable compact toolbox case, Enhances fine motor skills"
+  },
+  "llama_output": [
+    {"aspect": "Durable Materials", "subaspects": ["sturdy plastic construction"]},
+    {"aspect": "Comprehensive Tool Set", "subaspects": ["21 realistic nuts, screws, saw, wrench"]},
+    {"aspect": "Portability & Convenience", "subaspects": ["carrying toolbox case size"]},
+    {"aspect": "Quality Control & Assembly", "subaspects": ["top lock key fitting issues and plastic quality"]}
+  ],
+  "human_annotations": {
+    "Kartikey": ["Quality", "Material", "Value for money"],
+    "Nakul": ["Quality", "Fixing & Assembly"],
+    "Rahul": ["Safe for kids", "Non-toxic", "Not easily breakable", "Colorful"]
+  },
+  "human_consensus": [
+    {"aspect": "Material Safety & Child Friendliness", "subaspects": ["Non-toxic smooth plastic", "Safe for toddlers"]},
+    {"aspect": "Component Quality & Assembly", "subaspects": ["Sturdy tool parts", "Lock key fitting & durability"]},
+    {"aspect": "Skill Development & Play Value", "subaspects": ["Fine motor skills enhancement", "Imaginative roleplay"]},
+    {"aspect": "Portability & Carrying Case", "subaspects": ["Compact carrying toolbox", "Easy travel storage"]},
+    {"aspect": "Value for Money", "subaspects": ["Fair pricing for 21-piece set"]}
+  ],
+  "reviews": {
+    "4_star": [
+      {"author": "Madhavi", "date": "24 October 2022", "rating": 4, "title": "Good product", "body": "Top most part is not fixing properly, but sturdiness is satisfying."}
+    ],
+    "2_star": [
+      {"author": "Neeti Agarwal", "date": "20 September 2022", "rating": 2, "title": "Not much Happy", "body": "Assembling was easy but toys feel a bit overpriced for plastic quality."}
+    ],
+    "1_star": [
+      {"author": "parul", "date": "10 August 2022", "rating": 1, "title": "Very bad quality", "body": "Missing items and felt like a doctor set instead of kitchen/tool set."}
+    ]
+  }
+}

@@ -1,0 +1,1015 @@
+[
+  {
+    "product_id": "P004",
+    "name": "Butterfly Edufields 10-in-1 STEM Robotics Kit for Kids Ages 8-14",
+    "category": "STEM Toys & Robotics",
+    "input_text": "Product Title:\nButterfly Edufields 10-in-1 STEM Robotics Kit for Kids Ages 8-14\n\nSpecifications:\n- Brand: Butterfly EduFields\n- Size: 10 x 20 x 2 cm\n- Age Range: 8-14 Years\n- Components: 100+ parts (wires, switches, motors, connectors, LED modules)\n- Key Features: Build 10 working robots, Illustrated step-by-step building guide, Electronic logic & automation learning\n\n5-star reviews:\n- \"Good for students\": Nice robotic tool kit for beginners.\n- \"A very good electronic tool kit for kids\": Very interesting robotic kit for kids interested in electronics.\n\n4-star reviews:\n- \"Creative ideas\": Original had faulty LED replaced promptly. Parts are a bit fragile and instructions had minor error on alarm bell connection. Overall creative idea.\n\n3-star reviews:\n- \"Wrong instructions for Don't Pet Me Robot\": IR sensor had short range and connections were tricky to remove from processor.\n\n2-star reviews:\n- \"Neat idea hamstrung by cheap materials\": Balsa wood parts are flimsy and screw holes don't align precisely. Connectors are stiff for 8-year-olds.\n\n1-star reviews:\n- \"Doesn't work\": Not even one project works. Jumper wires wobble and lose connection.",
+    "specs": {
+      "Brand": "Butterfly EduFields",
+      "Size": "10 x 20 x 2 cm",
+      "Age Range": "8-14 Years",
+      "Components": "100+ parts (wires, switches, motors, connectors, LED modules)",
+      "Key Features": "Build 10 working robots, Illustrated step-by-step building guide, Electronic logic & automation learning"
+    },
+    "reviews": {
+      "5_star": [
+        {
+          "author": "Parijat tripathi",
+          "date": "7 April 2026",
+          "rating": 5,
+          "title": "Good for students",
+          "body": "Nice robotic tool kit for beginners."
+        },
+        {
+          "author": "Deepak",
+          "date": "9 April 2026",
+          "rating": 5,
+          "title": "A very good electronic tool kit for kids",
+          "body": "Very interesting robotic kit for kids interested in electronics."
+        }
+      ],
+      "4_star": [
+        {
+          "author": "Noah",
+          "date": "23 July 2024",
+          "rating": 4,
+          "title": "Creative ideas",
+          "body": "Original had faulty LED replaced promptly. Parts are a bit fragile and instructions had minor error on alarm bell connection. Overall creative idea."
+        }
+      ],
+      "3_star": [
+        {
+          "author": "Hari",
+          "date": "31 March 2026",
+          "rating": 3,
+          "title": "Wrong instructions for Don't Pet Me Robot",
+          "body": "IR sensor had short range and connections were tricky to remove from processor."
+        }
+      ],
+      "2_star": [
+        {
+          "author": "DE",
+          "date": "16 August 2023",
+          "rating": 2,
+          "title": "Neat idea hamstrung by cheap materials",
+          "body": "Balsa wood parts are flimsy and screw holes don't align precisely. Connectors are stiff for 8-year-olds."
+        }
+      ],
+      "1_star": [
+        {
+          "author": "Raghavendra SN",
+          "date": "1 September 2025",
+          "rating": 1,
+          "title": "Doesn't work",
+          "body": "Not even one project works. Jumper wires wobble and lose connection."
+        }
+      ]
+    },
+    "human_annotations": {
+      "Kushagra": [
+        "Safe from electric shock",
+        "Not easily breakable",
+        "Non toxic materials"
+      ],
+      "Kartikey": [
+        "Quality",
+        "Value for money",
+        "Impactful STEM learning"
+      ],
+      "Rahul": [
+        "Not harmful",
+        "Durable",
+        "Value for money",
+        "Knowledge increasing",
+        "Repairable"
+      ],
+      "Nakul": [
+        "Quality",
+        "All components present",
+        "Durability"
+      ]
+    },
+    "ground_truth": [
+      {
+        "aspect": "Component Quality & Reliability",
+        "sub_aspects": [
+          "Sturdy connectors & motors",
+          "Durable non-flimsy materials"
+        ]
+      },
+      {
+        "aspect": "Instruction Manual & Ease of Assembly",
+        "sub_aspects": [
+          "Clear step-by-step illustrations",
+          "Accurate wiring diagrams"
+        ]
+      },
+      {
+        "aspect": "STEM Educational Value",
+        "sub_aspects": [
+          "Hands-on robotics concepts",
+          "Circuit logic and problem-solving skills"
+        ]
+      },
+      {
+        "aspect": "Safety & Child Friendliness",
+        "sub_aspects": [
+          "Low voltage electric safety",
+          "Non-toxic and smooth edge components"
+        ]
+      },
+      {
+        "aspect": "Completeness & Packaging",
+        "sub_aspects": [
+          "All 100+ screws & sensors included",
+          "No missing parts"
+        ]
+      },
+      {
+        "aspect": "Value for Money",
+        "sub_aspects": [
+          "Reasonable price for 10-in-1 robot project variety"
+        ]
+      }
+    ],
+    "llama_output": [
+      {
+        "aspect": "Durable Materials",
+        "subaspects": [
+          "fragile parts concern in reviews"
+        ]
+      },
+      {
+        "aspect": "Ease of Assembly",
+        "subaspects": [
+          "unclear instructions and poor fitting parts"
+        ]
+      },
+      {
+        "aspect": "Comprehensive Component Set",
+        "subaspects": [
+          "modular electronics and variety of projects"
+        ]
+      },
+      {
+        "aspect": "Instructions and Guides",
+        "subaspects": [
+          "illustrated manual clarity"
+        ]
+      },
+      {
+        "aspect": "Quality Control",
+        "subaspects": [
+          "flimsy balsa wood stands and connector stiffness"
+        ]
+      },
+      {
+        "aspect": "Age Suitability",
+        "subaspects": [
+          "suitable for 8-14 years"
+        ]
+      },
+      {
+        "aspect": "Value for Money",
+        "subaspects": [
+          "debate due to missing items and assembly frustration"
+        ]
+      }
+    ]
+  },
+  {
+    "product_id": "P005",
+    "name": "Denver Hamilton EDP & Beardo Whisky Smoke EDP Perfume for Men",
+    "category": "Beauty & Personal Care",
+    "input_text": "Product Title:\nDenver Hamilton EDP & Beardo Whisky Smoke EDP Perfume for Men\n\nSpecifications:\n- Brand: Denver / Beardo\n- Fragrance Classification: Eau de Parfum (EDP)\n- Ideal For: Men\n- Quantity: 100 ml / 50 ml\n- Fragrance Family: Floral / Woody / Whisky Smoke\n- Key Features: Masculine fragrance, Long-lasting scent, Top notes Tobacco & Whisky, Base notes Sandalwood & Oudh\n\n5-star reviews:\n- \"Long lasting perfume\": The fragrance is elegant, fresh, and long lasting. 100 ml bottle offers great value for money.\n\n4-star reviews:\n- \"Amazing fragrance\": Nice fragrance but not lasting full day. Good for price.\n\n3-star reviews:\n- \"Fragrance not long lasting\": Lingering time reduces over hours.\n\n2-star reviews:\n- \"Waste of money\": Poor scent, lasts only 20-30 minutes.\n\n1-star reviews:\n- \"Worst\": After 1 hour you cannot feel the smell.",
+    "specs": {
+      "Brand": "Denver / Beardo",
+      "Fragrance Classification": "Eau de Parfum (EDP)",
+      "Ideal For": "Men",
+      "Quantity": "100 ml / 50 ml",
+      "Fragrance Family": "Floral / Woody / Whisky Smoke",
+      "Key Features": "Masculine fragrance, Long-lasting scent, Top notes Tobacco & Whisky, Base notes Sandalwood & Oudh"
+    },
+    "reviews": {
+      "5_star": [
+        {
+          "author": "Sejal pargal",
+          "date": "4 December 2025",
+          "rating": 5,
+          "title": "Long lasting perfume",
+          "body": "The fragrance is elegant, fresh, and long lasting. 100 ml bottle offers great value for money."
+        }
+      ],
+      "4_star": [
+        {
+          "author": "KB",
+          "date": "3 February 2026",
+          "rating": 4,
+          "title": "Amazing fragrance",
+          "body": "Nice fragrance but not lasting full day. Good for price."
+        }
+      ],
+      "3_star": [
+        {
+          "author": "Anoushka E.",
+          "date": "14 May 2024",
+          "rating": 3,
+          "title": "Fragrance not long lasting",
+          "body": "Lingering time reduces over hours."
+        }
+      ],
+      "2_star": [
+        {
+          "author": "Hasan",
+          "date": "12 December 2021",
+          "rating": 2,
+          "title": "Waste of money",
+          "body": "Poor scent, lasts only 20-30 minutes."
+        }
+      ],
+      "1_star": [
+        {
+          "author": "Anitha",
+          "date": "31 March 2025",
+          "rating": 1,
+          "title": "Worst",
+          "body": "After 1 hour you cannot feel the smell."
+        }
+      ]
+    },
+    "human_annotations": {
+      "Kartikey": [
+        "Fragrance",
+        "Effect duration",
+        "Durability",
+        "Volume",
+        "Brand"
+      ],
+      "Rahul": [
+        "Fragrance",
+        "Bottle Appearance",
+        "Duration"
+      ],
+      "Anshumaan": [
+        "Long lasting fragrance",
+        "Fragrance"
+      ],
+      "Nakul": [
+        "Effect duration",
+        "Durability",
+        "Volume",
+        "Scent"
+      ],
+      "Kushagra": [
+        "Good fragrance",
+        "Long lasting",
+        "Good quantity",
+        "Sturdy container"
+      ],
+      "Aditya": [
+        "No sharp smell",
+        "No gas",
+        "Long lasting",
+        "Masculine smell"
+      ]
+    },
+    "ground_truth": [
+      {
+        "aspect": "Fragrance Profile & Scent Quality",
+        "sub_aspects": [
+          "Pleasant masculine scent",
+          "No harsh chemical/sharp smell",
+          "Exotic notes (whisky, sandalwood, vanilla)"
+        ]
+      },
+      {
+        "aspect": "Longevity & Effect Duration",
+        "sub_aspects": [
+          "Long-lasting fragrance performance",
+          "Sustained sillage over 6-8 hours"
+        ]
+      },
+      {
+        "aspect": "Volume & Product Quantity",
+        "sub_aspects": [
+          "Adequate 100ml bottle volume",
+          "Generous spray quantity"
+        ]
+      },
+      {
+        "aspect": "Durability & Packaging Quality",
+        "sub_aspects": [
+          "Sturdy glass bottle construction",
+          "Leakproof spray nozzle & cap"
+        ]
+      },
+      {
+        "aspect": "Value for Money",
+        "sub_aspects": [
+          "Affordable price for Eau de Parfum quality"
+        ]
+      }
+    ],
+    "llama_output": [
+      {
+        "aspect": "Long-lasting fragrance",
+        "subaspects": [
+          "lasts for hours on skin and clothes"
+        ]
+      },
+      {
+        "aspect": "Fragrance type and classification",
+        "subaspects": [
+          "Eau de Parfum, masculine fragrance profile"
+        ]
+      },
+      {
+        "aspect": "Perfume size and value",
+        "subaspects": [
+          "100ml bottle size offering good value"
+        ]
+      },
+      {
+        "aspect": "Quality of scent",
+        "subaspects": [
+          "fresh, elegant signature scent vs poor scent concerns"
+        ]
+      },
+      {
+        "aspect": "Packaging Durability",
+        "subaspects": [
+          "bottle cap and nozzle integrity"
+        ]
+      }
+    ]
+  },
+  {
+    "product_id": "P003",
+    "name": "Wooden Kitchen Set with Refrigerator for Kids | Pretend Cooking Playset",
+    "category": "Toys & Learning",
+    "input_text": "Product Title:\nWooden Kitchen Set with Refrigerator for Kids | Pretend Cooking Playset\n\nSpecifications:\n- Material: Wood\n- Size: 30 cm x 65 cm x 90 cm\n- Colour: Multicolor\n- Style: Kitchen Playset\n- Brand: THE DODOS STORE\n- Age Recommendation: 3 Years and Above\n- Key Features: Realistic Kitchen Design (fridge, stove, oven, sink), Complete Cooking Set (pots, pans, utensils), Safe Wooden Material with smooth non-toxic edges",
+    "specs": {
+      "Material": "Wood",
+      "Size": "30 cm x 65 cm x 90 cm",
+      "Colour": "Multicolor",
+      "Style": "Kitchen Playset",
+      "Brand": "THE DODOS STORE",
+      "Age Recommendation": "3 Years and Above",
+      "Key Features": "Realistic Kitchen Design (fridge, stove, oven, sink), Complete Cooking Set (pots, pans, utensils), Safe Wooden Material with smooth non-toxic edges"
+    },
+    "reviews": {
+      "5_star": [],
+      "4_star": [],
+      "3_star": [],
+      "2_star": [],
+      "1_star": []
+    },
+    "human_annotations": {
+      "Kushagra": [
+        "Safe for kids",
+        "Non Toxic",
+        "Not easily breakable",
+        "Fun to play with",
+        "Colorful"
+      ],
+      "Kartikey": [
+        "Value for money",
+        "Impact on children",
+        "Durability",
+        "Quality"
+      ],
+      "Rahul": [
+        "Not harmful (soft)",
+        "Durable",
+        "Value for money",
+        "Knowledge increasing",
+        "Component exchangeable"
+      ],
+      "Anshumaan": [
+        "Not too complicated",
+        "Soft and safe"
+      ],
+      "Nakul": [
+        "Size",
+        "Value for money",
+        "Durability",
+        "Warranty"
+      ]
+    },
+    "ground_truth": [
+      {
+        "aspect": "Safety & Child Friendliness",
+        "sub_aspects": [
+          "Soft, non-harmful design",
+          "Safe non-toxic materials for children"
+        ]
+      },
+      {
+        "aspect": "Durability & Build Quality",
+        "sub_aspects": [
+          "Strong, long-lasting wooden construction",
+          "Resistant to easy breaking"
+        ]
+      },
+      {
+        "aspect": "Educational Value & Usability",
+        "sub_aspects": [
+          "Enhances children learning",
+          "Creative roleplay",
+          "Not overly complex"
+        ]
+      },
+      {
+        "aspect": "Repairability & Maintenance",
+        "sub_aspects": [
+          "Replaceable parts",
+          "Warranty support"
+        ]
+      },
+      {
+        "aspect": "Size & Suitability",
+        "sub_aspects": [
+          "Appropriate dimensions",
+          "Fits play area comfortably"
+        ]
+      },
+      {
+        "aspect": "Value for Money",
+        "sub_aspects": [
+          "Reasonable price for full playset quality"
+        ]
+      }
+    ],
+    "llama_output": [
+      {
+        "aspect": "Durable Materials",
+        "subaspects": [
+          "non-toxic and smooth wooden construction"
+        ]
+      },
+      {
+        "aspect": "Safety Features",
+        "subaspects": [
+          "no reviews mention concerns, implying safe usage"
+        ]
+      },
+      {
+        "aspect": "Play Value",
+        "subaspects": [
+          "encourages creative role play and learning through pretend cooking"
+        ]
+      },
+      {
+        "aspect": "Aesthetics",
+        "subaspects": [
+          "realistic kitchen design with color recognition opportunities"
+        ]
+      },
+      {
+        "aspect": "Size and Portability",
+        "subaspects": [
+          "30 cm x 65 cm x 90 cm, suitable for indoor or outdoor use"
+        ]
+      },
+      {
+        "aspect": "Age Range Suitability",
+        "subaspects": [
+          "recommended for children aged 3+ years"
+        ]
+      },
+      {
+        "aspect": "Value for Money",
+        "subaspects": [
+          "playset suggesting potential value for educational purposes"
+        ]
+      },
+      {
+        "aspect": "Design and Functionality",
+        "subaspects": [
+          "complete cooking set with utensils, pots, pans"
+        ]
+      }
+    ]
+  },
+  {
+    "product_id": "P007",
+    "name": "Cult Impact Deep Tissue Massage Gun (3000mAh Battery, 6-Speed Intensity)",
+    "category": "Health & Personal Care",
+    "input_text": "Product Title:\nCult Impact Deep Tissue Massage Gun (3000mAh Battery, 6-Speed Intensity)\n\nSpecifications:\n- Brand: Cult / Cultsport\n- Battery Capacity: 3000mAh Lithium Rechargeable\n- Speed Settings: 6-Speed Adjustable Intensity\n- Head Attachments: Silicone Round Head + 4 Interchangeable Massage Heads\n- Key Claims: Deep tissue muscle recovery, 3x lifespan silicone head, quiet motor technology",
+    "specs": {
+      "Brand": "Cult / Cultsport",
+      "Battery Capacity": "3000mAh Lithium Rechargeable",
+      "Speed Settings": "6-Speed Adjustable Intensity",
+      "Head Attachments": "Silicone Round Head + 4 Interchangeable Massage Heads",
+      "Key Claims": "Deep tissue muscle recovery, 3x lifespan silicone head, quiet motor technology"
+    },
+    "reviews": {
+      "5_star": [],
+      "4_star": [],
+      "3_star": [],
+      "2_star": [],
+      "1_star": []
+    },
+    "human_annotations": {
+      "Nakul": [
+        "Battery Life",
+        "Massage Power & Speeds",
+        "Attachment Quality",
+        "Noise Level"
+      ],
+      "Kartikey": [
+        "Durability",
+        "Portability",
+        "Effectiveness",
+        "Value for Money"
+      ]
+    },
+    "ground_truth": [
+      {
+        "aspect": "Battery Life & Power Management",
+        "sub_aspects": [
+          "Long 3000mAh battery runtime",
+          "Fast USB charging"
+        ]
+      },
+      {
+        "aspect": "Massage Performance & Speed Intensity",
+        "sub_aspects": [
+          "Deep tissue penetration",
+          "6-speed vibration control"
+        ]
+      },
+      {
+        "aspect": "Attachment Quality & Ergonomics",
+        "sub_aspects": [
+          "Durable 3x lifespan silicone round head",
+          "Versatile massage heads for all muscle groups"
+        ]
+      },
+      {
+        "aspect": "Motor Noise & Heat Dissipation",
+        "sub_aspects": [
+          "Quiet motor operation",
+          "Cooling vents during extended use"
+        ]
+      },
+      {
+        "aspect": "Build Quality & Portability",
+        "sub_aspects": [
+          "Non-slip silicone grip",
+          "Lightweight portable design"
+        ]
+      }
+    ],
+    "llama_output": [
+      {
+        "aspect": "Battery Capacity & Runtime",
+        "subaspects": [
+          "3000mAh battery life and charging speed"
+        ]
+      },
+      {
+        "aspect": "Massage Intensity & Speed Levels",
+        "subaspects": [
+          "6-speed adjustable intensity for deep tissue relief"
+        ]
+      },
+      {
+        "aspect": "Head Attachment Variety",
+        "subaspects": [
+          "Silicone round head durability and 4 custom heads"
+        ]
+      },
+      {
+        "aspect": "Build Quality & Motor Noise",
+        "subaspects": [
+          "Ergonomic grip and quiet motor operation"
+        ]
+      },
+      {
+        "aspect": "Value for Money",
+        "subaspects": [
+          "Affordability vs muscle recovery effectiveness"
+        ]
+      }
+    ]
+  },
+  {
+    "product_id": "P001",
+    "name": "MuscleBlaze Biozyme Performance Whey Protein Powder, French Vanilla Creme (1kg / 2.2lbs)",
+    "category": "Health & Supplements",
+    "input_text": "Product Title:\nMuscleBlaze Biozyme Performance Whey Protein Powder, French Vanilla Creme (1kg / 2.2lbs)\n\nSpecifications:\n- Flavor: French Vanilla Cr\u00e9me\n- Diet Type: Vegetarian\n- Product Benefits: Maximize Muscle gain, Muscle recovery, Support lean muscle gain\n- Protein Source: Whey\n- Protein: 25 Grams per scoop\n- Vitamins And Minerals: 136.4 Milligrams\n- Supplement Formulation: Individual Supplement\n- Key Claims: Clinically Tested 50% Higher Protein Absorption, Scoop on Top\n\n5-star reviews:\n- \"Good product\": Very good product \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\n- \"Great quality and absorption\": Protein is genuine and effective for muscle recovery after workouts.\n\n4-star reviews:\n- \"Price increases every month\": Protein is good. Taste is good. But this company pricing is strange. They keep increasing 200 rupees every month. With this rate, it will no longer be affordable in few months. So if you are trying to rely on one protein brand, you should rethink.\n- \".\": Long term use ke liye sahi hai\n\n3-star reviews:\n- \"Flavour is too sweet\": Soo sweet that it's hard to have the required quantity even after mixing with lots of water and some milk. Otherwise ok.\n- \"Too sweet and contains Sucralose.\": Taste is good. But it is too sweet. I am a sweet lover normally. But this is too sweet even for me. Protein and packaging are good. Especially the scoop spoon design. This protein contains Sucralose.\n\n2-star reviews:\n- \"i buy Vanilla Flavour & taste is very sweet , added artificial sweetener ?\": i buy Vanilla Flavour & taste is very sweet i feel like they have added artificial sweetener which is more bad than suger , but i did not see this in description mentioning about this\n- \"Very bad product\": Very bad product insect in box and customer service not reply for this issue\n\n1-star reviews:\n- \"Can\u2019t Trust\": I\u2019ve ordered it multiple times but this time it tastes weird and doesn\u2019t mix properly with water and milk.\n- \"Too Wrost Product Calcium is Too High\": Too Wrost Product Calcium is Too High that reason We get Kidney Stone \ud83e\udea8 so please do not buy the product \ud83d\ude2d\ud83d\ude4f",
+    "specs": {
+      "Flavor": "French Vanilla Cr\u00e9me",
+      "Diet Type": "Vegetarian",
+      "Product Benefits": "Maximize Muscle gain, Muscle recovery, Support lean muscle gain",
+      "Protein Source": "Whey",
+      "Protein": "25 Grams per scoop",
+      "Vitamins And Minerals": "136.4 Milligrams",
+      "Supplement Formulation": "Individual Supplement",
+      "Key Claims": "Clinically Tested 50% Higher Protein Absorption, Scoop on Top"
+    },
+    "reviews": {
+      "5_star": [
+        {
+          "author": "Padma jigmet",
+          "date": "3 April 2026",
+          "rating": 5,
+          "title": "Good product",
+          "body": "Very good product \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb"
+        },
+        {
+          "author": "A",
+          "date": "10 May 2025",
+          "rating": 5,
+          "title": "Great quality and absorption",
+          "body": "Protein is genuine and effective for muscle recovery after workouts."
+        }
+      ],
+      "4_star": [
+        {
+          "author": "A",
+          "date": "10 May 2025",
+          "rating": 4,
+          "title": "Price increases every month",
+          "body": "Protein is good. Taste is good. But this company pricing is strange. They keep increasing 200 rupees every month. With this rate, it will no longer be affordable in few months. So if you are trying to rely on one protein brand, you should rethink."
+        },
+        {
+          "author": "Anchal Banrji",
+          "date": "25 January 2026",
+          "rating": 4,
+          "title": ".",
+          "body": "Long term use ke liye sahi hai"
+        }
+      ],
+      "3_star": [
+        {
+          "author": "aditya",
+          "date": "24 August 2025",
+          "rating": 3,
+          "title": "Flavour is too sweet",
+          "body": "Soo sweet that it's hard to have the required quantity even after mixing with lots of water and some milk. Otherwise ok."
+        },
+        {
+          "author": "Philip",
+          "date": "13 April 2025",
+          "rating": 3,
+          "title": "Too sweet and contains Sucralose.",
+          "body": "Taste is good. But it is too sweet. I am a sweet lover normally. But this is too sweet even for me. Protein and packaging are good. Especially the scoop spoon design. This protein contains Sucralose."
+        }
+      ],
+      "2_star": [
+        {
+          "author": "AMAR PAL",
+          "date": "24 July 2024",
+          "rating": 2,
+          "title": "i buy Vanilla Flavour & taste is very sweet , added artificial sweetener ?",
+          "body": "i buy Vanilla Flavour & taste is very sweet i feel like they have added artificial sweetener which is more bad than suger , but i did not see this in description mentioning about this"
+        },
+        {
+          "author": "Unverified User",
+          "date": "10 August 2024",
+          "rating": 2,
+          "title": "Very bad product",
+          "body": "Very bad product insect in box and customer service not reply for this issue"
+        }
+      ],
+      "1_star": [
+        {
+          "author": "Om",
+          "date": "30 January 2026",
+          "rating": 1,
+          "title": "Can\u2019t Trust",
+          "body": "I\u2019ve ordered it multiple times but this time it tastes weird and doesn\u2019t mix properly with water and milk."
+        },
+        {
+          "author": "Anand Aalgi",
+          "date": "24 March 2026",
+          "rating": 1,
+          "title": "Too Wrost Product Calcium is Too High",
+          "body": "Too Wrost Product Calcium is Too High that reason We get Kidney Stone \ud83e\udea8 so please do not buy the product \ud83d\ude2d\ud83d\ude4f"
+        }
+      ]
+    },
+    "human_annotations": {
+      "Kartikey": [
+        "Protein content",
+        "Scoop size",
+        "Value for money",
+        "Mixability",
+        "Flavour"
+      ],
+      "Nakul": [
+        "Vegetarian",
+        "Taste",
+        "Quality",
+        "Effectiveness",
+        "Money"
+      ],
+      "Anshul": [
+        "Percentage of protein",
+        "Pricing",
+        "Mixability",
+        "Taste",
+        "Digestion"
+      ],
+      "Kushagra": [
+        "Soy free",
+        "Sugar free",
+        "% of protein",
+        "Taste",
+        "Number of Flavours",
+        "Mixability"
+      ],
+      "Aditya": [
+        "Less calories",
+        "More protein",
+        "Mid range",
+        "Clinically tested",
+        "Good taste"
+      ]
+    },
+    "ground_truth": [
+      {
+        "aspect": "Protein Content & Nutritional Value",
+        "sub_aspects": [
+          "High protein percentage",
+          "Low calories",
+          "Nutritionally balanced"
+        ]
+      },
+      {
+        "aspect": "Ingredient Quality & Composition",
+        "sub_aspects": [
+          "Vegetarian",
+          "Soy-free & sugar-free",
+          "Clinically tested formulation"
+        ]
+      },
+      {
+        "aspect": "Taste & Flavour Variety",
+        "sub_aspects": [
+          "Pleasant taste",
+          "Multiple flavour options",
+          "Sweetness control"
+        ]
+      },
+      {
+        "aspect": "Mixability & Consumption Experience",
+        "sub_aspects": [
+          "Easy to mix",
+          "Smooth consistency",
+          "Good digestion & absorption"
+        ]
+      },
+      {
+        "aspect": "Effectiveness",
+        "sub_aspects": [
+          "Delivers expected fitness/health results",
+          "Muscle recovery"
+        ]
+      },
+      {
+        "aspect": "Value for Money",
+        "sub_aspects": [
+          "Reasonable pricing",
+          "Price stability",
+          "Good overall quality and quantity"
+        ]
+      }
+    ],
+    "llama_output": [
+      {
+        "aspect": "Flavor Consistency",
+        "subaspects": [
+          "taste",
+          "sweetness level"
+        ]
+      },
+      {
+        "aspect": "Packaging Quality",
+        "subaspects": [
+          "scoop spoon design",
+          "protein scoop size"
+        ]
+      },
+      {
+        "aspect": "Price Stability",
+        "subaspects": [
+          "monthly price increases",
+          "affordability concern"
+        ]
+      },
+      {
+        "aspect": "Insect Infestation",
+        "subaspects": [
+          "quality control issue",
+          "safety concern"
+        ]
+      },
+      {
+        "aspect": "Protein Content",
+        "subaspects": [
+          "amount per serving",
+          "absorption rate"
+        ]
+      },
+      {
+        "aspect": "Brand Reliability",
+        "subaspects": [
+          "customer trust",
+          "repeated orders"
+        ]
+      },
+      {
+        "aspect": "Taste and Texture",
+        "subaspects": [
+          "mixability with water/milk"
+        ]
+      },
+      {
+        "aspect": "Ingredient Quality",
+        "subaspects": [
+          "artificial sweeteners",
+          "presence of Sucralose"
+        ]
+      },
+      {
+        "aspect": "Customer Support",
+        "subaspects": [
+          "response time",
+          "resolution quality"
+        ]
+      },
+      {
+        "aspect": "Return Policy",
+        "subaspects": [
+          "ease of returns",
+          "refund process"
+        ]
+      }
+    ]
+  },
+  {
+    "product_id": "P006",
+    "name": "Boldfit Heavy Resistance Band Set for Exercise & Pull-Up Stretching",
+    "category": "Sports & Fitness",
+    "input_text": "Product Title:\nBoldfit Heavy Resistance Band Set for Exercise & Pull-Up Stretching\n\nSpecifications:\n- Brand: Boldfit\n- Material: 100% Eco-Friendly Natural Latex\n- Resistance Levels: 5 Strength Levels (X-Light, Light, Medium, Heavy, X-Heavy / 3-30 kg)\n- Key Features: Sweat-resistant, non-slip elasticity, Suitable for pull-ups, squats, physical therapy, full body workout\n\n5-star reviews:\n- \"Good useful\": Very good product. Helps muscles keep tense during workout intervals.\n\n4-star reviews:\n- \"Nearly a Year In and Still Going Strong\": Been using for almost a year, zero signs of wear, no snapping. Variable resistance takes getting used to for pullups but amazing for pushups and arms.\n\n3-star reviews:\n- \"Band resize\": Band width size is slightly thinner than displayed images, but quality is ok.\n\n2-star reviews:\n- \"Slightly disappointed\": Too thin compared to displayed picture, only 1/2 cm width.\n\n1-star reviews:\n- \"Bad Quality\": Snaps easily under heavy tension, waste of money.",
+    "specs": {
+      "Brand": "Boldfit",
+      "Material": "100% Eco-Friendly Natural Latex",
+      "Resistance Levels": "5 Strength Levels (X-Light, Light, Medium, Heavy, X-Heavy / 3-30 kg)",
+      "Key Features": "Sweat-resistant, non-slip elasticity, Suitable for pull-ups, squats, physical therapy, full body workout"
+    },
+    "reviews": {
+      "5_star": [
+        {
+          "author": "Arihant.Sasank",
+          "date": "7 April 2026",
+          "rating": 5,
+          "title": "Good useful",
+          "body": "Very good product. Helps muscles keep tense during workout intervals."
+        }
+      ],
+      "4_star": [
+        {
+          "author": "Lizard",
+          "date": "15 March 2026",
+          "rating": 4,
+          "title": "Nearly a Year In and Still Going Strong",
+          "body": "Been using for almost a year, zero signs of wear, no snapping. Variable resistance takes getting used to for pullups but amazing for pushups and arms."
+        }
+      ],
+      "3_star": [
+        {
+          "author": "Kunal",
+          "date": "28 August 2025",
+          "rating": 3,
+          "title": "Band resize",
+          "body": "Band width size is slightly thinner than displayed images, but quality is ok."
+        }
+      ],
+      "2_star": [
+        {
+          "author": "Abhishek",
+          "date": "12 October 2025",
+          "rating": 2,
+          "title": "Slightly disappointed",
+          "body": "Too thin compared to displayed picture, only 1/2 cm width."
+        }
+      ],
+      "1_star": [
+        {
+          "author": "Amar yadav",
+          "date": "4 April 2026",
+          "rating": 1,
+          "title": "Bad Quality",
+          "body": "Snaps easily under heavy tension, waste of money."
+        }
+      ]
+    },
+    "human_annotations": {
+      "Kartikey": [
+        "Weight category",
+        "Easy to use",
+        "Durability"
+      ],
+      "Rahul": [
+        "Grip",
+        "Elasticity maintenance",
+        "Hook quality"
+      ],
+      "Anshumaan": [
+        "Handle comfort",
+        "Band quality",
+        "Hook quality"
+      ],
+      "Nakul": [
+        "Easy to use",
+        "Size",
+        "Weights & tension"
+      ],
+      "Kushagra": [
+        "Can bear high load",
+        "Not easily breakable",
+        "Different weights",
+        "Flat and pipe variants"
+      ],
+      "Aditya": [
+        "Multiple bands",
+        "Durable",
+        "Colorful",
+        "Affordable"
+      ]
+    },
+    "ground_truth": [
+      {
+        "aspect": "Resistance Levels & Weight Options",
+        "sub_aspects": [
+          "Multiple strength categories (3kg - 30kg)",
+          "Consistent variable tension"
+        ]
+      },
+      {
+        "aspect": "Material Quality & Durability",
+        "sub_aspects": [
+          "100% Natural latex construction",
+          "Resistant to snapping under high load",
+          "Maintains elasticity over time"
+        ]
+      },
+      {
+        "aspect": "Comfort & Grip Performance",
+        "sub_aspects": [
+          "Non-slip surface texture",
+          "Comfortable handling during pull-ups"
+        ]
+      },
+      {
+        "aspect": "Versatility & Portability",
+        "sub_aspects": [
+          "Suitable for home gym & travel",
+          "Full body training support"
+        ]
+      },
+      {
+        "aspect": "Value for Money",
+        "sub_aspects": [
+          "Affordable pricing for multi-band set"
+        ]
+      }
+    ],
+    "llama_output": [
+      {
+        "aspect": "Durable Material",
+        "subaspects": [
+          "long-lasting, flexible, sweat-resistant latex"
+        ]
+      },
+      {
+        "aspect": "Resistance Level Variability",
+        "subaspects": [
+          "multiple tension levels 3kg to 30kg"
+        ]
+      },
+      {
+        "aspect": "Grip Quality",
+        "subaspects": [
+          "good non-slip grip during stretching"
+        ]
+      },
+      {
+        "aspect": "Band Size Consistency",
+        "subaspects": [
+          "width size consistency vs displayed pictures"
+        ]
+      },
+      {
+        "aspect": "Price-Performance Ratio",
+        "subaspects": [
+          "great value for money"
+        ]
+      }
+    ]
+  }
+]
