@@ -1,0 +1,391 @@
+{
+  "description": "Audit log of AI-generated example reviews inserted into output_reviews_cleaned.json",
+  "total_products_with_generated_examples": 43,
+  "total_examples_added": 83,
+  "records": [
+    {
+      "asin": "B074TJ5CGC",
+      "product_id": "4",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B0C4WXSVQ7",
+      "product_id": "16",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B0041QZOF0",
+      "product_id": "17",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B07D2LQNF1",
+      "product_id": "18",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B08DKXFFDK",
+      "product_id": "19",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B00GYR9EQE",
+      "product_id": "25",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B07TM2B492",
+      "product_id": "26",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B08GCX5V9G",
+      "product_id": "27",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B06ZZHGYGV",
+      "product_id": "28",
+      "number_of_examples_added": 1,
+      "star_ratings_used": [
+        "5.0"
+      ]
+    },
+    {
+      "asin": "B0B85BJ488",
+      "product_id": "29",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B09LM56LJ3",
+      "product_id": "46",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B004R1BM0U",
+      "product_id": "47",
+      "number_of_examples_added": 1,
+      "star_ratings_used": [
+        "5.0"
+      ]
+    },
+    {
+      "asin": "B0C53LZN7M",
+      "product_id": "48",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B086Q74D9Z",
+      "product_id": "49",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B000YHO5MI",
+      "product_id": "50",
+      "number_of_examples_added": 1,
+      "star_ratings_used": [
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B077KQB7SJ",
+      "product_id": "51",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B07RPXTKMK",
+      "product_id": "52",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B00A7V9AVC",
+      "product_id": "53",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B09W4GL91J",
+      "product_id": "54",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B07TKMY2NW",
+      "product_id": "56",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B09SQ4SSL6",
+      "product_id": "57",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B073H8S6NZ",
+      "product_id": "58",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B00LLILH98",
+      "product_id": "59",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B07HPGVJPN",
+      "product_id": "75",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B06XHVMV9C",
+      "product_id": "76",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B000BRUGKQ",
+      "product_id": "77",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B01MY10ZEG",
+      "product_id": "78",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B09R2XGLBW",
+      "product_id": "79",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B01CSC6MM2",
+      "product_id": "85",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B089SZ26DR",
+      "product_id": "86",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B01MU8SKPF",
+      "product_id": "87",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B00GJASUL6",
+      "product_id": "88",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B0CC46J9RQ",
+      "product_id": "89",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B0B68C55BC",
+      "product_id": "90",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B079MDPR56",
+      "product_id": "91",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B006XA7JY6",
+      "product_id": "92",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B00HYH7HXA",
+      "product_id": "93",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B004Z4C0RI",
+      "product_id": "94",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B01AIO8XVA",
+      "product_id": "95",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B08VRR81CC",
+      "product_id": "96",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B0C5F7JYJC",
+      "product_id": "97",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B00EWOK09G",
+      "product_id": "98",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    },
+    {
+      "asin": "B00HVLUR54",
+      "product_id": "99",
+      "number_of_examples_added": 2,
+      "star_ratings_used": [
+        "5.0",
+        "4.0"
+      ]
+    }
+  ]
+}

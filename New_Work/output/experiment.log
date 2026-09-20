@@ -1,0 +1,385 @@
+2026-09-20 22:02:09,968 | INFO | ======================================================================
+2026-09-20 22:02:09,968 | INFO | AMAZON DEMAND ESTIMATION — LOCAL LLAMA 3.2 VIA OLLAMA
+2026-09-20 22:02:09,968 | INFO | ======================================================================
+2026-09-20 22:02:12,047 | INFO | Ollama reachable at http://localhost:11434
+2026-09-20 22:02:14,138 | INFO | Installed models: ['llama3.2:latest']
+2026-09-20 22:02:14,138 | INFO | Selected model: llama3.2:latest
+2026-09-20 22:02:14,139 | INFO | Using model: llama3.2:latest
+2026-09-20 22:02:14,139 | INFO | Loading selected products from C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\selected_products_10_per_category.csv
+2026-09-20 22:02:14,162 | INFO | Loading reviews from C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\output_reviews_cleaned.json
+2026-09-20 22:02:14,171 | INFO | Loading category names from C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\amazon_categories.csv
+2026-09-20 22:02:14,200 | INFO | Split saved to C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\experiment_split.csv
+2026-09-20 22:02:14,213 | INFO | [1/50] Predicting ASIN B0CB2YNTPD — Hair Care Products
+2026-09-20 22:02:14,213 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B0CB2YNTPD — skipping
+2026-09-20 22:02:14,213 | INFO | [2/50] Predicting ASIN B0C5C5BCQ8 — Hair Care Products
+2026-09-20 22:02:14,213 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B0C5C5BCQ8 — skipping
+2026-09-20 22:02:14,214 | INFO | [3/50] Predicting ASIN B0B44G1V73 — Hair Care Products
+2026-09-20 22:02:28,407 | INFO |   status=success  predicted=1500.0  actual=5000
+2026-09-20 22:02:28,407 | INFO | [4/50] Predicting ASIN B0041QZOF0 — Hair Care Products
+2026-09-20 22:02:32,798 | INFO |   status=success  predicted=1500.0  actual=2000
+2026-09-20 22:02:32,798 | INFO | [5/50] Predicting ASIN B074M6577N — Hair Care Products
+2026-09-20 22:02:36,490 | INFO |   status=success  predicted=1500.0  actual=600
+2026-09-20 22:02:36,491 | INFO | [6/50] Predicting ASIN B08XKSDW9M — Personal Care Products
+2026-09-20 22:02:41,368 | WARNING | Retry for ASIN B08XKSDW9M with JSON reminder
+2026-09-20 22:02:44,895 | INFO |   status=success  predicted=800.0  actual=400
+2026-09-20 22:02:44,895 | INFO | [7/50] Predicting ASIN B08GCX5V9G — Personal Care Products
+2026-09-20 22:02:48,583 | INFO |   status=success  predicted=800.0  actual=3000
+2026-09-20 22:02:48,583 | INFO | [8/50] Predicting ASIN B06ZZHGYGV — Personal Care Products
+2026-09-20 22:02:52,427 | WARNING | Retry for ASIN B06ZZHGYGV with JSON reminder
+2026-09-20 22:02:55,759 | INFO |   status=success  predicted=400.0  actual=900
+2026-09-20 22:02:55,759 | INFO | [9/50] Predicting ASIN B0B85BJ488 — Personal Care Products
+2026-09-20 22:02:59,481 | INFO |   status=success  predicted=800.0  actual=2000
+2026-09-20 22:02:59,481 | INFO | [10/50] Predicting ASIN B07VR6BBY8 — Personal Care Products
+2026-09-20 22:02:59,481 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B07VR6BBY8 — skipping
+2026-09-20 22:02:59,482 | INFO | [11/50] Predicting ASIN B006XA7JY6 — Headphones & Earbuds
+2026-09-20 22:02:59,482 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B006XA7JY6 — skipping
+2026-09-20 22:02:59,483 | INFO | [12/50] Predicting ASIN B004Z4C0RI — Headphones & Earbuds
+2026-09-20 22:03:03,502 | INFO |   status=success  predicted=200.0  actual=200
+2026-09-20 22:03:03,502 | INFO | [13/50] Predicting ASIN B0C5F7JYJC — Headphones & Earbuds
+2026-09-20 22:03:07,873 | WARNING | Retry for ASIN B0C5F7JYJC with JSON reminder
+2026-09-20 22:03:11,597 | INFO |   status=success  predicted=200.0  actual=50
+2026-09-20 22:03:11,598 | INFO | [14/50] Predicting ASIN B00HVLUR54 — Headphones & Earbuds
+2026-09-20 22:03:16,022 | WARNING | Retry for ASIN B00HVLUR54 with JSON reminder
+2026-09-20 22:03:19,199 | INFO |   status=success  predicted=200.0  actual=800
+2026-09-20 22:03:19,199 | INFO | [15/50] Predicting ASIN B08WJLZVHB — Headphones & Earbuds
+2026-09-20 22:03:23,243 | WARNING | Retry for ASIN B08WJLZVHB with JSON reminder
+2026-09-20 22:03:26,596 | INFO |   status=success  predicted=20.0  actual=200
+2026-09-20 22:03:26,597 | INFO | [16/50] Predicting ASIN B09M5ZK6PY — Men's Clothing
+2026-09-20 22:03:31,106 | INFO |   status=success  predicted=200.0  actual=50
+2026-09-20 22:03:31,107 | INFO | [17/50] Predicting ASIN B07HPGVJPN — Men's Clothing
+2026-09-20 22:03:35,015 | INFO |   status=success  predicted=200.0  actual=50
+2026-09-20 22:03:35,015 | INFO | [18/50] Predicting ASIN B06XHVMV9C — Men's Clothing
+2026-09-20 22:03:35,016 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B06XHVMV9C — skipping
+2026-09-20 22:03:35,016 | INFO | [19/50] Predicting ASIN B000BRUGKQ — Men's Clothing
+2026-09-20 22:03:35,016 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B000BRUGKQ — skipping
+2026-09-20 22:03:35,017 | INFO | [20/50] Predicting ASIN B06WP2MM64 — Men's Clothing
+2026-09-20 22:03:38,724 | INFO |   status=success  predicted=200.0  actual=50
+2026-09-20 22:03:38,725 | INFO | [21/50] Predicting ASIN B09BN4BBBG — Women's Clothing
+2026-09-20 22:03:42,749 | INFO |   status=success  predicted=150.0  actual=50
+2026-09-20 22:03:42,750 | INFO | [22/50] Predicting ASIN B08N5K6DT1 — Women's Clothing
+2026-09-20 22:03:42,751 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B08N5K6DT1 — skipping
+2026-09-20 22:03:42,751 | INFO | [23/50] Predicting ASIN B01CSC6MM2 — Women's Clothing
+2026-09-20 22:03:42,752 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B01CSC6MM2 — skipping
+2026-09-20 22:03:42,752 | INFO | [24/50] Predicting ASIN B089SZ26DR — Women's Clothing
+2026-09-20 22:03:46,349 | INFO |   status=success  predicted=150.0  actual=200
+2026-09-20 22:03:46,349 | INFO | [25/50] Predicting ASIN B0CC46J9RQ — Women's Clothing
+2026-09-20 22:03:46,350 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B0CC46J9RQ — skipping
+2026-09-20 22:03:46,350 | INFO | [26/50] Predicting ASIN B075FJBZ8Q — Oral Care Products
+2026-09-20 22:03:51,394 | INFO |   status=success  predicted=200.0  actual=100
+2026-09-20 22:03:51,395 | INFO | [27/50] Predicting ASIN B088Q5RPZ9 — Oral Care Products
+2026-09-20 22:03:55,170 | INFO |   status=success  predicted=200.0  actual=200
+2026-09-20 22:03:55,170 | INFO | [28/50] Predicting ASIN B0063GMAAI — Oral Care Products
+2026-09-20 22:03:58,856 | INFO |   status=success  predicted=200.0  actual=400
+2026-09-20 22:03:58,856 | INFO | [29/50] Predicting ASIN B09LD8PTNJ — Oral Care Products
+2026-09-20 22:04:02,791 | INFO |   status=success  predicted=200.0  actual=2000
+2026-09-20 22:04:02,792 | INFO | [30/50] Predicting ASIN B0C2T9ZQDR — Oral Care Products
+2026-09-20 22:04:06,959 | INFO |   status=success  predicted=400.0  actual=600
+2026-09-20 22:04:06,960 | INFO | [31/50] Predicting ASIN B095K5R5ZR — Household Supplies
+2026-09-20 22:04:11,176 | INFO |   status=success  predicted=1200.0  actual=600
+2026-09-20 22:04:11,176 | INFO | [32/50] Predicting ASIN B088BBV7DS — Household Supplies
+2026-09-20 22:04:15,071 | INFO |   status=success  predicted=1200.0  actual=10000
+2026-09-20 22:04:15,071 | INFO | [33/50] Predicting ASIN B00OHZ78RM — Household Supplies
+2026-09-20 22:04:15,071 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B00OHZ78RM — skipping
+2026-09-20 22:04:15,071 | INFO | [34/50] Predicting ASIN B082L49F6S — Household Supplies
+2026-09-20 22:04:15,072 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B082L49F6S — skipping
+2026-09-20 22:04:15,072 | INFO | [35/50] Predicting ASIN B004R1BM0U — Household Supplies
+2026-09-20 22:04:15,072 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B004R1BM0U — skipping
+2026-09-20 22:04:15,073 | INFO | [36/50] Predicting ASIN B0BX92ZT75 — Bedding
+2026-09-20 22:04:19,760 | INFO |   status=success  predicted=200.0  actual=1000
+2026-09-20 22:04:19,760 | INFO | [37/50] Predicting ASIN B0B5RPHDJ4 — Bedding
+2026-09-20 22:04:19,760 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B0B5RPHDJ4 — skipping
+2026-09-20 22:04:19,761 | INFO | [38/50] Predicting ASIN B0B31P88GB — Bedding
+2026-09-20 22:04:19,761 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B0B31P88GB — skipping
+2026-09-20 22:04:19,761 | INFO | [39/50] Predicting ASIN B09N8P5379 — Bedding
+2026-09-20 22:04:19,762 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B09N8P5379 — skipping
+2026-09-20 22:04:19,762 | INFO | [40/50] Predicting ASIN B07283237Y — Bedding
+2026-09-20 22:04:19,762 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B07283237Y — skipping
+2026-09-20 22:04:19,763 | INFO | [41/50] Predicting ASIN B0833F8HWB — Household Cleaning Supplies
+2026-09-20 22:04:19,764 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B0833F8HWB — skipping
+2026-09-20 22:04:19,764 | INFO | [42/50] Predicting ASIN B099GCSSM1 — Household Cleaning Supplies
+2026-09-20 22:04:19,764 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B099GCSSM1 — skipping
+2026-09-20 22:04:19,765 | INFO | [43/50] Predicting ASIN B07ML4GD4P — Household Cleaning Supplies
+2026-09-20 22:04:19,765 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B07ML4GD4P — skipping
+2026-09-20 22:04:19,765 | INFO | [44/50] Predicting ASIN B0BKFRPH15 — Household Cleaning Supplies
+2026-09-20 22:04:24,311 | INFO |   status=success  predicted=150.0  actual=3000
+2026-09-20 22:04:24,312 | INFO | [45/50] Predicting ASIN B09QD9LPGN — Household Cleaning Supplies
+2026-09-20 22:04:24,312 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B09QD9LPGN — skipping
+2026-09-20 22:04:24,313 | INFO | [46/50] Predicting ASIN B077KQB7SJ — Kitchen & Dining
+2026-09-20 22:04:24,313 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B077KQB7SJ — skipping
+2026-09-20 22:04:24,314 | INFO | [47/50] Predicting ASIN B09W4GL91J — Kitchen & Dining
+2026-09-20 22:04:24,314 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B09W4GL91J — skipping
+2026-09-20 22:04:24,314 | INFO | [48/50] Predicting ASIN B07TKMY2NW — Kitchen & Dining
+2026-09-20 22:04:28,607 | INFO |   status=success  predicted=2000.0  actual=4000
+2026-09-20 22:04:28,607 | INFO | [49/50] Predicting ASIN B09SQ4SSL6 — Kitchen & Dining
+2026-09-20 22:04:28,607 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B09SQ4SSL6 — skipping
+2026-09-20 22:04:28,608 | INFO | [50/50] Predicting ASIN B00LLILH98 — Kitchen & Dining
+2026-09-20 22:04:28,608 | ERROR | POTENTIAL LABEL LEAK detected for ASIN B00LLILH98 — skipping
+2026-09-20 22:04:28,907 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_hair_care_products.png
+2026-09-20 22:04:29,069 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_personal_care_products.png
+2026-09-20 22:04:29,214 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_headphones___earbuds.png
+2026-09-20 22:04:29,358 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_men_s_clothing.png
+2026-09-20 22:04:29,498 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_women_s_clothing.png
+2026-09-20 22:04:29,625 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_oral_care_products.png
+2026-09-20 22:04:29,753 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_household_supplies.png
+2026-09-20 22:04:29,883 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_bedding.png
+2026-09-20 22:04:30,027 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_household_cleaning_supplies.png
+2026-09-20 22:04:30,169 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_kitchen___dining.png
+2026-09-20 22:04:30,400 | INFO | Overall graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\overall_actual_vs_predicted.png
+2026-09-20 22:04:30,752 | INFO | Optional graphs saved
+2026-09-20 22:17:43,263 | INFO | ======================================================================
+2026-09-20 22:17:43,263 | INFO | AMAZON DEMAND ESTIMATION — LOCAL LLAMA 3.2 VIA OLLAMA
+2026-09-20 22:17:43,263 | INFO | ======================================================================
+2026-09-20 22:17:45,323 | INFO | Ollama reachable at http://localhost:11434
+2026-09-20 22:17:47,389 | INFO | Installed models: ['llama3.2:latest']
+2026-09-20 22:17:47,389 | INFO | Selected model: llama3.2:latest
+2026-09-20 22:17:47,389 | INFO | Using model: llama3.2:latest
+2026-09-20 22:17:47,390 | INFO | Loading selected products from C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\selected_products_10_per_category.csv
+2026-09-20 22:17:47,440 | INFO | Loading reviews from C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\output_reviews_cleaned.json
+2026-09-20 22:17:47,450 | INFO | Loading category names from C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\amazon_categories.csv
+2026-09-20 22:17:47,466 | INFO | Loading existing split
+2026-09-20 22:17:47,489 | INFO | [1/50] Predicting ASIN B0CB2YNTPD — Hair Care Products
+2026-09-20 22:17:47,489 | ERROR | LABEL LEAK detected for ASIN B0CB2YNTPD — skipping
+2026-09-20 22:17:47,489 | INFO | [2/50] Predicting ASIN B0C5C5BCQ8 — Hair Care Products
+2026-09-20 22:17:47,490 | ERROR | LABEL LEAK detected for ASIN B0C5C5BCQ8 — skipping
+2026-09-20 22:17:47,490 | INFO | [3/50] Predicting ASIN B0B44G1V73 — Hair Care Products
+2026-09-20 22:18:03,397 | INFO |   status=success  predicted=1500.0  actual=5000
+2026-09-20 22:18:03,397 | INFO | [4/50] Predicting ASIN B0041QZOF0 — Hair Care Products
+2026-09-20 22:18:07,618 | INFO |   status=success  predicted=1500.0  actual=2000
+2026-09-20 22:18:07,618 | INFO | [5/50] Predicting ASIN B074M6577N — Hair Care Products
+2026-09-20 22:18:11,379 | INFO |   status=success  predicted=1500.0  actual=600
+2026-09-20 22:18:11,380 | INFO | [6/50] Predicting ASIN B08XKSDW9M — Personal Care Products
+2026-09-20 22:18:16,236 | WARNING | Retry for ASIN B08XKSDW9M with JSON reminder
+2026-09-20 22:18:19,720 | INFO |   status=success  predicted=800.0  actual=400
+2026-09-20 22:18:19,720 | INFO | [7/50] Predicting ASIN B08GCX5V9G — Personal Care Products
+2026-09-20 22:18:23,263 | INFO |   status=success  predicted=800.0  actual=3000
+2026-09-20 22:18:23,264 | INFO | [8/50] Predicting ASIN B06ZZHGYGV — Personal Care Products
+2026-09-20 22:18:27,104 | WARNING | Retry for ASIN B06ZZHGYGV with JSON reminder
+2026-09-20 22:18:30,437 | INFO |   status=success  predicted=400.0  actual=900
+2026-09-20 22:18:30,437 | INFO | [9/50] Predicting ASIN B0B85BJ488 — Personal Care Products
+2026-09-20 22:18:34,144 | INFO |   status=success  predicted=800.0  actual=2000
+2026-09-20 22:18:34,144 | INFO | [10/50] Predicting ASIN B07VR6BBY8 — Personal Care Products
+2026-09-20 22:18:34,145 | ERROR | LABEL LEAK detected for ASIN B07VR6BBY8 — skipping
+2026-09-20 22:18:34,145 | INFO | [11/50] Predicting ASIN B006XA7JY6 — Headphones & Earbuds
+2026-09-20 22:18:34,146 | ERROR | LABEL LEAK detected for ASIN B006XA7JY6 — skipping
+2026-09-20 22:18:34,146 | INFO | [12/50] Predicting ASIN B004Z4C0RI — Headphones & Earbuds
+2026-09-20 22:18:38,156 | INFO |   status=success  predicted=200.0  actual=200
+2026-09-20 22:18:38,157 | INFO | [13/50] Predicting ASIN B0C5F7JYJC — Headphones & Earbuds
+2026-09-20 22:18:38,158 | ERROR | LABEL LEAK detected for ASIN B0C5F7JYJC — skipping
+2026-09-20 22:18:38,158 | INFO | [14/50] Predicting ASIN B00HVLUR54 — Headphones & Earbuds
+2026-09-20 22:18:42,538 | WARNING | Retry for ASIN B00HVLUR54 with JSON reminder
+2026-09-20 22:18:45,695 | INFO |   status=success  predicted=200.0  actual=800
+2026-09-20 22:18:45,695 | INFO | [15/50] Predicting ASIN B08WJLZVHB — Headphones & Earbuds
+2026-09-20 22:18:49,716 | WARNING | Retry for ASIN B08WJLZVHB with JSON reminder
+2026-09-20 22:18:53,037 | INFO |   status=success  predicted=20.0  actual=200
+2026-09-20 22:18:53,037 | INFO | [16/50] Predicting ASIN B09M5ZK6PY — Men's Clothing
+2026-09-20 22:18:53,038 | ERROR | LABEL LEAK detected for ASIN B09M5ZK6PY — skipping
+2026-09-20 22:18:53,038 | INFO | [17/50] Predicting ASIN B07HPGVJPN — Men's Clothing
+2026-09-20 22:18:53,038 | ERROR | LABEL LEAK detected for ASIN B07HPGVJPN — skipping
+2026-09-20 22:18:53,039 | INFO | [18/50] Predicting ASIN B06XHVMV9C — Men's Clothing
+2026-09-20 22:18:53,039 | ERROR | LABEL LEAK detected for ASIN B06XHVMV9C — skipping
+2026-09-20 22:18:53,039 | INFO | [19/50] Predicting ASIN B000BRUGKQ — Men's Clothing
+2026-09-20 22:18:53,039 | ERROR | LABEL LEAK detected for ASIN B000BRUGKQ — skipping
+2026-09-20 22:18:53,039 | INFO | [20/50] Predicting ASIN B06WP2MM64 — Men's Clothing
+2026-09-20 22:18:53,040 | ERROR | LABEL LEAK detected for ASIN B06WP2MM64 — skipping
+2026-09-20 22:18:53,040 | INFO | [21/50] Predicting ASIN B09BN4BBBG — Women's Clothing
+2026-09-20 22:18:53,041 | ERROR | LABEL LEAK detected for ASIN B09BN4BBBG — skipping
+2026-09-20 22:18:53,041 | INFO | [22/50] Predicting ASIN B08N5K6DT1 — Women's Clothing
+2026-09-20 22:18:53,041 | ERROR | LABEL LEAK detected for ASIN B08N5K6DT1 — skipping
+2026-09-20 22:18:53,042 | INFO | [23/50] Predicting ASIN B01CSC6MM2 — Women's Clothing
+2026-09-20 22:18:53,042 | ERROR | LABEL LEAK detected for ASIN B01CSC6MM2 — skipping
+2026-09-20 22:18:53,042 | INFO | [24/50] Predicting ASIN B089SZ26DR — Women's Clothing
+2026-09-20 22:18:57,008 | INFO |   status=success  predicted=200.0  actual=200
+2026-09-20 22:18:57,008 | INFO | [25/50] Predicting ASIN B0CC46J9RQ — Women's Clothing
+2026-09-20 22:18:57,008 | ERROR | LABEL LEAK detected for ASIN B0CC46J9RQ — skipping
+2026-09-20 22:18:57,009 | INFO | [26/50] Predicting ASIN B075FJBZ8Q — Oral Care Products
+2026-09-20 22:19:02,046 | INFO |   status=success  predicted=200.0  actual=100
+2026-09-20 22:19:02,047 | INFO | [27/50] Predicting ASIN B088Q5RPZ9 — Oral Care Products
+2026-09-20 22:19:05,833 | INFO |   status=success  predicted=200.0  actual=200
+2026-09-20 22:19:05,834 | INFO | [28/50] Predicting ASIN B0063GMAAI — Oral Care Products
+2026-09-20 22:19:09,547 | INFO |   status=success  predicted=200.0  actual=400
+2026-09-20 22:19:09,547 | INFO | [29/50] Predicting ASIN B09LD8PTNJ — Oral Care Products
+2026-09-20 22:19:13,353 | INFO |   status=success  predicted=200.0  actual=2000
+2026-09-20 22:19:13,353 | INFO | [30/50] Predicting ASIN B0C2T9ZQDR — Oral Care Products
+2026-09-20 22:19:17,586 | INFO |   status=success  predicted=400.0  actual=600
+2026-09-20 22:19:17,586 | INFO | [31/50] Predicting ASIN B095K5R5ZR — Household Supplies
+2026-09-20 22:19:21,707 | INFO |   status=success  predicted=1200.0  actual=600
+2026-09-20 22:19:21,708 | INFO | [32/50] Predicting ASIN B088BBV7DS — Household Supplies
+2026-09-20 22:19:25,580 | INFO |   status=success  predicted=1200.0  actual=10000
+2026-09-20 22:19:25,580 | INFO | [33/50] Predicting ASIN B00OHZ78RM — Household Supplies
+2026-09-20 22:19:25,580 | ERROR | LABEL LEAK detected for ASIN B00OHZ78RM — skipping
+2026-09-20 22:19:25,581 | INFO | [34/50] Predicting ASIN B082L49F6S — Household Supplies
+2026-09-20 22:19:25,581 | ERROR | LABEL LEAK detected for ASIN B082L49F6S — skipping
+2026-09-20 22:19:25,581 | INFO | [35/50] Predicting ASIN B004R1BM0U — Household Supplies
+2026-09-20 22:19:25,581 | ERROR | LABEL LEAK detected for ASIN B004R1BM0U — skipping
+2026-09-20 22:19:25,582 | INFO | [36/50] Predicting ASIN B0BX92ZT75 — Bedding
+2026-09-20 22:19:30,276 | INFO |   status=success  predicted=200.0  actual=1000
+2026-09-20 22:19:30,276 | INFO | [37/50] Predicting ASIN B0B5RPHDJ4 — Bedding
+2026-09-20 22:19:30,277 | ERROR | LABEL LEAK detected for ASIN B0B5RPHDJ4 — skipping
+2026-09-20 22:19:30,277 | INFO | [38/50] Predicting ASIN B0B31P88GB — Bedding
+2026-09-20 22:19:30,277 | ERROR | LABEL LEAK detected for ASIN B0B31P88GB — skipping
+2026-09-20 22:19:30,277 | INFO | [39/50] Predicting ASIN B09N8P5379 — Bedding
+2026-09-20 22:19:33,914 | INFO |   status=success  predicted=200.0  actual=200
+2026-09-20 22:19:33,914 | INFO | [40/50] Predicting ASIN B07283237Y — Bedding
+2026-09-20 22:19:38,253 | INFO |   status=success  predicted=50.0  actual=200
+2026-09-20 22:19:38,254 | INFO | [41/50] Predicting ASIN B0833F8HWB — Household Cleaning Supplies
+2026-09-20 22:19:38,255 | ERROR | LABEL LEAK detected for ASIN B0833F8HWB — skipping
+2026-09-20 22:19:38,255 | INFO | [42/50] Predicting ASIN B099GCSSM1 — Household Cleaning Supplies
+2026-09-20 22:19:38,255 | ERROR | LABEL LEAK detected for ASIN B099GCSSM1 — skipping
+2026-09-20 22:19:38,255 | INFO | [43/50] Predicting ASIN B07ML4GD4P — Household Cleaning Supplies
+2026-09-20 22:19:38,256 | ERROR | LABEL LEAK detected for ASIN B07ML4GD4P — skipping
+2026-09-20 22:19:38,256 | INFO | [44/50] Predicting ASIN B0BKFRPH15 — Household Cleaning Supplies
+2026-09-20 22:19:42,671 | INFO |   status=success  predicted=150.0  actual=3000
+2026-09-20 22:19:42,672 | INFO | [45/50] Predicting ASIN B09QD9LPGN — Household Cleaning Supplies
+2026-09-20 22:19:42,672 | ERROR | LABEL LEAK detected for ASIN B09QD9LPGN — skipping
+2026-09-20 22:19:42,673 | INFO | [46/50] Predicting ASIN B077KQB7SJ — Kitchen & Dining
+2026-09-20 22:19:42,673 | ERROR | LABEL LEAK detected for ASIN B077KQB7SJ — skipping
+2026-09-20 22:19:42,673 | INFO | [47/50] Predicting ASIN B09W4GL91J — Kitchen & Dining
+2026-09-20 22:19:42,674 | ERROR | LABEL LEAK detected for ASIN B09W4GL91J — skipping
+2026-09-20 22:19:42,674 | INFO | [48/50] Predicting ASIN B07TKMY2NW — Kitchen & Dining
+2026-09-20 22:19:47,012 | INFO |   status=success  predicted=2000.0  actual=4000
+2026-09-20 22:19:47,013 | INFO | [49/50] Predicting ASIN B09SQ4SSL6 — Kitchen & Dining
+2026-09-20 22:19:47,014 | ERROR | LABEL LEAK detected for ASIN B09SQ4SSL6 — skipping
+2026-09-20 22:19:47,014 | INFO | [50/50] Predicting ASIN B00LLILH98 — Kitchen & Dining
+2026-09-20 22:19:47,015 | ERROR | LABEL LEAK detected for ASIN B00LLILH98 — skipping
+2026-09-20 22:19:47,318 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_hair_care_products.png
+2026-09-20 22:19:47,452 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_personal_care_products.png
+2026-09-20 22:19:47,580 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_headphones___earbuds.png
+2026-09-20 22:19:47,693 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_men_s_clothing.png
+2026-09-20 22:19:47,867 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_women_s_clothing.png
+2026-09-20 22:19:47,983 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_oral_care_products.png
+2026-09-20 22:19:48,147 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_household_supplies.png
+2026-09-20 22:19:48,298 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_bedding.png
+2026-09-20 22:19:48,426 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_household_cleaning_supplies.png
+2026-09-20 22:19:48,552 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_kitchen___dining.png
+2026-09-20 22:19:48,761 | INFO | Overall graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\overall_actual_vs_predicted.png
+2026-09-20 22:19:49,064 | INFO | Optional graphs saved
+2026-09-20 22:21:48,438 | INFO | ======================================================================
+2026-09-20 22:21:48,438 | INFO | AMAZON DEMAND ESTIMATION — LOCAL LLAMA 3.2 VIA OLLAMA
+2026-09-20 22:21:48,438 | INFO | ======================================================================
+2026-09-20 22:21:50,523 | INFO | Ollama reachable at http://localhost:11434
+2026-09-20 22:21:52,619 | INFO | Installed models: ['llama3.2:latest']
+2026-09-20 22:21:52,620 | INFO | Selected model: llama3.2:latest
+2026-09-20 22:21:52,620 | INFO | Using model: llama3.2:latest
+2026-09-20 22:21:52,621 | INFO | Loading selected products from C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\selected_products_10_per_category.csv
+2026-09-20 22:21:52,653 | INFO | Loading reviews from C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\output_reviews_cleaned.json
+2026-09-20 22:21:52,664 | INFO | Loading category names from C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\amazon_categories.csv
+2026-09-20 22:21:52,703 | INFO | Split saved to C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\experiment_split.csv
+2026-09-20 22:21:52,740 | INFO | [1/50] Predicting ASIN B0CB2YNTPD — Hair Care Products
+2026-09-20 22:21:56,501 | INFO |   status=success  predicted=150.0  actual=200
+2026-09-20 22:21:56,502 | INFO | [2/50] Predicting ASIN B0C5C5BCQ8 — Hair Care Products
+2026-09-20 22:22:00,413 | INFO |   status=success  predicted=1500.0  actual=200
+2026-09-20 22:22:00,413 | INFO | [3/50] Predicting ASIN B0B44G1V73 — Hair Care Products
+2026-09-20 22:22:04,100 | INFO |   status=success  predicted=1500.0  actual=5000
+2026-09-20 22:22:04,100 | INFO | [4/50] Predicting ASIN B0041QZOF0 — Hair Care Products
+2026-09-20 22:22:08,598 | INFO |   status=success  predicted=1500.0  actual=2000
+2026-09-20 22:22:08,598 | INFO | [5/50] Predicting ASIN B074M6577N — Hair Care Products
+2026-09-20 22:22:12,408 | INFO |   status=success  predicted=1500.0  actual=600
+2026-09-20 22:22:12,409 | INFO | [6/50] Predicting ASIN B08XKSDW9M — Personal Care Products
+2026-09-20 22:22:16,966 | INFO |   status=success  predicted=800.0  actual=400
+2026-09-20 22:22:16,966 | INFO | [7/50] Predicting ASIN B08GCX5V9G — Personal Care Products
+2026-09-20 22:22:20,669 | INFO |   status=success  predicted=800.0  actual=3000
+2026-09-20 22:22:20,670 | INFO | [8/50] Predicting ASIN B06ZZHGYGV — Personal Care Products
+2026-09-20 22:22:24,676 | WARNING | Retry for ASIN B06ZZHGYGV with JSON reminder
+2026-09-20 22:22:28,106 | INFO |   status=success  predicted=400.0  actual=900
+2026-09-20 22:22:28,107 | INFO | [9/50] Predicting ASIN B0B85BJ488 — Personal Care Products
+2026-09-20 22:22:31,894 | INFO |   status=success  predicted=800.0  actual=2000
+2026-09-20 22:22:31,895 | INFO | [10/50] Predicting ASIN B07VR6BBY8 — Personal Care Products
+2026-09-20 22:22:35,602 | INFO |   status=success  predicted=800.0  actual=1000
+2026-09-20 22:22:35,603 | INFO | [11/50] Predicting ASIN B006XA7JY6 — Headphones & Earbuds
+2026-09-20 22:22:39,751 | INFO |   status=success  predicted=200.0  actual=100
+2026-09-20 22:22:39,752 | INFO | [12/50] Predicting ASIN B004Z4C0RI — Headphones & Earbuds
+2026-09-20 22:22:43,456 | INFO |   status=success  predicted=200.0  actual=200
+2026-09-20 22:22:43,456 | INFO | [13/50] Predicting ASIN B0C5F7JYJC — Headphones & Earbuds
+2026-09-20 22:22:47,832 | WARNING | Retry for ASIN B0C5F7JYJC with JSON reminder
+2026-09-20 22:22:51,553 | INFO |   status=success  predicted=200.0  actual=50
+2026-09-20 22:22:51,553 | INFO | [14/50] Predicting ASIN B00HVLUR54 — Headphones & Earbuds
+2026-09-20 22:22:56,156 | WARNING | Retry for ASIN B00HVLUR54 with JSON reminder
+2026-09-20 22:22:59,404 | INFO |   status=success  predicted=200.0  actual=800
+2026-09-20 22:22:59,405 | INFO | [15/50] Predicting ASIN B08WJLZVHB — Headphones & Earbuds
+2026-09-20 22:23:03,448 | WARNING | Retry for ASIN B08WJLZVHB with JSON reminder
+2026-09-20 22:23:06,813 | INFO |   status=success  predicted=20.0  actual=200
+2026-09-20 22:23:06,815 | INFO | [16/50] Predicting ASIN B09M5ZK6PY — Men's Clothing
+2026-09-20 22:23:11,227 | INFO |   status=success  predicted=200.0  actual=50
+2026-09-20 22:23:11,228 | INFO | [17/50] Predicting ASIN B07HPGVJPN — Men's Clothing
+2026-09-20 22:23:15,072 | INFO |   status=success  predicted=200.0  actual=50
+2026-09-20 22:23:15,072 | INFO | [18/50] Predicting ASIN B06XHVMV9C — Men's Clothing
+2026-09-20 22:23:18,704 | INFO |   status=success  predicted=200.0  actual=100
+2026-09-20 22:23:18,705 | INFO | [19/50] Predicting ASIN B000BRUGKQ — Men's Clothing
+2026-09-20 22:23:22,296 | WARNING | Retry for ASIN B000BRUGKQ with JSON reminder
+2026-09-20 22:23:26,133 | INFO |   status=success  predicted=200.0  actual=100
+2026-09-20 22:23:26,134 | INFO | [20/50] Predicting ASIN B06WP2MM64 — Men's Clothing
+2026-09-20 22:23:29,951 | INFO |   status=success  predicted=200.0  actual=50
+2026-09-20 22:23:29,952 | INFO | [21/50] Predicting ASIN B09BN4BBBG — Women's Clothing
+2026-09-20 22:23:33,847 | INFO |   status=success  predicted=150.0  actual=50
+2026-09-20 22:23:33,847 | INFO | [22/50] Predicting ASIN B08N5K6DT1 — Women's Clothing
+2026-09-20 22:23:37,460 | INFO |   status=success  predicted=50.0  actual=100
+2026-09-20 22:23:37,460 | INFO | [23/50] Predicting ASIN B01CSC6MM2 — Women's Clothing
+2026-09-20 22:23:41,042 | INFO |   status=success  predicted=200.0  actual=100
+2026-09-20 22:23:41,042 | INFO | [24/50] Predicting ASIN B089SZ26DR — Women's Clothing
+2026-09-20 22:23:44,769 | INFO |   status=success  predicted=150.0  actual=200
+2026-09-20 22:23:44,770 | INFO | [25/50] Predicting ASIN B0CC46J9RQ — Women's Clothing
+2026-09-20 22:23:48,656 | INFO |   status=success  predicted=200.0  actual=300
+2026-09-20 22:23:48,657 | INFO | [26/50] Predicting ASIN B075FJBZ8Q — Oral Care Products
+2026-09-20 22:23:53,113 | INFO |   status=success  predicted=200.0  actual=100
+2026-09-20 22:23:53,114 | INFO | [27/50] Predicting ASIN B088Q5RPZ9 — Oral Care Products
+2026-09-20 22:23:56,963 | INFO |   status=success  predicted=200.0  actual=200
+2026-09-20 22:23:56,964 | INFO | [28/50] Predicting ASIN B0063GMAAI — Oral Care Products
+2026-09-20 22:24:00,692 | INFO |   status=success  predicted=200.0  actual=400
+2026-09-20 22:24:00,693 | INFO | [29/50] Predicting ASIN B09LD8PTNJ — Oral Care Products
+2026-09-20 22:24:04,672 | INFO |   status=success  predicted=200.0  actual=2000
+2026-09-20 22:24:04,672 | INFO | [30/50] Predicting ASIN B0C2T9ZQDR — Oral Care Products
+2026-09-20 22:24:08,957 | INFO |   status=success  predicted=400.0  actual=600
+2026-09-20 22:24:08,958 | INFO | [31/50] Predicting ASIN B095K5R5ZR — Household Supplies
+2026-09-20 22:24:12,884 | INFO |   status=success  predicted=1200.0  actual=600
+2026-09-20 22:24:12,884 | INFO | [32/50] Predicting ASIN B088BBV7DS — Household Supplies
+2026-09-20 22:24:16,859 | INFO |   status=success  predicted=1200.0  actual=10000
+2026-09-20 22:24:16,859 | INFO | [33/50] Predicting ASIN B00OHZ78RM — Household Supplies
+2026-09-20 22:24:20,975 | INFO |   status=success  predicted=1200.0  actual=1000
+2026-09-20 22:24:20,976 | INFO | [34/50] Predicting ASIN B082L49F6S — Household Supplies
+2026-09-20 22:24:25,139 | INFO |   status=success  predicted=1500.0  actual=900
+2026-09-20 22:24:25,139 | INFO | [35/50] Predicting ASIN B004R1BM0U — Household Supplies
+2026-09-20 22:24:28,902 | INFO |   status=success  predicted=2500.0  actual=3000
+2026-09-20 22:24:28,903 | INFO | [36/50] Predicting ASIN B0BX92ZT75 — Bedding
+2026-09-20 22:24:33,461 | INFO |   status=success  predicted=200.0  actual=1000
+2026-09-20 22:24:33,462 | INFO | [37/50] Predicting ASIN B0B5RPHDJ4 — Bedding
+2026-09-20 22:24:37,531 | WARNING | Retry for ASIN B0B5RPHDJ4 with JSON reminder
+2026-09-20 22:24:40,746 | INFO |   status=success  predicted=50.0  actual=100
+2026-09-20 22:24:40,747 | INFO | [38/50] Predicting ASIN B0B31P88GB — Bedding
+2026-09-20 22:24:44,525 | INFO |   status=success  predicted=50.0  actual=300
+2026-09-20 22:24:44,525 | INFO | [39/50] Predicting ASIN B09N8P5379 — Bedding
+2026-09-20 22:24:48,239 | INFO |   status=success  predicted=200.0  actual=200
+2026-09-20 22:24:48,239 | INFO | [40/50] Predicting ASIN B07283237Y — Bedding
+2026-09-20 22:24:52,617 | INFO |   status=success  predicted=50.0  actual=200
+2026-09-20 22:24:52,618 | INFO | [41/50] Predicting ASIN B0833F8HWB — Household Cleaning Supplies
+2026-09-20 22:24:56,694 | INFO |   status=success  predicted=50.0  actual=100
+2026-09-20 22:24:56,694 | INFO | [42/50] Predicting ASIN B099GCSSM1 — Household Cleaning Supplies
+2026-09-20 22:25:00,972 | INFO |   status=success  predicted=150.0  actual=1000
+2026-09-20 22:25:00,972 | INFO | [43/50] Predicting ASIN B07ML4GD4P — Household Cleaning Supplies
+2026-09-20 22:25:05,162 | INFO |   status=success  predicted=150.0  actual=100
+2026-09-20 22:25:05,162 | INFO | [44/50] Predicting ASIN B0BKFRPH15 — Household Cleaning Supplies
+2026-09-20 22:25:09,549 | INFO |   status=success  predicted=150.0  actual=3000
+2026-09-20 22:25:09,549 | INFO | [45/50] Predicting ASIN B09QD9LPGN — Household Cleaning Supplies
+2026-09-20 22:25:13,113 | INFO |   status=success  predicted=150.0  actual=100
+2026-09-20 22:25:13,114 | INFO | [46/50] Predicting ASIN B077KQB7SJ — Kitchen & Dining
+2026-09-20 22:25:17,024 | INFO |   status=success  predicted=500.0  actual=1000
+2026-09-20 22:25:17,024 | INFO | [47/50] Predicting ASIN B09W4GL91J — Kitchen & Dining
+2026-09-20 22:25:20,791 | INFO |   status=success  predicted=4000.0  actual=3000
+2026-09-20 22:25:20,791 | INFO | [48/50] Predicting ASIN B07TKMY2NW — Kitchen & Dining
+2026-09-20 22:25:24,644 | WARNING | Retry for ASIN B07TKMY2NW with JSON reminder
+2026-09-20 22:25:27,868 | INFO |   status=success  predicted=1500.0  actual=4000
+2026-09-20 22:25:27,868 | INFO | [49/50] Predicting ASIN B09SQ4SSL6 — Kitchen & Dining
+2026-09-20 22:25:32,049 | INFO |   status=success  predicted=1500.0  actual=1000
+2026-09-20 22:25:32,049 | INFO | [50/50] Predicting ASIN B00LLILH98 — Kitchen & Dining
+2026-09-20 22:25:36,361 | INFO |   status=success  predicted=1500.0  actual=1000
+2026-09-20 22:25:36,632 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_hair_care_products.png
+2026-09-20 22:25:36,760 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_personal_care_products.png
+2026-09-20 22:25:36,888 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_headphones___earbuds.png
+2026-09-20 22:25:37,012 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_men_s_clothing.png
+2026-09-20 22:25:37,148 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_women_s_clothing.png
+2026-09-20 22:25:37,267 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_oral_care_products.png
+2026-09-20 22:25:37,395 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_household_supplies.png
+2026-09-20 22:25:37,517 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_bedding.png
+2026-09-20 22:25:37,684 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_household_cleaning_supplies.png
+2026-09-20 22:25:37,794 | INFO | Graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\category_kitchen___dining.png
+2026-09-20 22:25:38,140 | INFO | Overall graph: C:\Users\Nakul\OneDrive\Desktop\MinorProject\New_Work\output\graphs\overall_actual_vs_predicted.png
+2026-09-20 22:25:38,456 | INFO | Optional graphs saved

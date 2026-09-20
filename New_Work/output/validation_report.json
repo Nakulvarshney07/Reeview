@@ -1,0 +1,22 @@
+{
+  "total_products": 100,
+  "missing_demand": [],
+  "duplicate_asins": [],
+  "unmatched_in_reviews": [
+    "B0B31P88GB",
+    "B09N8P5379"
+  ],
+  "category_distribution": {
+    "47": 10,
+    "52": 10,
+    "71": 10,
+    "110": 10,
+    "116": 10,
+    "126": 10,
+    "130": 10,
+    "164": 10,
+    "167": 10,
+    "170": 10
+  },
+  "validation_passed": true
+}

@@ -1,0 +1,2690 @@
+[
+  {
+    "product_id": "B014TMV5YE",
+    "product_name": "Sion Softside Expandable Roller Luggage, Black, Checked-Large 29-Inch",
+    "brand": "Sion",
+    "model": "",
+    "category": "Suitcases",
+    "price": 139.99,
+    "rating": 4.5,
+    "review_count": 0,
+    "amazon_match_type": "exact",
+    "amazon_market_signal": "Strong Momentum",
+    "youtube_videos_found": 5,
+    "youtube_videos_analyzed": 5,
+    "youtube_total_views": 0,
+    "youtube_interest_signal": "Stable",
+    "youtube_sentiment": "Positive",
+    "reddit_posts_found": 5,
+    "reddit_posts_analyzed": 5,
+    "reddit_interest_signal": "Moderate",
+    "reddit_sentiment": "Positive",
+    "reddit_purchase_intent": "Moderate",
+    "review_sentiment": "Positive",
+    "overall_demand_direction": "Moderate Demand",
+    "demand_signal_strength": "Medium",
+    "estimated_demand_low": 1470,
+    "estimated_demand": 2100,
+    "estimated_demand_high": 2730,
+    "recommended_quantity": 1785,
+    "minimum_quantity": 1160,
+    "maximum_quantity": 2410,
+    "confidence": 0.7,
+    "key_positive_factors": [
+      "High consumer satisfaction rating (4.5/5.0)",
+      "YouTube Review: Durable and robust build quality",
+      "YouTube Review: Lightweight design suitable for travel limits",
+      "Active Reddit community discussions (5 threads)"
+    ],
+    "key_negative_factors": [
+      "Low review volume / early listing stage",
+      "YouTube Tester Note: May experience cosmetic wear under aggressive airline baggage handling"
+    ],
+    "risk_factors": [
+      "Reddit User Alert: Minor community debate regarding price vs premium tier alternatives"
+    ],
+    "reasoning": "Historical Amazon benchmark indicates approximately 2000 monthly baseline demand. Synthesizing YouTube external awareness (0 views) and Reddit discussions indicates moderate demand momentum. Customer reviews reflect positive sentiment. Consequently, estimated demand is 1470\u20132730 units, with a recommended initial listing quantity of 1785 units.",
+    "data_sources_available": {
+      "amazon": true,
+      "reviews": true,
+      "youtube": true,
+      "reddit": true
+    },
+    "detailed_evidence": {
+      "product_information": {
+        "product_id": "B014TMV5YE",
+        "product_name": "Sion Softside Expandable Roller Luggage, Black, Checked-Large 29-Inch",
+        "brand": "Sion",
+        "model": "",
+        "category": "Suitcases",
+        "price": 139.99,
+        "list_price": 0.0,
+        "rating": 4.5,
+        "review_count": 0,
+        "bought_in_last_month": 2000,
+        "is_best_seller": false,
+        "product_url": "https://www.amazon.com/dp/B014TMV5YE",
+        "img_url": "https://m.media-amazon.com/images/I/815dLQKYIYL._AC_UL320_.jpg",
+        "description": "",
+        "reviews": [],
+        "raw_data": {
+          "asin": "B014TMV5YE",
+          "title": "Sion Softside Expandable Roller Luggage, Black, Checked-Large 29-Inch",
+          "imgUrl": "https://m.media-amazon.com/images/I/815dLQKYIYL._AC_UL320_.jpg",
+          "productURL": "https://www.amazon.com/dp/B014TMV5YE",
+          "stars": "4.5",
+          "reviews": "0",
+          "price": "139.99",
+          "listPrice": "0.0",
+          "category_id": "104",
+          "isBestSeller": "False",
+          "boughtInLastMonth": "2000"
+        },
+        "search_queries": {
+          "exact": "Sion Softside Expandable Roller Luggage Black",
+          "review": "Sion Softside Expandable Roller Luggage Black review",
+          "youtube": "Sion Softside Expandable Roller Luggage Black review",
+          "reddit": "Sion Softside Expandable Roller Luggage Black",
+          "reddit_problems": "Sion Softside Expandable Roller Luggage Black problems",
+          "reddit_worth_it": "Sion Softside Expandable Roller Luggage Black worth it"
+        }
+      },
+      "amazon_market_benchmark": {
+        "match_type": "exact",
+        "confidence": "high",
+        "historical_monthly_sales_benchmark": 2000,
+        "price": 139.99,
+        "list_price": 0.0,
+        "discount_pct": null,
+        "rating": 4.5,
+        "review_count": 0,
+        "is_best_seller": false,
+        "category": "Suitcases",
+        "market_signal": "Strong Momentum",
+        "details": "Historical Amazon monthly purchases: 2000 units; Rating: 4.5/5.0"
+      },
+      "customer_reviews": {
+        "review_source": "aggregate_metrics",
+        "sentiment": "Positive",
+        "positive_factors": [
+          "High consumer satisfaction rating (4.5/5.0)"
+        ],
+        "negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "quality_signal": "High",
+        "reliability_signal": "Low",
+        "value_for_money_signal": "Moderate",
+        "summary": "Review sentiment is Positive based on 4.5/5.0 rating across 0 customer reviews."
+      },
+      "youtube_analysis": {
+        "videos_found": 5,
+        "videos_analyzed": 5,
+        "total_views": 0,
+        "transcripts_available_count": 5,
+        "sentiment": "Positive",
+        "product_strengths": [
+          "Durable and robust build quality",
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "product_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "purchase_intent": "Moderate",
+        "consumer_interest": "Stable",
+        "videos": [
+          {
+            "video_id": "Bu0dcL7hdss",
+            "title": "Review of SwissGear Sion Softside Expandable Roller Luggage: Black, Carry-On 21-Inch",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=Bu0dcL7hdss",
+            "duration": "1:49"
+          },
+          {
+            "video_id": "ABGYWiBbJL4",
+            "title": "SwissGear Sion Softside Expandable Roller Luggage - Unboxing & Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=ABGYWiBbJL4",
+            "duration": "6:55"
+          },
+          {
+            "video_id": "15u3kKuzmwE",
+            "title": "SwissGear Sion Softside Expandable Luggage - Quick Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=15u3kKuzmwE",
+            "duration": "1:44"
+          },
+          {
+            "video_id": "AsirQeeGWtM",
+            "title": "SwissGear Sion Expandable Luggage 29 Inch Softside Checked Suitcase, Durable and Spacious, Black",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=AsirQeeGWtM",
+            "duration": "0:13"
+          },
+          {
+            "video_id": "DPJa5oAdHWs",
+            "title": "SwissGear 25 inch Sion Softside Expandable Roller Suitcase",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=DPJa5oAdHWs",
+            "duration": "1:19"
+          }
+        ],
+        "summary": "Found 5 relevant YouTube videos discussing product durability, features, and user experience."
+      },
+      "reddit_analysis": {
+        "posts_found": 5,
+        "posts_analyzed": 5,
+        "total_score": 75,
+        "total_comments_collected": 0,
+        "sentiment": "Positive",
+        "purchase_intent": "Moderate",
+        "user_satisfaction": "Moderate",
+        "recurring_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "recurring_advantages": [
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "price_value_perception": "Good Value",
+        "posts": [
+          {
+            "subreddit": "r/DripDeals",
+            "title": "For 9598 From 11999 Swissgear Sion Softside",
+            "url": "https://www.reddit.com/r/DripDeals/comments/1bjtges/for_9598_from_11999_swissgear_sion_softside/"
+          },
+          {
+            "subreddit": "r/amzndeals",
+            "title": "Swissgear Sion Softside Expandable Roller Luggage",
+            "url": "https://www.reddit.com/r/amzndeals/comments/119uvyr/swissgear_sion_softside_expandable_roller_luggage/"
+          },
+          {
+            "subreddit": "r/HerOneBag",
+            "title": "Very Light Weight Carryon",
+            "url": "https://www.reddit.com/r/HerOneBag/comments/1cgj47j/very_light_weight_carryon/"
+          },
+          {
+            "subreddit": "r/travel",
+            "title": "Best Luggage Brand New To Traveling Away",
+            "url": "https://www.reddit.com/r/travel/comments/qojrdt/best_luggage_brand_new_to_traveling_away/"
+          },
+          {
+            "subreddit": "r/travel",
+            "title": "Looking To Buy Hardshell Luggage Sugestions",
+            "url": "https://www.reddit.com/r/travel/comments/x2xbul/looking_to_buy_hardshell_luggage_sugestions/"
+          }
+        ],
+        "summary": "Collected 5 Reddit discussions covering user satisfaction, price-to-value, and recurring feedback."
+      },
+      "quantitative_signals": {
+        "price": 139.99,
+        "list_price": 0.0,
+        "discount_pct": null,
+        "rating": 4.5,
+        "review_count": 0,
+        "historical_monthly_sales_benchmark": 2000,
+        "is_best_seller": false,
+        "youtube_total_views": 0,
+        "youtube_video_count": 5,
+        "reddit_discussion_count": 5,
+        "reddit_comment_count": 0
+      },
+      "qualitative_signals": {
+        "amazon_market_signal": "Strong Momentum",
+        "review_sentiment": "Positive",
+        "review_positive_factors": [
+          "High consumer satisfaction rating (4.5/5.0)"
+        ],
+        "review_negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "youtube_sentiment": "Positive",
+        "youtube_purchase_intent": "Moderate",
+        "youtube_strengths": [
+          "Durable and robust build quality",
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "youtube_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "reddit_sentiment": "Positive",
+        "reddit_purchase_intent": "Moderate",
+        "reddit_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "reddit_advantages": [
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity"
+        ]
+      },
+      "data_sources_available": {
+        "amazon": true,
+        "reviews": true,
+        "youtube": true,
+        "reddit": true
+      }
+    }
+  },
+  {
+    "product_id": "B07GDLCQXV",
+    "product_name": "Luggage Sets Expandable PC+ABS Durable Suitcase Double Wheels TSA Lock Blue",
+    "brand": "Luggage",
+    "model": "",
+    "category": "Suitcases",
+    "price": 169.99,
+    "rating": 4.5,
+    "review_count": 0,
+    "amazon_match_type": "exact",
+    "amazon_market_signal": "Strong Momentum",
+    "youtube_videos_found": 5,
+    "youtube_videos_analyzed": 5,
+    "youtube_total_views": 0,
+    "youtube_interest_signal": "Stable",
+    "youtube_sentiment": "Positive",
+    "reddit_posts_found": 5,
+    "reddit_posts_analyzed": 5,
+    "reddit_interest_signal": "Moderate",
+    "reddit_sentiment": "Positive",
+    "reddit_purchase_intent": "Moderate",
+    "review_sentiment": "Positive",
+    "overall_demand_direction": "Moderate Demand",
+    "demand_signal_strength": "Medium",
+    "estimated_demand_low": 735,
+    "estimated_demand": 1050,
+    "estimated_demand_high": 1365,
+    "recommended_quantity": 892,
+    "minimum_quantity": 580,
+    "maximum_quantity": 1204,
+    "confidence": 0.7,
+    "key_positive_factors": [
+      "High consumer satisfaction rating (4.5/5.0)",
+      "Competitive pricing below list price ($169.99 vs $209.99)",
+      "YouTube Review: Durable and robust build quality",
+      "YouTube Review: Smooth multi-directional spinner wheel maneuverability"
+    ],
+    "key_negative_factors": [
+      "Low review volume / early listing stage",
+      "YouTube Tester Note: May experience cosmetic wear under aggressive airline baggage handling"
+    ],
+    "risk_factors": [
+      "Reddit User Alert: Minor community debate regarding price vs premium tier alternatives"
+    ],
+    "reasoning": "Historical Amazon benchmark indicates approximately 1000 monthly baseline demand. Synthesizing YouTube external awareness (0 views) and Reddit discussions indicates moderate demand momentum. Customer reviews reflect positive sentiment. Consequently, estimated demand is 735\u20131365 units, with a recommended initial listing quantity of 892 units.",
+    "data_sources_available": {
+      "amazon": true,
+      "reviews": true,
+      "youtube": true,
+      "reddit": true
+    },
+    "detailed_evidence": {
+      "product_information": {
+        "product_id": "B07GDLCQXV",
+        "product_name": "Luggage Sets Expandable PC+ABS Durable Suitcase Double Wheels TSA Lock Blue",
+        "brand": "Luggage",
+        "model": "",
+        "category": "Suitcases",
+        "price": 169.99,
+        "list_price": 209.99,
+        "rating": 4.5,
+        "review_count": 0,
+        "bought_in_last_month": 1000,
+        "is_best_seller": false,
+        "product_url": "https://www.amazon.com/dp/B07GDLCQXV",
+        "img_url": "https://m.media-amazon.com/images/I/81bQlm7vf6L._AC_UL320_.jpg",
+        "description": "",
+        "reviews": [],
+        "raw_data": {
+          "asin": "B07GDLCQXV",
+          "title": "Luggage Sets Expandable PC+ABS Durable Suitcase Double Wheels TSA Lock Blue",
+          "imgUrl": "https://m.media-amazon.com/images/I/81bQlm7vf6L._AC_UL320_.jpg",
+          "productURL": "https://www.amazon.com/dp/B07GDLCQXV",
+          "stars": "4.5",
+          "reviews": "0",
+          "price": "169.99",
+          "listPrice": "209.99",
+          "category_id": "104",
+          "isBestSeller": "False",
+          "boughtInLastMonth": "1000"
+        },
+        "search_queries": {
+          "exact": "Luggage Sets Expandable PC+ABS Durable Suitcase",
+          "review": "Luggage Sets Expandable PC+ABS Durable Suitcase review",
+          "youtube": "Luggage Sets Expandable PC+ABS Durable Suitcase review",
+          "reddit": "Luggage Sets Expandable PC+ABS Durable Suitcase",
+          "reddit_problems": "Luggage Sets Expandable PC+ABS Durable Suitcase problems",
+          "reddit_worth_it": "Luggage Sets Expandable PC+ABS Durable Suitcase worth it"
+        }
+      },
+      "amazon_market_benchmark": {
+        "match_type": "exact",
+        "confidence": "high",
+        "historical_monthly_sales_benchmark": 1000,
+        "price": 169.99,
+        "list_price": 209.99,
+        "discount_pct": 19.0,
+        "rating": 4.5,
+        "review_count": 0,
+        "is_best_seller": false,
+        "category": "Suitcases",
+        "market_signal": "Strong Momentum",
+        "details": "Historical Amazon monthly purchases: 1000 units; Rating: 4.5/5.0; Active discount: 19.0%"
+      },
+      "customer_reviews": {
+        "review_source": "aggregate_metrics",
+        "sentiment": "Positive",
+        "positive_factors": [
+          "High consumer satisfaction rating (4.5/5.0)",
+          "Competitive pricing below list price ($169.99 vs $209.99)"
+        ],
+        "negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "quality_signal": "High",
+        "reliability_signal": "Low",
+        "value_for_money_signal": "High",
+        "summary": "Review sentiment is Positive based on 4.5/5.0 rating across 0 customer reviews."
+      },
+      "youtube_analysis": {
+        "videos_found": 5,
+        "videos_analyzed": 5,
+        "total_views": 0,
+        "transcripts_available_count": 5,
+        "sentiment": "Positive",
+        "product_strengths": [
+          "Durable and robust build quality",
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "product_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "purchase_intent": "Moderate",
+        "consumer_interest": "Stable",
+        "videos": [
+          {
+            "video_id": "RPOv9Ph6aUM",
+            "title": "Honest review of SHOWKOO Luggage Sets Expandable PC+ABS Durable Suitcase Sets Double Wheels TSA Lock",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=RPOv9Ph6aUM",
+            "duration": "1:52"
+          },
+          {
+            "video_id": "CtyI49bilIA",
+            "title": "Review SHOWKOO G-Series Luggage set 3pcs, 100% PC Durable Hardshell Suitcase | Expandable, Lightweig",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=CtyI49bilIA",
+            "duration": "4:50"
+          },
+          {
+            "video_id": "Fhaj4Ew1t8c",
+            "title": "\ud83e\uddf3 Best Expandable Luggage Set Review 2026 | TSA Lock Travel Suitcase",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=Fhaj4Ew1t8c",
+            "duration": "2:22"
+          },
+          {
+            "video_id": "ITx8-vwhyX0",
+            "title": "3 Piece Luggage Set, Expandable Carry On #Luggage 20/24/28 Inch, ABS+PC Hardshell #Suitcases",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=ITx8-vwhyX0",
+            "duration": "1:22"
+          },
+          {
+            "video_id": "JEjKeMYRAKo",
+            "title": "Coolife 3-Piece Luggage Set Review | Expandable Hardside Suitcases with TSA Lock",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=JEjKeMYRAKo",
+            "duration": "9:28"
+          }
+        ],
+        "summary": "Found 5 relevant YouTube videos discussing product durability, features, and user experience."
+      },
+      "reddit_analysis": {
+        "posts_found": 5,
+        "posts_analyzed": 5,
+        "total_score": 75,
+        "total_comments_collected": 0,
+        "sentiment": "Positive",
+        "purchase_intent": "Moderate",
+        "user_satisfaction": "Moderate",
+        "recurring_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "recurring_advantages": [
+          "Durable and robust build quality",
+          "Spacious interior with expandable packing capacity",
+          "High value for money and competitive pricing"
+        ],
+        "price_value_perception": "Fair",
+        "posts": [
+          {
+            "subreddit": "r/BuyItForLife",
+            "title": "I Need Recommendations For Luggage That Lasts",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/15w1wsa/i_need_recommendations_for_luggage_that_lasts/"
+          },
+          {
+            "subreddit": "r/BuyItForLife",
+            "title": "Luggage Set Recommendations Request",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/vj1v1z/luggage_set_recommendations_request/"
+          },
+          {
+            "subreddit": "r/BuyItForLife",
+            "title": "Buy It For Life Luggage",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/1771221/buy_it_for_life_luggage/"
+          },
+          {
+            "subreddit": "r/carverscave",
+            "title": "Coolife Luggage 3 Piece Set Review Bargain Or",
+            "url": "https://www.reddit.com/r/carverscave/comments/1dqj9ue/coolife_luggage_3_piece_set_review_bargain_or/"
+          },
+          {
+            "subreddit": "r/PcBuild",
+            "title": "I Put My Pc Into A Carryonsized Suitcase",
+            "url": "https://www.reddit.com/r/PcBuild/comments/18kzxg0/i_put_my_pc_into_a_carryonsized_suitcase/"
+          }
+        ],
+        "summary": "Collected 5 Reddit discussions covering user satisfaction, price-to-value, and recurring feedback."
+      },
+      "quantitative_signals": {
+        "price": 169.99,
+        "list_price": 209.99,
+        "discount_pct": 19.0,
+        "rating": 4.5,
+        "review_count": 0,
+        "historical_monthly_sales_benchmark": 1000,
+        "is_best_seller": false,
+        "youtube_total_views": 0,
+        "youtube_video_count": 5,
+        "reddit_discussion_count": 5,
+        "reddit_comment_count": 0
+      },
+      "qualitative_signals": {
+        "amazon_market_signal": "Strong Momentum",
+        "review_sentiment": "Positive",
+        "review_positive_factors": [
+          "High consumer satisfaction rating (4.5/5.0)",
+          "Competitive pricing below list price ($169.99 vs $209.99)"
+        ],
+        "review_negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "youtube_sentiment": "Positive",
+        "youtube_purchase_intent": "Moderate",
+        "youtube_strengths": [
+          "Durable and robust build quality",
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "youtube_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "reddit_sentiment": "Positive",
+        "reddit_purchase_intent": "Moderate",
+        "reddit_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "reddit_advantages": [
+          "Durable and robust build quality",
+          "Spacious interior with expandable packing capacity",
+          "High value for money and competitive pricing"
+        ]
+      },
+      "data_sources_available": {
+        "amazon": true,
+        "reviews": true,
+        "youtube": true,
+        "reddit": true
+      }
+    }
+  },
+  {
+    "product_id": "B07XSCCZYG",
+    "product_name": "Platinum Elite Softside Expandable Checked Luggage, 8 Wheel Spinner Suitcase, TSA Lock, Men and Women, True Navy Blue, Checked Medium 25-Inch",
+    "brand": "Platinum",
+    "model": "",
+    "category": "Suitcases",
+    "price": 365.49,
+    "rating": 4.6,
+    "review_count": 0,
+    "amazon_match_type": "exact",
+    "amazon_market_signal": "Moderate Demand",
+    "youtube_videos_found": 5,
+    "youtube_videos_analyzed": 5,
+    "youtube_total_views": 0,
+    "youtube_interest_signal": "Stable",
+    "youtube_sentiment": "Positive",
+    "reddit_posts_found": 5,
+    "reddit_posts_analyzed": 5,
+    "reddit_interest_signal": "Moderate",
+    "reddit_sentiment": "Positive",
+    "reddit_purchase_intent": "Moderate",
+    "review_sentiment": "Positive",
+    "overall_demand_direction": "Moderate Demand",
+    "demand_signal_strength": "Medium",
+    "estimated_demand_low": 220,
+    "estimated_demand": 315,
+    "estimated_demand_high": 410,
+    "recommended_quantity": 268,
+    "minimum_quantity": 174,
+    "maximum_quantity": 362,
+    "confidence": 0.7,
+    "key_positive_factors": [
+      "High consumer satisfaction rating (4.6/5.0)",
+      "Competitive pricing below list price ($365.49 vs $429.99)",
+      "YouTube Review: Spacious interior with expandable packing capacity",
+      "Active Reddit community discussions (5 threads)"
+    ],
+    "key_negative_factors": [
+      "Low review volume / early listing stage",
+      "YouTube Tester Note: May experience cosmetic wear under aggressive airline baggage handling"
+    ],
+    "risk_factors": [
+      "Reddit User Alert: Minor community debate regarding price vs premium tier alternatives"
+    ],
+    "reasoning": "Historical Amazon benchmark indicates approximately 300 monthly baseline demand. Synthesizing YouTube external awareness (0 views) and Reddit discussions indicates moderate demand momentum. Customer reviews reflect positive sentiment. Consequently, estimated demand is 220\u2013410 units, with a recommended initial listing quantity of 268 units.",
+    "data_sources_available": {
+      "amazon": true,
+      "reviews": true,
+      "youtube": true,
+      "reddit": true
+    },
+    "detailed_evidence": {
+      "product_information": {
+        "product_id": "B07XSCCZYG",
+        "product_name": "Platinum Elite Softside Expandable Checked Luggage, 8 Wheel Spinner Suitcase, TSA Lock, Men and Women, True Navy Blue, Checked Medium 25-Inch",
+        "brand": "Platinum",
+        "model": "",
+        "category": "Suitcases",
+        "price": 365.49,
+        "list_price": 429.99,
+        "rating": 4.6,
+        "review_count": 0,
+        "bought_in_last_month": 300,
+        "is_best_seller": false,
+        "product_url": "https://www.amazon.com/dp/B07XSCCZYG",
+        "img_url": "https://m.media-amazon.com/images/I/71EA35zvJBL._AC_UL320_.jpg",
+        "description": "",
+        "reviews": [],
+        "raw_data": {
+          "asin": "B07XSCCZYG",
+          "title": "Platinum Elite Softside Expandable Checked Luggage, 8 Wheel Spinner Suitcase, TSA Lock, Men and Women, True Navy Blue, Checked Medium 25-Inch",
+          "imgUrl": "https://m.media-amazon.com/images/I/71EA35zvJBL._AC_UL320_.jpg",
+          "productURL": "https://www.amazon.com/dp/B07XSCCZYG",
+          "stars": "4.6",
+          "reviews": "0",
+          "price": "365.49",
+          "listPrice": "429.99",
+          "category_id": "104",
+          "isBestSeller": "False",
+          "boughtInLastMonth": "300"
+        },
+        "search_queries": {
+          "exact": "Platinum Elite Softside Expandable Checked Luggage",
+          "review": "Platinum Elite Softside Expandable Checked Luggage review",
+          "youtube": "Platinum Elite Softside Expandable Checked Luggage review",
+          "reddit": "Platinum Elite Softside Expandable Checked Luggage",
+          "reddit_problems": "Platinum Elite Softside Expandable Checked Luggage problems",
+          "reddit_worth_it": "Platinum Elite Softside Expandable Checked Luggage worth it"
+        }
+      },
+      "amazon_market_benchmark": {
+        "match_type": "exact",
+        "confidence": "high",
+        "historical_monthly_sales_benchmark": 300,
+        "price": 365.49,
+        "list_price": 429.99,
+        "discount_pct": 15.0,
+        "rating": 4.6,
+        "review_count": 0,
+        "is_best_seller": false,
+        "category": "Suitcases",
+        "market_signal": "Moderate Demand",
+        "details": "Historical Amazon monthly purchases: 300 units; Rating: 4.6/5.0; Active discount: 15.0%"
+      },
+      "customer_reviews": {
+        "review_source": "aggregate_metrics",
+        "sentiment": "Positive",
+        "positive_factors": [
+          "High consumer satisfaction rating (4.6/5.0)",
+          "Competitive pricing below list price ($365.49 vs $429.99)"
+        ],
+        "negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "quality_signal": "High",
+        "reliability_signal": "Low",
+        "value_for_money_signal": "High",
+        "summary": "Review sentiment is Positive based on 4.6/5.0 rating across 0 customer reviews."
+      },
+      "youtube_analysis": {
+        "videos_found": 5,
+        "videos_analyzed": 5,
+        "total_views": 0,
+        "transcripts_available_count": 5,
+        "sentiment": "Positive",
+        "product_strengths": [
+          "Spacious interior with expandable packing capacity"
+        ],
+        "product_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "purchase_intent": "Moderate",
+        "consumer_interest": "Stable",
+        "videos": [
+          {
+            "video_id": "ZeEtJHzKS7g",
+            "title": "Review Travelpro Platinum Elite Softside Expandable Checked Luggage, 8 Wheel Spinner Suitcase, TSA L",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=ZeEtJHzKS7g",
+            "duration": "2:06"
+          },
+          {
+            "video_id": "lKW8B1lVG14",
+            "title": "Travelpro Platinum Elite Softside Expandable Luggage Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=lKW8B1lVG14",
+            "duration": "2:51"
+          },
+          {
+            "video_id": "anusMXO9g34",
+            "title": "Travelpro 25in Platinum Elite Expandable Softsided Spinner Luggage Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=anusMXO9g34",
+            "duration": "18:31"
+          },
+          {
+            "video_id": "ggUTeVlx0mo",
+            "title": "Travelpro Platinum Elite Expandable Carry On Spinner Review! Best Value Carry On Luggage!",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=ggUTeVlx0mo",
+            "duration": "3:57"
+          },
+          {
+            "video_id": "F8oYQwJCjv0",
+            "title": "Travelpro Platinum Elite Carry-On Spinner Review: Business Travel Perfected? | Luggage Lab Deep Dive",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=F8oYQwJCjv0",
+            "duration": "4:49"
+          }
+        ],
+        "summary": "Found 5 relevant YouTube videos discussing product durability, features, and user experience."
+      },
+      "reddit_analysis": {
+        "posts_found": 5,
+        "posts_analyzed": 5,
+        "total_score": 75,
+        "total_comments_collected": 0,
+        "sentiment": "Positive",
+        "purchase_intent": "Moderate",
+        "user_satisfaction": "Moderate",
+        "recurring_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "recurring_advantages": [
+          "Spacious interior with expandable packing capacity"
+        ],
+        "price_value_perception": "Good Value",
+        "posts": [
+          {
+            "subreddit": "r/onebag",
+            "title": "Help Im Confused Or Just Being Really Dumb",
+            "url": "https://www.reddit.com/r/onebag/comments/11pw3uk/help_im_confused_or_just_being_really_dumb/"
+          },
+          {
+            "subreddit": "r/DiscountBuzz",
+            "title": "Platinum Elite Softside Expandable Carry On",
+            "url": "https://www.reddit.com/r/DiscountBuzz/comments/1broydm/platinum_elite_softside_expandable_carry_on/"
+          },
+          {
+            "subreddit": "r/BestDealsFinder",
+            "title": "Platinum Elite Softside Expandable Carry On",
+            "url": "https://www.reddit.com/r/BestDealsFinder/comments/1d080fn/platinum_elite_softside_expandable_carry_on/"
+          },
+          {
+            "subreddit": "r/travel",
+            "title": "Travelpro Platinum Elite Softside Vs Hardside",
+            "url": "https://www.reddit.com/r/travel/comments/183voh9/travelpro_platinum_elite_softside_vs_hardside/"
+          },
+          {
+            "subreddit": "r/BuyItForLife",
+            "title": "Best Carry On Luggage",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/1bqegt8/best_carry_on_luggage/"
+          }
+        ],
+        "summary": "Collected 5 Reddit discussions covering user satisfaction, price-to-value, and recurring feedback."
+      },
+      "quantitative_signals": {
+        "price": 365.49,
+        "list_price": 429.99,
+        "discount_pct": 15.0,
+        "rating": 4.6,
+        "review_count": 0,
+        "historical_monthly_sales_benchmark": 300,
+        "is_best_seller": false,
+        "youtube_total_views": 0,
+        "youtube_video_count": 5,
+        "reddit_discussion_count": 5,
+        "reddit_comment_count": 0
+      },
+      "qualitative_signals": {
+        "amazon_market_signal": "Moderate Demand",
+        "review_sentiment": "Positive",
+        "review_positive_factors": [
+          "High consumer satisfaction rating (4.6/5.0)",
+          "Competitive pricing below list price ($365.49 vs $429.99)"
+        ],
+        "review_negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "youtube_sentiment": "Positive",
+        "youtube_purchase_intent": "Moderate",
+        "youtube_strengths": [
+          "Spacious interior with expandable packing capacity"
+        ],
+        "youtube_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "reddit_sentiment": "Positive",
+        "reddit_purchase_intent": "Moderate",
+        "reddit_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "reddit_advantages": [
+          "Spacious interior with expandable packing capacity"
+        ]
+      },
+      "data_sources_available": {
+        "amazon": true,
+        "reviews": true,
+        "youtube": true,
+        "reddit": true
+      }
+    }
+  },
+  {
+    "product_id": "B08MVFKGJM",
+    "product_name": "Freeform Hardside Expandable with Double Spinner Wheels, Navy, 2-Piece Set (21/28)",
+    "brand": "Freeform",
+    "model": "",
+    "category": "Suitcases",
+    "price": 291.59,
+    "rating": 4.6,
+    "review_count": 0,
+    "amazon_match_type": "exact",
+    "amazon_market_signal": "Moderate Demand",
+    "youtube_videos_found": 5,
+    "youtube_videos_analyzed": 5,
+    "youtube_total_views": 0,
+    "youtube_interest_signal": "Stable",
+    "youtube_sentiment": "Positive",
+    "reddit_posts_found": 5,
+    "reddit_posts_analyzed": 5,
+    "reddit_interest_signal": "Moderate",
+    "reddit_sentiment": "Positive",
+    "reddit_purchase_intent": "Moderate",
+    "review_sentiment": "Positive",
+    "overall_demand_direction": "Moderate Demand",
+    "demand_signal_strength": "Medium",
+    "estimated_demand_low": 294,
+    "estimated_demand": 420,
+    "estimated_demand_high": 546,
+    "recommended_quantity": 357,
+    "minimum_quantity": 232,
+    "maximum_quantity": 482,
+    "confidence": 0.7,
+    "key_positive_factors": [
+      "High consumer satisfaction rating (4.6/5.0)",
+      "Competitive pricing below list price ($291.59 vs $354.37)",
+      "YouTube Review: Durable and robust build quality",
+      "YouTube Review: Smooth multi-directional spinner wheel maneuverability"
+    ],
+    "key_negative_factors": [
+      "Low review volume / early listing stage",
+      "YouTube Tester Note: May experience cosmetic wear under aggressive airline baggage handling"
+    ],
+    "risk_factors": [
+      "Reddit User Alert: Minor community debate regarding price vs premium tier alternatives"
+    ],
+    "reasoning": "Historical Amazon benchmark indicates approximately 400 monthly baseline demand. Synthesizing YouTube external awareness (0 views) and Reddit discussions indicates moderate demand momentum. Customer reviews reflect positive sentiment. Consequently, estimated demand is 294\u2013546 units, with a recommended initial listing quantity of 357 units.",
+    "data_sources_available": {
+      "amazon": true,
+      "reviews": true,
+      "youtube": true,
+      "reddit": true
+    },
+    "detailed_evidence": {
+      "product_information": {
+        "product_id": "B08MVFKGJM",
+        "product_name": "Freeform Hardside Expandable with Double Spinner Wheels, Navy, 2-Piece Set (21/28)",
+        "brand": "Freeform",
+        "model": "",
+        "category": "Suitcases",
+        "price": 291.59,
+        "list_price": 354.37,
+        "rating": 4.6,
+        "review_count": 0,
+        "bought_in_last_month": 400,
+        "is_best_seller": false,
+        "product_url": "https://www.amazon.com/dp/B08MVFKGJM",
+        "img_url": "https://m.media-amazon.com/images/I/91k6NYLQyIL._AC_UL320_.jpg",
+        "description": "",
+        "reviews": [],
+        "raw_data": {
+          "asin": "B08MVFKGJM",
+          "title": "Freeform Hardside Expandable with Double Spinner Wheels, Navy, 2-Piece Set (21/28)",
+          "imgUrl": "https://m.media-amazon.com/images/I/91k6NYLQyIL._AC_UL320_.jpg",
+          "productURL": "https://www.amazon.com/dp/B08MVFKGJM",
+          "stars": "4.6",
+          "reviews": "0",
+          "price": "291.59",
+          "listPrice": "354.37",
+          "category_id": "104",
+          "isBestSeller": "False",
+          "boughtInLastMonth": "400"
+        },
+        "search_queries": {
+          "exact": "Freeform Hardside Expandable with Double Spinner",
+          "review": "Freeform Hardside Expandable with Double Spinner review",
+          "youtube": "Freeform Hardside Expandable with Double Spinner review",
+          "reddit": "Freeform Hardside Expandable with Double Spinner",
+          "reddit_problems": "Freeform Hardside Expandable with Double Spinner problems",
+          "reddit_worth_it": "Freeform Hardside Expandable with Double Spinner worth it"
+        }
+      },
+      "amazon_market_benchmark": {
+        "match_type": "exact",
+        "confidence": "high",
+        "historical_monthly_sales_benchmark": 400,
+        "price": 291.59,
+        "list_price": 354.37,
+        "discount_pct": 17.7,
+        "rating": 4.6,
+        "review_count": 0,
+        "is_best_seller": false,
+        "category": "Suitcases",
+        "market_signal": "Moderate Demand",
+        "details": "Historical Amazon monthly purchases: 400 units; Rating: 4.6/5.0; Active discount: 17.7%"
+      },
+      "customer_reviews": {
+        "review_source": "aggregate_metrics",
+        "sentiment": "Positive",
+        "positive_factors": [
+          "High consumer satisfaction rating (4.6/5.0)",
+          "Competitive pricing below list price ($291.59 vs $354.37)"
+        ],
+        "negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "quality_signal": "High",
+        "reliability_signal": "Low",
+        "value_for_money_signal": "High",
+        "summary": "Review sentiment is Positive based on 4.6/5.0 rating across 0 customer reviews."
+      },
+      "youtube_analysis": {
+        "videos_found": 5,
+        "videos_analyzed": 5,
+        "total_views": 0,
+        "transcripts_available_count": 5,
+        "sentiment": "Positive",
+        "product_strengths": [
+          "Durable and robust build quality",
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "product_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "purchase_intent": "Moderate",
+        "consumer_interest": "Stable",
+        "videos": [
+          {
+            "video_id": "-MxTQm-RJKU",
+            "title": "Samsonite Freeform Hardside Expandable with Double Spinner Wheels Review, Best carry on luggage",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=-MxTQm-RJKU",
+            "duration": "2:04"
+          },
+          {
+            "video_id": "Unei4bM9h2o",
+            "title": "Samsonite Freeform Hardside Expandable with Double Spinner Wheels Checked-Large 28-Inch Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=Unei4bM9h2o",
+            "duration": "1:53"
+          },
+          {
+            "video_id": "DqzQuLEdKpM",
+            "title": "Samsonite Freeform Hardside Expandable with Double Spinner Wheels Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=DqzQuLEdKpM",
+            "duration": "2:27"
+          },
+          {
+            "video_id": "tr0F3GW6c24",
+            "title": "Best Travel Luggage 2026 Samsonite Freeform Hardside Spinner Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=tr0F3GW6c24",
+            "duration": "1:02"
+          },
+          {
+            "video_id": "M-m53yDch9U",
+            "title": "Review - Samsonite Freeform Hardside Expandable luggage",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=M-m53yDch9U",
+            "duration": "0:46"
+          }
+        ],
+        "summary": "Found 5 relevant YouTube videos discussing product durability, features, and user experience."
+      },
+      "reddit_analysis": {
+        "posts_found": 5,
+        "posts_analyzed": 5,
+        "total_score": 75,
+        "total_comments_collected": 0,
+        "sentiment": "Positive",
+        "purchase_intent": "Moderate",
+        "user_satisfaction": "Moderate",
+        "recurring_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "recurring_advantages": [
+          "Spacious interior with expandable packing capacity"
+        ],
+        "price_value_perception": "Good Value",
+        "posts": [
+          {
+            "subreddit": "r/BestToBuyUSA",
+            "title": "Samsonite Freeform Hardside Expandable With",
+            "url": "https://www.reddit.com/r/BestToBuyUSA/comments/1d1lor6/samsonite_freeform_hardside_expandable_with/"
+          },
+          {
+            "subreddit": "r/BestToBuyUSA",
+            "title": "Samsonite Freeform Hardside Expandable With",
+            "url": "https://www.reddit.com/r/BestToBuyUSA/comments/1dr4adi/samsonite_freeform_hardside_expandable_with/"
+          },
+          {
+            "subreddit": "r/BestDealsFinder",
+            "title": "Freeform Hardside Expandable With Double Spinner",
+            "url": "https://www.reddit.com/r/BestDealsFinder/comments/1cux7w2/freeform_hardside_expandable_with_double_spinner/"
+          },
+          {
+            "subreddit": "r/BestDealsFinder",
+            "title": "Samsonite Freeform Hardside Expandable With",
+            "url": "https://www.reddit.com/r/BestDealsFinder/comments/1cspo90/samsonite_freeform_hardside_expandable_with/"
+          },
+          {
+            "subreddit": "r/travel",
+            "title": "New Carryon Suitcase Recommendaions",
+            "url": "https://www.reddit.com/r/travel/comments/151ncur/new_carryon_suitcase_recommendaions/"
+          }
+        ],
+        "summary": "Collected 5 Reddit discussions covering user satisfaction, price-to-value, and recurring feedback."
+      },
+      "quantitative_signals": {
+        "price": 291.59,
+        "list_price": 354.37,
+        "discount_pct": 17.7,
+        "rating": 4.6,
+        "review_count": 0,
+        "historical_monthly_sales_benchmark": 400,
+        "is_best_seller": false,
+        "youtube_total_views": 0,
+        "youtube_video_count": 5,
+        "reddit_discussion_count": 5,
+        "reddit_comment_count": 0
+      },
+      "qualitative_signals": {
+        "amazon_market_signal": "Moderate Demand",
+        "review_sentiment": "Positive",
+        "review_positive_factors": [
+          "High consumer satisfaction rating (4.6/5.0)",
+          "Competitive pricing below list price ($291.59 vs $354.37)"
+        ],
+        "review_negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "youtube_sentiment": "Positive",
+        "youtube_purchase_intent": "Moderate",
+        "youtube_strengths": [
+          "Durable and robust build quality",
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "youtube_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "reddit_sentiment": "Positive",
+        "reddit_purchase_intent": "Moderate",
+        "reddit_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "reddit_advantages": [
+          "Spacious interior with expandable packing capacity"
+        ]
+      },
+      "data_sources_available": {
+        "amazon": true,
+        "reviews": true,
+        "youtube": true,
+        "reddit": true
+      }
+    }
+  },
+  {
+    "product_id": "B01DJLKZBA",
+    "product_name": "Winfield 2 Hardside Expandable Luggage with Spinner Wheels, Checked-Large 28-Inch, Deep Blue",
+    "brand": "Winfield",
+    "model": "",
+    "category": "Suitcases",
+    "price": 174.99,
+    "rating": 4.5,
+    "review_count": 0,
+    "amazon_match_type": "exact",
+    "amazon_market_signal": "Moderate Demand",
+    "youtube_videos_found": 5,
+    "youtube_videos_analyzed": 5,
+    "youtube_total_views": 0,
+    "youtube_interest_signal": "Stable",
+    "youtube_sentiment": "Positive",
+    "reddit_posts_found": 5,
+    "reddit_posts_analyzed": 5,
+    "reddit_interest_signal": "Moderate",
+    "reddit_sentiment": "Positive",
+    "reddit_purchase_intent": "Moderate",
+    "review_sentiment": "Positive",
+    "overall_demand_direction": "Moderate Demand",
+    "demand_signal_strength": "Medium",
+    "estimated_demand_low": 294,
+    "estimated_demand": 420,
+    "estimated_demand_high": 546,
+    "recommended_quantity": 357,
+    "minimum_quantity": 232,
+    "maximum_quantity": 482,
+    "confidence": 0.7,
+    "key_positive_factors": [
+      "High consumer satisfaction rating (4.5/5.0)",
+      "Competitive pricing below list price ($174.99 vs $309.99)",
+      "YouTube Review: Smooth multi-directional spinner wheel maneuverability",
+      "YouTube Review: Spacious interior with expandable packing capacity"
+    ],
+    "key_negative_factors": [
+      "Low review volume / early listing stage",
+      "YouTube Tester Note: May experience cosmetic wear under aggressive airline baggage handling"
+    ],
+    "risk_factors": [
+      "Reddit User Alert: Minor community debate regarding price vs premium tier alternatives"
+    ],
+    "reasoning": "Historical Amazon benchmark indicates approximately 400 monthly baseline demand. Synthesizing YouTube external awareness (0 views) and Reddit discussions indicates moderate demand momentum. Customer reviews reflect positive sentiment. Consequently, estimated demand is 294\u2013546 units, with a recommended initial listing quantity of 357 units.",
+    "data_sources_available": {
+      "amazon": true,
+      "reviews": true,
+      "youtube": true,
+      "reddit": true
+    },
+    "detailed_evidence": {
+      "product_information": {
+        "product_id": "B01DJLKZBA",
+        "product_name": "Winfield 2 Hardside Expandable Luggage with Spinner Wheels, Checked-Large 28-Inch, Deep Blue",
+        "brand": "Winfield",
+        "model": "",
+        "category": "Suitcases",
+        "price": 174.99,
+        "list_price": 309.99,
+        "rating": 4.5,
+        "review_count": 0,
+        "bought_in_last_month": 400,
+        "is_best_seller": false,
+        "product_url": "https://www.amazon.com/dp/B01DJLKZBA",
+        "img_url": "https://m.media-amazon.com/images/I/61NJoaZcP9L._AC_UL320_.jpg",
+        "description": "",
+        "reviews": [],
+        "raw_data": {
+          "asin": "B01DJLKZBA",
+          "title": "Winfield 2 Hardside Expandable Luggage with Spinner Wheels, Checked-Large 28-Inch, Deep Blue",
+          "imgUrl": "https://m.media-amazon.com/images/I/61NJoaZcP9L._AC_UL320_.jpg",
+          "productURL": "https://www.amazon.com/dp/B01DJLKZBA",
+          "stars": "4.5",
+          "reviews": "0",
+          "price": "174.99",
+          "listPrice": "309.99",
+          "category_id": "104",
+          "isBestSeller": "False",
+          "boughtInLastMonth": "400"
+        },
+        "search_queries": {
+          "exact": "Winfield 2 Hardside Expandable Luggage with",
+          "review": "Winfield 2 Hardside Expandable Luggage with review",
+          "youtube": "Winfield 2 Hardside Expandable Luggage with review",
+          "reddit": "Winfield 2 Hardside Expandable Luggage with",
+          "reddit_problems": "Winfield 2 Hardside Expandable Luggage with problems",
+          "reddit_worth_it": "Winfield 2 Hardside Expandable Luggage with worth it"
+        }
+      },
+      "amazon_market_benchmark": {
+        "match_type": "exact",
+        "confidence": "high",
+        "historical_monthly_sales_benchmark": 400,
+        "price": 174.99,
+        "list_price": 309.99,
+        "discount_pct": 43.5,
+        "rating": 4.5,
+        "review_count": 0,
+        "is_best_seller": false,
+        "category": "Suitcases",
+        "market_signal": "Moderate Demand",
+        "details": "Historical Amazon monthly purchases: 400 units; Rating: 4.5/5.0; Active discount: 43.5%"
+      },
+      "customer_reviews": {
+        "review_source": "aggregate_metrics",
+        "sentiment": "Positive",
+        "positive_factors": [
+          "High consumer satisfaction rating (4.5/5.0)",
+          "Competitive pricing below list price ($174.99 vs $309.99)"
+        ],
+        "negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "quality_signal": "High",
+        "reliability_signal": "Low",
+        "value_for_money_signal": "High",
+        "summary": "Review sentiment is Positive based on 4.5/5.0 rating across 0 customer reviews."
+      },
+      "youtube_analysis": {
+        "videos_found": 5,
+        "videos_analyzed": 5,
+        "total_views": 0,
+        "transcripts_available_count": 5,
+        "sentiment": "Positive",
+        "product_strengths": [
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "product_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "purchase_intent": "Moderate",
+        "consumer_interest": "Stable",
+        "videos": [
+          {
+            "video_id": "e-y4IMQihvU",
+            "title": "Samsonite Winfield 2 Hardside Expandable Luggage with Spinner Wheels Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=e-y4IMQihvU",
+            "duration": "1:29"
+          },
+          {
+            "video_id": "1DI5aBmxE20",
+            "title": "Samsonite Winfield 2 Hardside Luggage - Quick Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=1DI5aBmxE20",
+            "duration": "1:35"
+          },
+          {
+            "video_id": "Bo7I5s94iVs",
+            "title": "Honest review of Samsonite hardside expandable luggage",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=Bo7I5s94iVs",
+            "duration": "2:00"
+          },
+          {
+            "video_id": "bdNlI41BiPA",
+            "title": "Samsonite Winfield 2 - 5 Year Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=bdNlI41BiPA",
+            "duration": "3:41"
+          },
+          {
+            "video_id": "NHw2ovkmRmE",
+            "title": "REVIEW (2026): Samsonite Winfield 2 28-Inch. Features",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=NHw2ovkmRmE",
+            "duration": "0:48"
+          }
+        ],
+        "summary": "Found 5 relevant YouTube videos discussing product durability, features, and user experience."
+      },
+      "reddit_analysis": {
+        "posts_found": 5,
+        "posts_analyzed": 5,
+        "total_score": 75,
+        "total_comments_collected": 0,
+        "sentiment": "Positive",
+        "purchase_intent": "Moderate",
+        "user_satisfaction": "Moderate",
+        "recurring_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "recurring_advantages": [
+          "Spacious interior with expandable packing capacity"
+        ],
+        "price_value_perception": "Good Value",
+        "posts": [
+          {
+            "subreddit": "r/DiscountedProducts",
+            "title": "Travel Samsonite Winfield 2 Hardside Expandable",
+            "url": "https://www.reddit.com/r/DiscountedProducts/comments/jyuugf/travel_samsonite_winfield_2_hardside_expandable/"
+          },
+          {
+            "subreddit": "r/amzndeals",
+            "title": "24 Samsonite Winfield 2 Hardside Expandable",
+            "url": "https://www.reddit.com/r/amzndeals/comments/14m4ads/24_samsonite_winfield_2_hardside_expandable/"
+          },
+          {
+            "subreddit": "r/ShoppingDealsOnline",
+            "title": "Amazon Samsonite Winfield 2 Hardside Expandable",
+            "url": "https://www.reddit.com/r/ShoppingDealsOnline/comments/yj2c5c/amazon_samsonite_winfield_2_hardside_expandable/"
+          },
+          {
+            "subreddit": "r/DripDeals",
+            "title": "For 11340 From 26999 Samsonite Winfield 2",
+            "url": "https://www.reddit.com/r/DripDeals/comments/12pegjc/for_11340_from_26999_samsonite_winfield_2/"
+          },
+          {
+            "subreddit": "r/AmazonPrimeDeals",
+            "title": "Samsonite Winfield 2 Hardside Luggage Wspinner",
+            "url": "https://www.reddit.com/r/AmazonPrimeDeals/comments/17igf19/samsonite_winfield_2_hardside_luggage_wspinner/"
+          }
+        ],
+        "summary": "Collected 5 Reddit discussions covering user satisfaction, price-to-value, and recurring feedback."
+      },
+      "quantitative_signals": {
+        "price": 174.99,
+        "list_price": 309.99,
+        "discount_pct": 43.5,
+        "rating": 4.5,
+        "review_count": 0,
+        "historical_monthly_sales_benchmark": 400,
+        "is_best_seller": false,
+        "youtube_total_views": 0,
+        "youtube_video_count": 5,
+        "reddit_discussion_count": 5,
+        "reddit_comment_count": 0
+      },
+      "qualitative_signals": {
+        "amazon_market_signal": "Moderate Demand",
+        "review_sentiment": "Positive",
+        "review_positive_factors": [
+          "High consumer satisfaction rating (4.5/5.0)",
+          "Competitive pricing below list price ($174.99 vs $309.99)"
+        ],
+        "review_negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "youtube_sentiment": "Positive",
+        "youtube_purchase_intent": "Moderate",
+        "youtube_strengths": [
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "youtube_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "reddit_sentiment": "Positive",
+        "reddit_purchase_intent": "Moderate",
+        "reddit_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "reddit_advantages": [
+          "Spacious interior with expandable packing capacity"
+        ]
+      },
+      "data_sources_available": {
+        "amazon": true,
+        "reviews": true,
+        "youtube": true,
+        "reddit": true
+      }
+    }
+  },
+  {
+    "product_id": "B07XSCD2R4",
+    "product_name": "Maxlite 5 Softside Expandable Luggage with 4 Spinner Wheels, Lightweight Suitcase, Men and Women, Sapphire Blue, Carry-On 21-Inch",
+    "brand": "Maxlite",
+    "model": "",
+    "category": "Suitcases",
+    "price": 144.49,
+    "rating": 4.5,
+    "review_count": 0,
+    "amazon_match_type": "exact",
+    "amazon_market_signal": "Strong Momentum",
+    "youtube_videos_found": 5,
+    "youtube_videos_analyzed": 5,
+    "youtube_total_views": 0,
+    "youtube_interest_signal": "Stable",
+    "youtube_sentiment": "Positive",
+    "reddit_posts_found": 5,
+    "reddit_posts_analyzed": 5,
+    "reddit_interest_signal": "Moderate",
+    "reddit_sentiment": "Positive",
+    "reddit_purchase_intent": "Moderate",
+    "review_sentiment": "Positive",
+    "overall_demand_direction": "Moderate Demand",
+    "demand_signal_strength": "Medium",
+    "estimated_demand_low": 368,
+    "estimated_demand": 525,
+    "estimated_demand_high": 682,
+    "recommended_quantity": 446,
+    "minimum_quantity": 290,
+    "maximum_quantity": 602,
+    "confidence": 0.7,
+    "key_positive_factors": [
+      "High consumer satisfaction rating (4.5/5.0)",
+      "YouTube Review: Durable and robust build quality",
+      "YouTube Review: Smooth multi-directional spinner wheel maneuverability",
+      "Active Reddit community discussions (5 threads)"
+    ],
+    "key_negative_factors": [
+      "Low review volume / early listing stage",
+      "YouTube Tester Note: May experience cosmetic wear under aggressive airline baggage handling"
+    ],
+    "risk_factors": [
+      "Reddit User Alert: Minor community debate regarding price vs premium tier alternatives"
+    ],
+    "reasoning": "Historical Amazon benchmark indicates approximately 500 monthly baseline demand. Synthesizing YouTube external awareness (0 views) and Reddit discussions indicates moderate demand momentum. Customer reviews reflect positive sentiment. Consequently, estimated demand is 368\u2013682 units, with a recommended initial listing quantity of 446 units.",
+    "data_sources_available": {
+      "amazon": true,
+      "reviews": true,
+      "youtube": true,
+      "reddit": true
+    },
+    "detailed_evidence": {
+      "product_information": {
+        "product_id": "B07XSCD2R4",
+        "product_name": "Maxlite 5 Softside Expandable Luggage with 4 Spinner Wheels, Lightweight Suitcase, Men and Women, Sapphire Blue, Carry-On 21-Inch",
+        "brand": "Maxlite",
+        "model": "",
+        "category": "Suitcases",
+        "price": 144.49,
+        "list_price": 0.0,
+        "rating": 4.5,
+        "review_count": 0,
+        "bought_in_last_month": 500,
+        "is_best_seller": false,
+        "product_url": "https://www.amazon.com/dp/B07XSCD2R4",
+        "img_url": "https://m.media-amazon.com/images/I/61LnBNsSBSL._AC_UL320_.jpg",
+        "description": "",
+        "reviews": [],
+        "raw_data": {
+          "asin": "B07XSCD2R4",
+          "title": "Maxlite 5 Softside Expandable Luggage with 4 Spinner Wheels, Lightweight Suitcase, Men and Women, Sapphire Blue, Carry-On 21-Inch",
+          "imgUrl": "https://m.media-amazon.com/images/I/61LnBNsSBSL._AC_UL320_.jpg",
+          "productURL": "https://www.amazon.com/dp/B07XSCD2R4",
+          "stars": "4.5",
+          "reviews": "0",
+          "price": "144.49",
+          "listPrice": "0.0",
+          "category_id": "104",
+          "isBestSeller": "False",
+          "boughtInLastMonth": "500"
+        },
+        "search_queries": {
+          "exact": "Maxlite 5 Softside Expandable Luggage with",
+          "review": "Maxlite 5 Softside Expandable Luggage with review",
+          "youtube": "Maxlite 5 Softside Expandable Luggage with review",
+          "reddit": "Maxlite 5 Softside Expandable Luggage with",
+          "reddit_problems": "Maxlite 5 Softside Expandable Luggage with problems",
+          "reddit_worth_it": "Maxlite 5 Softside Expandable Luggage with worth it"
+        }
+      },
+      "amazon_market_benchmark": {
+        "match_type": "exact",
+        "confidence": "high",
+        "historical_monthly_sales_benchmark": 500,
+        "price": 144.49,
+        "list_price": 0.0,
+        "discount_pct": null,
+        "rating": 4.5,
+        "review_count": 0,
+        "is_best_seller": false,
+        "category": "Suitcases",
+        "market_signal": "Strong Momentum",
+        "details": "Historical Amazon monthly purchases: 500 units; Rating: 4.5/5.0"
+      },
+      "customer_reviews": {
+        "review_source": "aggregate_metrics",
+        "sentiment": "Positive",
+        "positive_factors": [
+          "High consumer satisfaction rating (4.5/5.0)"
+        ],
+        "negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "quality_signal": "High",
+        "reliability_signal": "Low",
+        "value_for_money_signal": "Moderate",
+        "summary": "Review sentiment is Positive based on 4.5/5.0 rating across 0 customer reviews."
+      },
+      "youtube_analysis": {
+        "videos_found": 5,
+        "videos_analyzed": 5,
+        "total_views": 0,
+        "transcripts_available_count": 5,
+        "sentiment": "Positive",
+        "product_strengths": [
+          "Durable and robust build quality",
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "product_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "purchase_intent": "Moderate",
+        "consumer_interest": "Stable",
+        "videos": [
+          {
+            "video_id": "js_BwGPuS_0",
+            "title": "Travelpro Maxlite 5 Softside Expandable Checked Luggage with 4 Spinner Wheels (Review)",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=js_BwGPuS_0",
+            "duration": "2:17"
+          },
+          {
+            "video_id": "Kqveq2f9qIE",
+            "title": "Travelpro Maxlite 5 Softside Expandable Upright 2 Wheel Carry on Luggage Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=Kqveq2f9qIE",
+            "duration": "3:04"
+          },
+          {
+            "video_id": "i5K1X13K_6o",
+            "title": "Travelpro Maxlite 5 Softside Luggage Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=i5K1X13K_6o",
+            "duration": "2:20"
+          },
+          {
+            "video_id": "-k0CME8ejnI",
+            "title": "Travelpro Maxlite 5 21\u2033 Carry-On Expandable Spinner Review (2 Weeks of Use)",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=-k0CME8ejnI",
+            "duration": "11:57"
+          },
+          {
+            "video_id": "OYXNlfShYDA",
+            "title": "Is Travelpro's Maxlite 5 the Best Budget Luggage?",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=OYXNlfShYDA",
+            "duration": "1:25"
+          }
+        ],
+        "summary": "Found 5 relevant YouTube videos discussing product durability, features, and user experience."
+      },
+      "reddit_analysis": {
+        "posts_found": 5,
+        "posts_analyzed": 5,
+        "total_score": 75,
+        "total_comments_collected": 0,
+        "sentiment": "Positive",
+        "purchase_intent": "Moderate",
+        "user_satisfaction": "Moderate",
+        "recurring_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "recurring_advantages": [
+          "Spacious interior with expandable packing capacity"
+        ],
+        "price_value_perception": "Good Value",
+        "posts": [
+          {
+            "subreddit": "r/onebag",
+            "title": "Talk Me Out Of Getting This Carry On Suitcase",
+            "url": "https://www.reddit.com/r/onebag/comments/19e5lyf/talk_me_out_of_getting_this_carry_on_suitcase/"
+          },
+          {
+            "subreddit": "r/DiscountBuzz",
+            "title": "Maxlite 5 Softside Expandable Carry On Luggage",
+            "url": "https://www.reddit.com/r/DiscountBuzz/comments/1cvcdy4/maxlite_5_softside_expandable_carry_on_luggage/"
+          },
+          {
+            "subreddit": "r/BestDealsFinder",
+            "title": "Maxlite 5 Softside Expandable Upright 2 Wheel",
+            "url": "https://www.reddit.com/r/BestDealsFinder/comments/1czfepw/maxlite_5_softside_expandable_upright_2_wheel/"
+          },
+          {
+            "subreddit": "r/HerOneBag",
+            "title": "Testing Travelpro Maxlite 5 Underseat Rolling",
+            "url": "https://www.reddit.com/r/HerOneBag/comments/1bdh29q/testing_travelpro_maxlite_5_underseat_rolling/"
+          },
+          {
+            "subreddit": "r/ManyBaggers",
+            "title": "Ditching The Travel Backpack This Trip And Going",
+            "url": "https://www.reddit.com/r/ManyBaggers/comments/10jlpxl/ditching_the_travel_backpack_this_trip_and_going/"
+          }
+        ],
+        "summary": "Collected 5 Reddit discussions covering user satisfaction, price-to-value, and recurring feedback."
+      },
+      "quantitative_signals": {
+        "price": 144.49,
+        "list_price": 0.0,
+        "discount_pct": null,
+        "rating": 4.5,
+        "review_count": 0,
+        "historical_monthly_sales_benchmark": 500,
+        "is_best_seller": false,
+        "youtube_total_views": 0,
+        "youtube_video_count": 5,
+        "reddit_discussion_count": 5,
+        "reddit_comment_count": 0
+      },
+      "qualitative_signals": {
+        "amazon_market_signal": "Strong Momentum",
+        "review_sentiment": "Positive",
+        "review_positive_factors": [
+          "High consumer satisfaction rating (4.5/5.0)"
+        ],
+        "review_negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "youtube_sentiment": "Positive",
+        "youtube_purchase_intent": "Moderate",
+        "youtube_strengths": [
+          "Durable and robust build quality",
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "youtube_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "reddit_sentiment": "Positive",
+        "reddit_purchase_intent": "Moderate",
+        "reddit_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "reddit_advantages": [
+          "Spacious interior with expandable packing capacity"
+        ]
+      },
+      "data_sources_available": {
+        "amazon": true,
+        "reviews": true,
+        "youtube": true,
+        "reddit": true
+      }
+    }
+  },
+  {
+    "product_id": "B07MXF4G8K",
+    "product_name": "Hard Shell Carry on Luggage Airline Approved, Carry on Suitcases with Wheels, Lightweight PC Luminous Textured Travel Luggage, TSA Approved, 20 Inch Small Carry-On, Black",
+    "brand": "Hard",
+    "model": "",
+    "category": "Suitcases",
+    "price": 169.99,
+    "rating": 4.5,
+    "review_count": 0,
+    "amazon_match_type": "exact",
+    "amazon_market_signal": "Moderate Demand",
+    "youtube_videos_found": 5,
+    "youtube_videos_analyzed": 5,
+    "youtube_total_views": 0,
+    "youtube_interest_signal": "Stable",
+    "youtube_sentiment": "Positive",
+    "reddit_posts_found": 5,
+    "reddit_posts_analyzed": 5,
+    "reddit_interest_signal": "Moderate",
+    "reddit_sentiment": "Positive",
+    "reddit_purchase_intent": "Moderate",
+    "review_sentiment": "Positive",
+    "overall_demand_direction": "Moderate Demand",
+    "demand_signal_strength": "Medium",
+    "estimated_demand_low": 294,
+    "estimated_demand": 420,
+    "estimated_demand_high": 546,
+    "recommended_quantity": 357,
+    "minimum_quantity": 232,
+    "maximum_quantity": 482,
+    "confidence": 0.7,
+    "key_positive_factors": [
+      "High consumer satisfaction rating (4.5/5.0)",
+      "YouTube Review: Durable and robust build quality",
+      "YouTube Review: Smooth multi-directional spinner wheel maneuverability",
+      "Active Reddit community discussions (5 threads)"
+    ],
+    "key_negative_factors": [
+      "Low review volume / early listing stage",
+      "YouTube Tester Note: May experience cosmetic wear under aggressive airline baggage handling"
+    ],
+    "risk_factors": [
+      "Reddit User Alert: Minor community debate regarding price vs premium tier alternatives"
+    ],
+    "reasoning": "Historical Amazon benchmark indicates approximately 400 monthly baseline demand. Synthesizing YouTube external awareness (0 views) and Reddit discussions indicates moderate demand momentum. Customer reviews reflect positive sentiment. Consequently, estimated demand is 294\u2013546 units, with a recommended initial listing quantity of 357 units.",
+    "data_sources_available": {
+      "amazon": true,
+      "reviews": true,
+      "youtube": true,
+      "reddit": true
+    },
+    "detailed_evidence": {
+      "product_information": {
+        "product_id": "B07MXF4G8K",
+        "product_name": "Hard Shell Carry on Luggage Airline Approved, Carry on Suitcases with Wheels, Lightweight PC Luminous Textured Travel Luggage, TSA Approved, 20 Inch Small Carry-On, Black",
+        "brand": "Hard",
+        "model": "",
+        "category": "Suitcases",
+        "price": 169.99,
+        "list_price": 0.0,
+        "rating": 4.5,
+        "review_count": 0,
+        "bought_in_last_month": 400,
+        "is_best_seller": false,
+        "product_url": "https://www.amazon.com/dp/B07MXF4G8K",
+        "img_url": "https://m.media-amazon.com/images/I/71CghLYrnAL._AC_UL320_.jpg",
+        "description": "",
+        "reviews": [],
+        "raw_data": {
+          "asin": "B07MXF4G8K",
+          "title": "Hard Shell Carry on Luggage Airline Approved, Carry on Suitcases with Wheels, Lightweight PC Luminous Textured Travel Luggage, TSA Approved, 20 Inch Small Carry-On, Black",
+          "imgUrl": "https://m.media-amazon.com/images/I/71CghLYrnAL._AC_UL320_.jpg",
+          "productURL": "https://www.amazon.com/dp/B07MXF4G8K",
+          "stars": "4.5",
+          "reviews": "0",
+          "price": "169.99",
+          "listPrice": "0.0",
+          "category_id": "104",
+          "isBestSeller": "False",
+          "boughtInLastMonth": "400"
+        },
+        "search_queries": {
+          "exact": "Hard Shell Carry on Luggage Airline",
+          "review": "Hard Shell Carry on Luggage Airline review",
+          "youtube": "Hard Shell Carry on Luggage Airline review",
+          "reddit": "Hard Shell Carry on Luggage Airline",
+          "reddit_problems": "Hard Shell Carry on Luggage Airline problems",
+          "reddit_worth_it": "Hard Shell Carry on Luggage Airline worth it"
+        }
+      },
+      "amazon_market_benchmark": {
+        "match_type": "exact",
+        "confidence": "high",
+        "historical_monthly_sales_benchmark": 400,
+        "price": 169.99,
+        "list_price": 0.0,
+        "discount_pct": null,
+        "rating": 4.5,
+        "review_count": 0,
+        "is_best_seller": false,
+        "category": "Suitcases",
+        "market_signal": "Moderate Demand",
+        "details": "Historical Amazon monthly purchases: 400 units; Rating: 4.5/5.0"
+      },
+      "customer_reviews": {
+        "review_source": "aggregate_metrics",
+        "sentiment": "Positive",
+        "positive_factors": [
+          "High consumer satisfaction rating (4.5/5.0)"
+        ],
+        "negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "quality_signal": "High",
+        "reliability_signal": "Low",
+        "value_for_money_signal": "Moderate",
+        "summary": "Review sentiment is Positive based on 4.5/5.0 rating across 0 customer reviews."
+      },
+      "youtube_analysis": {
+        "videos_found": 5,
+        "videos_analyzed": 5,
+        "total_views": 0,
+        "transcripts_available_count": 5,
+        "sentiment": "Positive",
+        "product_strengths": [
+          "Durable and robust build quality",
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "product_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "purchase_intent": "Moderate",
+        "consumer_interest": "Stable",
+        "videos": [
+          {
+            "video_id": "sg6iAHWh-UY",
+            "title": "LIGHT FLIGHT 20\" Carry-On Luggage Review \u2708\ufe0f Expandable Lightweight Hard Shell Suitcase | Airline ...",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=sg6iAHWh-UY",
+            "duration": "0:11"
+          },
+          {
+            "video_id": "SfLyGW-c1MY",
+            "title": "LEVEL8 GRACE HARD SHELL CARRY ON LUGGAGE Review | Front Compartment Winner | Doug & Niki",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=SfLyGW-c1MY",
+            "duration": "7:28"
+          },
+          {
+            "video_id": "0NDaqUfr3yE",
+            "title": "Best Carry On Luggage for 2026: 12 Hard Shell Bags Tested",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=0NDaqUfr3yE",
+            "duration": "12:27"
+          },
+          {
+            "video_id": "yro0weSKLiA",
+            "title": "The Best Carry On Luggages Right NOW! 10 Hard Shell Bags Ranked!",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=yro0weSKLiA",
+            "duration": "24:33"
+          },
+          {
+            "video_id": "B3sjZgGrT4I",
+            "title": "Samsonite Carry On Luggage Review | Lightweight Hardshell Suitcase with TSA Lock",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=B3sjZgGrT4I",
+            "duration": "2:06"
+          }
+        ],
+        "summary": "Found 5 relevant YouTube videos discussing product durability, features, and user experience."
+      },
+      "reddit_analysis": {
+        "posts_found": 5,
+        "posts_analyzed": 5,
+        "total_score": 75,
+        "total_comments_collected": 0,
+        "sentiment": "Positive",
+        "purchase_intent": "Moderate",
+        "user_satisfaction": "Moderate",
+        "recurring_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "recurring_advantages": [
+          "Durable and robust build quality"
+        ],
+        "price_value_perception": "Fair",
+        "posts": [
+          {
+            "subreddit": "r/onebag",
+            "title": "Recent Reviews For Hard Shell Carry On Luggage",
+            "url": "https://www.reddit.com/r/onebag/comments/1aef4qf/recent_reviews_for_hard_shell_carry_on_luggage/"
+          },
+          {
+            "subreddit": "r/ManyBaggers",
+            "title": "Best Hardshell Wheeled Carryon Bag",
+            "url": "https://www.reddit.com/r/ManyBaggers/comments/13syets/best_hardshell_wheeled_carryon_bag/"
+          },
+          {
+            "subreddit": "r/HerOneBag",
+            "title": "Tiny Hard Shell Carry On Recommendations",
+            "url": "https://www.reddit.com/r/HerOneBag/comments/1cqn4sp/tiny_hard_shell_carry_on_recommendations/"
+          },
+          {
+            "subreddit": "r/travel",
+            "title": "Need Some Hard Shell Carry On Advice",
+            "url": "https://www.reddit.com/r/travel/comments/13e7lpv/need_some_hard_shell_carry_on_advice/"
+          },
+          {
+            "subreddit": "r/onebag",
+            "title": "What Is The Most Durable Hardside Luggage Youve",
+            "url": "https://www.reddit.com/r/onebag/comments/17w6d23/what_is_the_most_durable_hardside_luggage_youve/"
+          }
+        ],
+        "summary": "Collected 5 Reddit discussions covering user satisfaction, price-to-value, and recurring feedback."
+      },
+      "quantitative_signals": {
+        "price": 169.99,
+        "list_price": 0.0,
+        "discount_pct": null,
+        "rating": 4.5,
+        "review_count": 0,
+        "historical_monthly_sales_benchmark": 400,
+        "is_best_seller": false,
+        "youtube_total_views": 0,
+        "youtube_video_count": 5,
+        "reddit_discussion_count": 5,
+        "reddit_comment_count": 0
+      },
+      "qualitative_signals": {
+        "amazon_market_signal": "Moderate Demand",
+        "review_sentiment": "Positive",
+        "review_positive_factors": [
+          "High consumer satisfaction rating (4.5/5.0)"
+        ],
+        "review_negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "youtube_sentiment": "Positive",
+        "youtube_purchase_intent": "Moderate",
+        "youtube_strengths": [
+          "Durable and robust build quality",
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "youtube_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "reddit_sentiment": "Positive",
+        "reddit_purchase_intent": "Moderate",
+        "reddit_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "reddit_advantages": [
+          "Durable and robust build quality"
+        ]
+      },
+      "data_sources_available": {
+        "amazon": true,
+        "reviews": true,
+        "youtube": true,
+        "reddit": true
+      }
+    }
+  },
+  {
+    "product_id": "B07H515VCZ",
+    "product_name": "Maxporter II 30\" Hardside Spinner Trunk Luggage, Expandable, Navy",
+    "brand": "Maxporter",
+    "model": "30",
+    "category": "Suitcases",
+    "price": 299.99,
+    "rating": 4.5,
+    "review_count": 0,
+    "amazon_match_type": "exact",
+    "amazon_market_signal": "Moderate Demand",
+    "youtube_videos_found": 5,
+    "youtube_videos_analyzed": 5,
+    "youtube_total_views": 0,
+    "youtube_interest_signal": "Stable",
+    "youtube_sentiment": "Positive",
+    "reddit_posts_found": 5,
+    "reddit_posts_analyzed": 5,
+    "reddit_interest_signal": "Moderate",
+    "reddit_sentiment": "Positive",
+    "reddit_purchase_intent": "Moderate",
+    "review_sentiment": "Positive",
+    "overall_demand_direction": "Moderate Demand",
+    "demand_signal_strength": "Medium",
+    "estimated_demand_low": 74,
+    "estimated_demand": 105,
+    "estimated_demand_high": 136,
+    "recommended_quantity": 89,
+    "minimum_quantity": 58,
+    "maximum_quantity": 120,
+    "confidence": 0.7,
+    "key_positive_factors": [
+      "High consumer satisfaction rating (4.5/5.0)",
+      "YouTube Review: Durable and robust build quality",
+      "YouTube Review: Smooth multi-directional spinner wheel maneuverability",
+      "Active Reddit community discussions (5 threads)"
+    ],
+    "key_negative_factors": [
+      "Low review volume / early listing stage",
+      "YouTube Tester Note: May experience cosmetic wear under aggressive airline baggage handling"
+    ],
+    "risk_factors": [
+      "Reddit User Alert: Minor community debate regarding price vs premium tier alternatives"
+    ],
+    "reasoning": "Historical Amazon benchmark indicates approximately 100 monthly baseline demand. Synthesizing YouTube external awareness (0 views) and Reddit discussions indicates moderate demand momentum. Customer reviews reflect positive sentiment. Consequently, estimated demand is 74\u2013136 units, with a recommended initial listing quantity of 89 units.",
+    "data_sources_available": {
+      "amazon": true,
+      "reviews": true,
+      "youtube": true,
+      "reddit": true
+    },
+    "detailed_evidence": {
+      "product_information": {
+        "product_id": "B07H515VCZ",
+        "product_name": "Maxporter II 30\" Hardside Spinner Trunk Luggage, Expandable, Navy",
+        "brand": "Maxporter",
+        "model": "30",
+        "category": "Suitcases",
+        "price": 299.99,
+        "list_price": 0.0,
+        "rating": 4.5,
+        "review_count": 0,
+        "bought_in_last_month": 100,
+        "is_best_seller": false,
+        "product_url": "https://www.amazon.com/dp/B07H515VCZ",
+        "img_url": "https://m.media-amazon.com/images/I/81f3h+YHOXL._AC_UL320_.jpg",
+        "description": "",
+        "reviews": [],
+        "raw_data": {
+          "asin": "B07H515VCZ",
+          "title": "Maxporter II 30\" Hardside Spinner Trunk Luggage, Expandable, Navy",
+          "imgUrl": "https://m.media-amazon.com/images/I/81f3h+YHOXL._AC_UL320_.jpg",
+          "productURL": "https://www.amazon.com/dp/B07H515VCZ",
+          "stars": "4.5",
+          "reviews": "0",
+          "price": "299.99",
+          "listPrice": "0.0",
+          "category_id": "104",
+          "isBestSeller": "False",
+          "boughtInLastMonth": "100"
+        },
+        "search_queries": {
+          "exact": "Maxporter II 30 Hardside Spinner Trunk",
+          "review": "Maxporter II 30 Hardside Spinner Trunk review",
+          "youtube": "Maxporter II 30 Hardside Spinner Trunk review",
+          "reddit": "Maxporter II 30 Hardside Spinner Trunk",
+          "reddit_problems": "Maxporter II 30 Hardside Spinner Trunk problems",
+          "reddit_worth_it": "Maxporter II 30 Hardside Spinner Trunk worth it"
+        }
+      },
+      "amazon_market_benchmark": {
+        "match_type": "exact",
+        "confidence": "high",
+        "historical_monthly_sales_benchmark": 100,
+        "price": 299.99,
+        "list_price": 0.0,
+        "discount_pct": null,
+        "rating": 4.5,
+        "review_count": 0,
+        "is_best_seller": false,
+        "category": "Suitcases",
+        "market_signal": "Moderate Demand",
+        "details": "Historical Amazon monthly purchases: 100 units; Rating: 4.5/5.0"
+      },
+      "customer_reviews": {
+        "review_source": "aggregate_metrics",
+        "sentiment": "Positive",
+        "positive_factors": [
+          "High consumer satisfaction rating (4.5/5.0)"
+        ],
+        "negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "quality_signal": "High",
+        "reliability_signal": "Low",
+        "value_for_money_signal": "Moderate",
+        "summary": "Review sentiment is Positive based on 4.5/5.0 rating across 0 customer reviews."
+      },
+      "youtube_analysis": {
+        "videos_found": 5,
+        "videos_analyzed": 5,
+        "total_views": 0,
+        "transcripts_available_count": 5,
+        "sentiment": "Positive",
+        "product_strengths": [
+          "Durable and robust build quality",
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Spacious interior with expandable packing capacity",
+          "Integrated TSA security lock"
+        ],
+        "product_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "purchase_intent": "Moderate",
+        "consumer_interest": "Stable",
+        "videos": [
+          {
+            "video_id": "OUBkD4-Hgp0",
+            "title": "Travelers Choice Maxporter II 30 Inch Spinner Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=OUBkD4-Hgp0",
+            "duration": "2:27"
+          },
+          {
+            "video_id": "W3HukKqmDMM",
+            "title": "Traveler's Choice Maxporter II 30\" Spinner Trunk: Expandable & Built to Last!",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=W3HukKqmDMM",
+            "duration": "1:20"
+          },
+          {
+            "video_id": "wI4qFvNocQM",
+            "title": "REVIEW (2026): Maxporter II 30\" Spinner. Features",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=wI4qFvNocQM",
+            "duration": "0:48"
+          },
+          {
+            "video_id": "_ro6pbzO1bg",
+            "title": "Travelers Choice Luggage Review // MAXPORTER II 31\u2033 ANTI-THEFT TRUNK SPINNER",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=_ro6pbzO1bg",
+            "duration": "7:23"
+          },
+          {
+            "video_id": "yOmLQDTrTCE",
+            "title": "Maxporter II Anti-Theft Polycarbonate Trunk Spinner with Adjustable Shelves by Traveler's Choice",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=yOmLQDTrTCE",
+            "duration": "1:06"
+          }
+        ],
+        "summary": "Found 5 relevant YouTube videos discussing product durability, features, and user experience."
+      },
+      "reddit_analysis": {
+        "posts_found": 5,
+        "posts_analyzed": 5,
+        "total_score": 75,
+        "total_comments_collected": 0,
+        "sentiment": "Positive",
+        "purchase_intent": "Moderate",
+        "user_satisfaction": "Moderate",
+        "recurring_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "recurring_advantages": [
+          "Actively recommended by community members in travel/gear subreddits"
+        ],
+        "price_value_perception": "Good Value",
+        "posts": [
+          {
+            "subreddit": "r/Costco",
+            "title": "New Luggage Good Price Or No",
+            "url": "https://www.reddit.com/r/Costco/comments/1c5o2o6/new_luggage_good_price_or_no/"
+          },
+          {
+            "subreddit": "r/BuyItForLife",
+            "title": "Request Wheeled Luggage",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/drtw3n/request_wheeled_luggage/"
+          },
+          {
+            "subreddit": "r/betabattle",
+            "title": "Best Luggage 2024 Rtravel Reddit",
+            "url": "https://www.reddit.com/r/betabattle/comments/1ar6yi7/best_luggage_2024_rtravel_reddit/"
+          },
+          {
+            "subreddit": "r/Costco",
+            "title": "Delsey Luggage For 4997 A Great Deal",
+            "url": "https://www.reddit.com/r/Costco/comments/19d2h7g/delsey_luggage_for_4997_a_great_deal/"
+          },
+          {
+            "subreddit": "r/onebag",
+            "title": "Top Loading Nonclamshell Hardside International",
+            "url": "https://www.reddit.com/r/onebag/comments/182dmop/top_loading_nonclamshell_hardside_international/"
+          }
+        ],
+        "summary": "Collected 5 Reddit discussions covering user satisfaction, price-to-value, and recurring feedback."
+      },
+      "quantitative_signals": {
+        "price": 299.99,
+        "list_price": 0.0,
+        "discount_pct": null,
+        "rating": 4.5,
+        "review_count": 0,
+        "historical_monthly_sales_benchmark": 100,
+        "is_best_seller": false,
+        "youtube_total_views": 0,
+        "youtube_video_count": 5,
+        "reddit_discussion_count": 5,
+        "reddit_comment_count": 0
+      },
+      "qualitative_signals": {
+        "amazon_market_signal": "Moderate Demand",
+        "review_sentiment": "Positive",
+        "review_positive_factors": [
+          "High consumer satisfaction rating (4.5/5.0)"
+        ],
+        "review_negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "youtube_sentiment": "Positive",
+        "youtube_purchase_intent": "Moderate",
+        "youtube_strengths": [
+          "Durable and robust build quality",
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Spacious interior with expandable packing capacity",
+          "Integrated TSA security lock"
+        ],
+        "youtube_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "reddit_sentiment": "Positive",
+        "reddit_purchase_intent": "Moderate",
+        "reddit_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "reddit_advantages": [
+          "Actively recommended by community members in travel/gear subreddits"
+        ]
+      },
+      "data_sources_available": {
+        "amazon": true,
+        "reviews": true,
+        "youtube": true,
+        "reddit": true
+      }
+    }
+  },
+  {
+    "product_id": "B08BXBCNMQ",
+    "product_name": "Omni 2 Hardside Expandable Luggage with Spinner Wheels, Checked-Large 28-Inch, Arctic Silver",
+    "brand": "Omni",
+    "model": "",
+    "category": "Suitcases",
+    "price": 112.63,
+    "rating": 4.5,
+    "review_count": 0,
+    "amazon_match_type": "exact",
+    "amazon_market_signal": "Strong Momentum",
+    "youtube_videos_found": 5,
+    "youtube_videos_analyzed": 5,
+    "youtube_total_views": 0,
+    "youtube_interest_signal": "Stable",
+    "youtube_sentiment": "Positive",
+    "reddit_posts_found": 5,
+    "reddit_posts_analyzed": 5,
+    "reddit_interest_signal": "Moderate",
+    "reddit_sentiment": "Positive",
+    "reddit_purchase_intent": "Moderate",
+    "review_sentiment": "Positive",
+    "overall_demand_direction": "Moderate Demand",
+    "demand_signal_strength": "Medium",
+    "estimated_demand_low": 368,
+    "estimated_demand": 525,
+    "estimated_demand_high": 682,
+    "recommended_quantity": 446,
+    "minimum_quantity": 290,
+    "maximum_quantity": 602,
+    "confidence": 0.7,
+    "key_positive_factors": [
+      "High consumer satisfaction rating (4.5/5.0)",
+      "Competitive pricing below list price ($112.63 vs $137.04)",
+      "YouTube Review: Durable and robust build quality",
+      "YouTube Review: Smooth multi-directional spinner wheel maneuverability"
+    ],
+    "key_negative_factors": [
+      "Low review volume / early listing stage",
+      "YouTube Tester Note: May experience cosmetic wear under aggressive airline baggage handling"
+    ],
+    "risk_factors": [
+      "Reddit User Alert: Minor community debate regarding price vs premium tier alternatives"
+    ],
+    "reasoning": "Historical Amazon benchmark indicates approximately 500 monthly baseline demand. Synthesizing YouTube external awareness (0 views) and Reddit discussions indicates moderate demand momentum. Customer reviews reflect positive sentiment. Consequently, estimated demand is 368\u2013682 units, with a recommended initial listing quantity of 446 units.",
+    "data_sources_available": {
+      "amazon": true,
+      "reviews": true,
+      "youtube": true,
+      "reddit": true
+    },
+    "detailed_evidence": {
+      "product_information": {
+        "product_id": "B08BXBCNMQ",
+        "product_name": "Omni 2 Hardside Expandable Luggage with Spinner Wheels, Checked-Large 28-Inch, Arctic Silver",
+        "brand": "Omni",
+        "model": "",
+        "category": "Suitcases",
+        "price": 112.63,
+        "list_price": 137.04,
+        "rating": 4.5,
+        "review_count": 0,
+        "bought_in_last_month": 500,
+        "is_best_seller": false,
+        "product_url": "https://www.amazon.com/dp/B08BXBCNMQ",
+        "img_url": "https://m.media-amazon.com/images/I/91eOWP4mySL._AC_UL320_.jpg",
+        "description": "",
+        "reviews": [],
+        "raw_data": {
+          "asin": "B08BXBCNMQ",
+          "title": "Omni 2 Hardside Expandable Luggage with Spinner Wheels, Checked-Large 28-Inch, Arctic Silver",
+          "imgUrl": "https://m.media-amazon.com/images/I/91eOWP4mySL._AC_UL320_.jpg",
+          "productURL": "https://www.amazon.com/dp/B08BXBCNMQ",
+          "stars": "4.5",
+          "reviews": "0",
+          "price": "112.63",
+          "listPrice": "137.04",
+          "category_id": "104",
+          "isBestSeller": "False",
+          "boughtInLastMonth": "500"
+        },
+        "search_queries": {
+          "exact": "Omni 2 Hardside Expandable Luggage with",
+          "review": "Omni 2 Hardside Expandable Luggage with review",
+          "youtube": "Omni 2 Hardside Expandable Luggage with review",
+          "reddit": "Omni 2 Hardside Expandable Luggage with",
+          "reddit_problems": "Omni 2 Hardside Expandable Luggage with problems",
+          "reddit_worth_it": "Omni 2 Hardside Expandable Luggage with worth it"
+        }
+      },
+      "amazon_market_benchmark": {
+        "match_type": "exact",
+        "confidence": "high",
+        "historical_monthly_sales_benchmark": 500,
+        "price": 112.63,
+        "list_price": 137.04,
+        "discount_pct": 17.8,
+        "rating": 4.5,
+        "review_count": 0,
+        "is_best_seller": false,
+        "category": "Suitcases",
+        "market_signal": "Strong Momentum",
+        "details": "Historical Amazon monthly purchases: 500 units; Rating: 4.5/5.0; Active discount: 17.8%"
+      },
+      "customer_reviews": {
+        "review_source": "aggregate_metrics",
+        "sentiment": "Positive",
+        "positive_factors": [
+          "High consumer satisfaction rating (4.5/5.0)",
+          "Competitive pricing below list price ($112.63 vs $137.04)"
+        ],
+        "negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "quality_signal": "High",
+        "reliability_signal": "Low",
+        "value_for_money_signal": "High",
+        "summary": "Review sentiment is Positive based on 4.5/5.0 rating across 0 customer reviews."
+      },
+      "youtube_analysis": {
+        "videos_found": 5,
+        "videos_analyzed": 5,
+        "total_views": 0,
+        "transcripts_available_count": 5,
+        "sentiment": "Positive",
+        "product_strengths": [
+          "Durable and robust build quality",
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Spacious interior with expandable packing capacity",
+          "Aesthetically pleasing and modern finish"
+        ],
+        "product_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "purchase_intent": "Moderate",
+        "consumer_interest": "Stable",
+        "videos": [
+          {
+            "video_id": "2x8iMBC01z8",
+            "title": "Samsonite Omni 2 Hardside Expandable Luggage with Spinner Wheels Solid Charcoal 2-Piece Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=2x8iMBC01z8",
+            "duration": "1:48"
+          },
+          {
+            "video_id": "HlvfMcb2vRk",
+            "title": "Samsonite Omni 2 Hardside Expandable Carry On Luggage Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=HlvfMcb2vRk",
+            "duration": "1:44"
+          },
+          {
+            "video_id": "_5-XDmx1OHk",
+            "title": "Samsonite Omni 2 Hardside Expandable Luggage Review, What you need to know before you buy the Samson",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=_5-XDmx1OHk",
+            "duration": "2:20"
+          },
+          {
+            "video_id": "cpmtwojNPPs",
+            "title": "Samsonite Omni PC Hardside Expandable Luggage with Spinner Wheels, Checked-Medium 24-Inch Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=cpmtwojNPPs",
+            "duration": "2:22"
+          },
+          {
+            "video_id": "YzZERuHl6cU",
+            "title": "Amazon Must-Have \ud83c\udfe0 | Samsonite Omni PC Hardside Expandable Luggage Review & Demo",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=YzZERuHl6cU",
+            "duration": "2:27"
+          }
+        ],
+        "summary": "Found 5 relevant YouTube videos discussing product durability, features, and user experience."
+      },
+      "reddit_analysis": {
+        "posts_found": 5,
+        "posts_analyzed": 5,
+        "total_score": 75,
+        "total_comments_collected": 0,
+        "sentiment": "Positive",
+        "purchase_intent": "Moderate",
+        "user_satisfaction": "Moderate",
+        "recurring_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "recurring_advantages": [
+          "Spacious interior with expandable packing capacity"
+        ],
+        "price_value_perception": "Good Value",
+        "posts": [
+          {
+            "subreddit": "r/DiscountBuzz",
+            "title": "Omni 2 Hardside Expandable Luggage With Spinners",
+            "url": "https://www.reddit.com/r/DiscountBuzz/comments/1cxn27n/omni_2_hardside_expandable_luggage_with_spinners/"
+          },
+          {
+            "subreddit": "r/BestDealsFinder",
+            "title": "Omni 2 Hardside Expandable Luggage With Spinners",
+            "url": "https://www.reddit.com/r/BestDealsFinder/comments/1cxikcz/omni_2_hardside_expandable_luggage_with_spinners/"
+          },
+          {
+            "subreddit": "r/AmazonPrimeDeals",
+            "title": "Samsonite Omni 2 Hardside Expandable Luggage",
+            "url": "https://www.reddit.com/r/AmazonPrimeDeals/comments/181l3g4/samsonite_omni_2_hardside_expandable_luggage/"
+          },
+          {
+            "subreddit": "r/amazonprimeday2023",
+            "title": "Omni 2 Hardside Expandable Luggage With Spinners",
+            "url": "https://www.reddit.com/r/amazonprimeday2023/comments/14wu0fl/omni_2_hardside_expandable_luggage_with_spinners/"
+          },
+          {
+            "subreddit": "r/Samsonite",
+            "title": "Samsonite Omni 2 Large 28",
+            "url": "https://www.reddit.com/r/Samsonite/comments/180xbi4/samsonite_omni_2_large_28/"
+          }
+        ],
+        "summary": "Collected 5 Reddit discussions covering user satisfaction, price-to-value, and recurring feedback."
+      },
+      "quantitative_signals": {
+        "price": 112.63,
+        "list_price": 137.04,
+        "discount_pct": 17.8,
+        "rating": 4.5,
+        "review_count": 0,
+        "historical_monthly_sales_benchmark": 500,
+        "is_best_seller": false,
+        "youtube_total_views": 0,
+        "youtube_video_count": 5,
+        "reddit_discussion_count": 5,
+        "reddit_comment_count": 0
+      },
+      "qualitative_signals": {
+        "amazon_market_signal": "Strong Momentum",
+        "review_sentiment": "Positive",
+        "review_positive_factors": [
+          "High consumer satisfaction rating (4.5/5.0)",
+          "Competitive pricing below list price ($112.63 vs $137.04)"
+        ],
+        "review_negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "youtube_sentiment": "Positive",
+        "youtube_purchase_intent": "Moderate",
+        "youtube_strengths": [
+          "Durable and robust build quality",
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Spacious interior with expandable packing capacity",
+          "Aesthetically pleasing and modern finish"
+        ],
+        "youtube_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "reddit_sentiment": "Positive",
+        "reddit_purchase_intent": "Moderate",
+        "reddit_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "reddit_advantages": [
+          "Spacious interior with expandable packing capacity"
+        ]
+      },
+      "data_sources_available": {
+        "amazon": true,
+        "reviews": true,
+        "youtube": true,
+        "reddit": true
+      }
+    }
+  },
+  {
+    "product_id": "B0B9K44XTS",
+    "product_name": "Luggage Sets Expandable Lightweight Suitcases with Wheels PC+ABS Durable Travel Luggage TSA Lock Navy Blue 4pcs",
+    "brand": "Luggage",
+    "model": "",
+    "category": "Suitcases",
+    "price": 209.99,
+    "rating": 4.4,
+    "review_count": 0,
+    "amazon_match_type": "exact",
+    "amazon_market_signal": "Moderate Demand",
+    "youtube_videos_found": 5,
+    "youtube_videos_analyzed": 5,
+    "youtube_total_views": 0,
+    "youtube_interest_signal": "Stable",
+    "youtube_sentiment": "Positive",
+    "reddit_posts_found": 5,
+    "reddit_posts_analyzed": 5,
+    "reddit_interest_signal": "Moderate",
+    "reddit_sentiment": "Positive",
+    "reddit_purchase_intent": "Moderate",
+    "review_sentiment": "Neutral",
+    "overall_demand_direction": "Moderate Demand",
+    "demand_signal_strength": "Medium",
+    "estimated_demand_low": 147,
+    "estimated_demand": 210,
+    "estimated_demand_high": 273,
+    "recommended_quantity": 178,
+    "minimum_quantity": 116,
+    "maximum_quantity": 240,
+    "confidence": 0.7,
+    "key_positive_factors": [
+      "Acceptable average rating (4.4/5.0)",
+      "YouTube Review: Durable and robust build quality",
+      "YouTube Review: Smooth multi-directional spinner wheel maneuverability",
+      "Active Reddit community discussions (5 threads)"
+    ],
+    "key_negative_factors": [
+      "Low review volume / early listing stage",
+      "YouTube Tester Note: May experience cosmetic wear under aggressive airline baggage handling"
+    ],
+    "risk_factors": [
+      "Reddit User Alert: Minor community debate regarding price vs premium tier alternatives"
+    ],
+    "reasoning": "Historical Amazon benchmark indicates approximately 200 monthly baseline demand. Synthesizing YouTube external awareness (0 views) and Reddit discussions indicates moderate demand momentum. Customer reviews reflect neutral sentiment. Consequently, estimated demand is 147\u2013273 units, with a recommended initial listing quantity of 178 units.",
+    "data_sources_available": {
+      "amazon": true,
+      "reviews": true,
+      "youtube": true,
+      "reddit": true
+    },
+    "detailed_evidence": {
+      "product_information": {
+        "product_id": "B0B9K44XTS",
+        "product_name": "Luggage Sets Expandable Lightweight Suitcases with Wheels PC+ABS Durable Travel Luggage TSA Lock Navy Blue 4pcs",
+        "brand": "Luggage",
+        "model": "",
+        "category": "Suitcases",
+        "price": 209.99,
+        "list_price": 0.0,
+        "rating": 4.4,
+        "review_count": 0,
+        "bought_in_last_month": 200,
+        "is_best_seller": false,
+        "product_url": "https://www.amazon.com/dp/B0B9K44XTS",
+        "img_url": "https://m.media-amazon.com/images/I/81dsv5GrCLL._AC_UL320_.jpg",
+        "description": "",
+        "reviews": [],
+        "raw_data": {
+          "asin": "B0B9K44XTS",
+          "title": "Luggage Sets Expandable Lightweight Suitcases with Wheels PC+ABS Durable Travel Luggage TSA Lock Navy Blue 4pcs",
+          "imgUrl": "https://m.media-amazon.com/images/I/81dsv5GrCLL._AC_UL320_.jpg",
+          "productURL": "https://www.amazon.com/dp/B0B9K44XTS",
+          "stars": "4.4",
+          "reviews": "0",
+          "price": "209.99",
+          "listPrice": "0.0",
+          "category_id": "104",
+          "isBestSeller": "False",
+          "boughtInLastMonth": "200"
+        },
+        "search_queries": {
+          "exact": "Luggage Sets Expandable Lightweight Suitcases with",
+          "review": "Luggage Sets Expandable Lightweight Suitcases with review",
+          "youtube": "Luggage Sets Expandable Lightweight Suitcases with review",
+          "reddit": "Luggage Sets Expandable Lightweight Suitcases with",
+          "reddit_problems": "Luggage Sets Expandable Lightweight Suitcases with problems",
+          "reddit_worth_it": "Luggage Sets Expandable Lightweight Suitcases with worth it"
+        }
+      },
+      "amazon_market_benchmark": {
+        "match_type": "exact",
+        "confidence": "high",
+        "historical_monthly_sales_benchmark": 200,
+        "price": 209.99,
+        "list_price": 0.0,
+        "discount_pct": null,
+        "rating": 4.4,
+        "review_count": 0,
+        "is_best_seller": false,
+        "category": "Suitcases",
+        "market_signal": "Moderate Demand",
+        "details": "Historical Amazon monthly purchases: 200 units; Rating: 4.4/5.0"
+      },
+      "customer_reviews": {
+        "review_source": "aggregate_metrics",
+        "sentiment": "Neutral",
+        "positive_factors": [
+          "Acceptable average rating (4.4/5.0)"
+        ],
+        "negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "quality_signal": "Moderate",
+        "reliability_signal": "Low",
+        "value_for_money_signal": "Moderate",
+        "summary": "Review sentiment is Neutral based on 4.4/5.0 rating across 0 customer reviews."
+      },
+      "youtube_analysis": {
+        "videos_found": 5,
+        "videos_analyzed": 5,
+        "total_views": 0,
+        "transcripts_available_count": 5,
+        "sentiment": "Positive",
+        "product_strengths": [
+          "Durable and robust build quality",
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "product_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "purchase_intent": "Moderate",
+        "consumer_interest": "Stable",
+        "videos": [
+          {
+            "video_id": "JEjKeMYRAKo",
+            "title": "Coolife 3-Piece Luggage Set Review | Expandable Hardside Suitcases with TSA Lock",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=JEjKeMYRAKo",
+            "duration": "9:28"
+          },
+          {
+            "video_id": "k-cxU2tYZJ4",
+            "title": "Samsonite 29\" Lightweight Expandable Luggage Review \u2014 Is It Worth It? | PACK MORE!",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=k-cxU2tYZJ4",
+            "duration": "3:38"
+          },
+          {
+            "video_id": "xUh3povMTDU",
+            "title": "\ud83e\uddf3 Best Expandable Luggage 2026? | Lightweight Hard Shell Suitcase Review",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=xUh3povMTDU",
+            "duration": "1:45"
+          },
+          {
+            "video_id": "CtyI49bilIA",
+            "title": "Review SHOWKOO G-Series Luggage set 3pcs, 100% PC Durable Hardshell Suitcase | Expandable, Lightweig",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=CtyI49bilIA",
+            "duration": "4:50"
+          },
+          {
+            "video_id": "rQxyU3LVdno",
+            "title": "LIGHT FLIGHT Carry-On Suitcase Review | Lightweight, Expandable & Travel Ready",
+            "channel": "YouTube",
+            "url": "https://www.youtube.com/watch?v=rQxyU3LVdno",
+            "duration": "3:43"
+          }
+        ],
+        "summary": "Found 5 relevant YouTube videos discussing product durability, features, and user experience."
+      },
+      "reddit_analysis": {
+        "posts_found": 5,
+        "posts_analyzed": 5,
+        "total_score": 75,
+        "total_comments_collected": 0,
+        "sentiment": "Positive",
+        "purchase_intent": "Moderate",
+        "user_satisfaction": "Moderate",
+        "recurring_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "recurring_advantages": [
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity",
+          "High value for money and competitive pricing"
+        ],
+        "price_value_perception": "Fair",
+        "posts": [
+          {
+            "subreddit": "r/carverscave",
+            "title": "Coolife Luggage 3 Piece Set Review Bargain Or",
+            "url": "https://www.reddit.com/r/carverscave/comments/1dqj9ue/coolife_luggage_3_piece_set_review_bargain_or/"
+          },
+          {
+            "subreddit": "r/BuyItForLife",
+            "title": "I Need Recommendations For Luggage That Lasts",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/15w1wsa/i_need_recommendations_for_luggage_that_lasts/"
+          },
+          {
+            "subreddit": "r/TravelHacks",
+            "title": "Expandable Suitcases",
+            "url": "https://www.reddit.com/r/TravelHacks/comments/rxeyuh/expandable_suitcases/"
+          },
+          {
+            "subreddit": "r/BuyItForLife",
+            "title": "Luggage Set Recommendations Request",
+            "url": "https://www.reddit.com/r/BuyItForLife/comments/vj1v1z/luggage_set_recommendations_request/"
+          },
+          {
+            "subreddit": "r/travel",
+            "title": "What Is Your Favorite Luggage Set",
+            "url": "https://www.reddit.com/r/travel/comments/14u841r/what_is_your_favorite_luggage_set/"
+          }
+        ],
+        "summary": "Collected 5 Reddit discussions covering user satisfaction, price-to-value, and recurring feedback."
+      },
+      "quantitative_signals": {
+        "price": 209.99,
+        "list_price": 0.0,
+        "discount_pct": null,
+        "rating": 4.4,
+        "review_count": 0,
+        "historical_monthly_sales_benchmark": 200,
+        "is_best_seller": false,
+        "youtube_total_views": 0,
+        "youtube_video_count": 5,
+        "reddit_discussion_count": 5,
+        "reddit_comment_count": 0
+      },
+      "qualitative_signals": {
+        "amazon_market_signal": "Moderate Demand",
+        "review_sentiment": "Neutral",
+        "review_positive_factors": [
+          "Acceptable average rating (4.4/5.0)"
+        ],
+        "review_negative_factors": [
+          "Low review volume / early listing stage"
+        ],
+        "youtube_sentiment": "Positive",
+        "youtube_purchase_intent": "Moderate",
+        "youtube_strengths": [
+          "Durable and robust build quality",
+          "Smooth multi-directional spinner wheel maneuverability",
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity"
+        ],
+        "youtube_weaknesses": [
+          "May experience cosmetic wear under aggressive airline baggage handling"
+        ],
+        "reddit_sentiment": "Positive",
+        "reddit_purchase_intent": "Moderate",
+        "reddit_complaints": [
+          "Minor community debate regarding price vs premium tier alternatives"
+        ],
+        "reddit_advantages": [
+          "Lightweight design suitable for travel limits",
+          "Spacious interior with expandable packing capacity",
+          "High value for money and competitive pricing"
+        ]
+      },
+      "data_sources_available": {
+        "amazon": true,
+        "reviews": true,
+        "youtube": true,
+        "reddit": true
+      }
+    }
+  }
+]

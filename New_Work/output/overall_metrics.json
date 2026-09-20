@@ -1,0 +1,18 @@
+{
+  "model": "llama3.2:latest",
+  "total_test": 50,
+  "n_success": 50,
+  "n_failed": 0,
+  "success_rate": 1.0,
+  "overall_actual_mean": 1053.0,
+  "overall_predicted_mean": 626.4,
+  "overall_rmse": 1559.742927536458,
+  "overall_mae": 718.6,
+  "random_seed": 42,
+  "temperature": 0.2,
+  "prompt_version": "v1.0",
+  "ollama_base_url": "http://localhost:11434",
+  "run_timestamp": "2026-09-20T16:55:36.373979+00:00",
+  "overall_r2": 0.16013133833291737,
+  "overall_q2": 0.16013133833291737
+}
