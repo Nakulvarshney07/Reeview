@@ -1,51 +1,51 @@
-asin,title,category_id,category_name,actual_demand,baseline_mean_pred,baseline_med_pred,mae_mean,mae_median,se_mean,se_median
-B0CB2YNTPD,Halloween Headbands Pumpkin Bow Design Hair Bands Happy Halloween Party Hair Accessories for Kids Women Cute Pumpkin Mesh Headwear Hair Hoop for Halloween Hair Decorations 1Pcs,47,Hair Care Products,200,1840.0,300.0,1640.0,100.0,2689600.0,10000.0
-B0C5C5BCQ8,"3 Pieces Hair Comb Set for Women-Wide Tooth Comb,Rat Tail Comb for Parting Teasing-Detangling Hair Combs for Curly/Straight/Short/Wet Hair,Anti-Static Heat Resistant Hair Styling Comb Set(Pink)",47,Hair Care Products,200,1840.0,300.0,1640.0,100.0,2689600.0,10000.0
-B0B44G1V73,the kure bond repair shampoo,47,Hair Care Products,5000,1840.0,300.0,3160.0,4700.0,9985600.0,22090000.0
-B0041QZOF0,"BaBylissPRO Nano Titanium Travel Dryer, Blue",47,Hair Care Products,2000,1840.0,300.0,160.0,1700.0,25600.0,2890000.0
-B074M6577N,"SWEETV Jeweled Baroque Queen Crown - Rhinestone Wedding Crowns and Tiaras for Women, Costume Party Hair Accessories with Gemstones,Victoria",47,Hair Care Products,600,1840.0,300.0,1240.0,300.0,1537600.0,90000.0
-B08XKSDW9M,Dove Refillable Deodorant Starter Kit 0% Aluminum Cucumber & Green Tea Aluminum Free Deodorant 1.13 oz,52,Personal Care Products,400,760.0,700.0,360.0,300.0,129600.0,90000.0
-B08GCX5V9G,"Supergoop! Unseen Sunscreen - SPF 40-1.7 fl oz - Invisible, Broad Spectrum Face Sunscreen - Weightless, Scentless, and Oil Free - For All Skin Types and Skin Tones",52,Personal Care Products,3000,760.0,700.0,2240.0,2300.0,5017600.0,5290000.0
-B06ZZHGYGV,"Bath Accessories Deodorant Be-gone Remover Sponge, 2 Count",52,Personal Care Products,900,760.0,700.0,140.0,200.0,19600.0,40000.0
-B0B85BJ488,"120 PCS Under Eye Patches - 24K Skin Care Gold- Eye Patch for Puffy Eyes Anti-Aging Collagen Hyaluronic Acid Eye Masks for Dark Circles and Puffiness, Anti-Wrinkle and Hydrating skin care",52,Personal Care Products,2000,760.0,700.0,1240.0,1300.0,1537600.0,1690000.0
-B07VR6BBY8,Supergoop! Superscreen - 1.7 fl oz - SPF 40 PA+++ Hydrating Daily Moisturizer Sunscreen - Protection from UV Rays + Helps Filter Pollution & Blue Light,52,Personal Care Products,1000,760.0,700.0,240.0,300.0,57600.0,90000.0
-B006XA7JY6,eKids IHOME Minnie Mouse Headphones,71,Headphones & Earbuds,100,160.0,100.0,60.0,0.0,3600.0,0.0
-B004Z4C0RI,"Disney Princess Kids Headphones For Kids Adjustable Stereo Tangle-Free 3.5Mm Jack Wired Cord Over Ear Headset For Children Parental Volume Control Kid Friendly Safe (Frustration Free Packaging), DP-140.EXv6, Pink",71,Headphones & Earbuds,200,160.0,100.0,40.0,100.0,1600.0,10000.0
-B0C5F7JYJC,MUSICOZY Sleep Headphones Bluetooth Sleep Eye Mask for Sleeping Wireless Music Sleeping Headphones Headband Eye Mask Sleep Earbuds for Side Sleepers Men Women with Speakers Cool Tech Gadgets,71,Headphones & Earbuds,50,160.0,100.0,110.0,50.0,12100.0,2500.0
-B00HVLUR54,"Audio-Technica ATH-M40x Professional Studio Monitor Headphone, Black, with Cutting Edge Engineering, 90 Degree Swiveling Earcups, Pro-grade Earpads/Headband, Detachable Cables Included",71,Headphones & Earbuds,800,160.0,100.0,640.0,700.0,409600.0,490000.0
-B08WJLZVHB,"3M Pro-Comms Electronic Hearing Protection with Bluetooth Wireless Technology and External Microphones, Bluetooth Headphones, NRR 26 dB,Black/Red",71,Headphones & Earbuds,200,160.0,100.0,40.0,100.0,1600.0,10000.0
-B09M5ZK6PY,Men's Woven Silk Dress Shirt Button Down Casual Jacquard Shirts Long-Sleeve Shirt Prom Wedding Regular Fit,110,Men's Clothing,50,440.0,100.0,390.0,50.0,152100.0,2500.0
-B07HPGVJPN,"Sweatproof Mens Boxer Briefs Modal Fly Underwear w Sweat Pads, Silver Treated to Fight Odor, Aluminum Free Alternative",110,Men's Clothing,50,440.0,100.0,390.0,50.0,152100.0,2500.0
-B06XHVMV9C,"Men's Athletic Gym Mesh Shorts with Pockets, Lightweight, Quick Dry, Breathable",110,Men's Clothing,100,440.0,100.0,340.0,0.0,115600.0,0.0
-B000BRUGKQ,Mens Heavy Blend Hooded Sweatshirt,110,Men's Clothing,100,440.0,100.0,340.0,0.0,115600.0,0.0
-B06WP2MM64,Fox River - Wick Dry CoolMax Liner Socks - 3 Pack,110,Men's Clothing,50,440.0,100.0,390.0,50.0,152100.0,2500.0
-B09BN4BBBG,Women's Graphic Print Blazer Button Open Front Long Sleeve Jacket Multicolored,116,Women's Clothing,50,130.0,100.0,80.0,50.0,6400.0,2500.0
-B08N5K6DT1,"Girls' Seamless Soft Cup Bra, 2-Pack",116,Women's Clothing,100,130.0,100.0,30.0,0.0,900.0,0.0
-B01CSC6MM2,Women's Faux Leather Moto Biker Short Coat Jacket,116,Women's Clothing,100,130.0,100.0,30.0,0.0,900.0,0.0
-B089SZ26DR,"Lightweight Women's 28""/30""/32""/34""/36"" Tall Inseam Cotton Soft Jogger with Zipper Pockets Cargo Pants",116,Women's Clothing,200,130.0,100.0,70.0,100.0,4900.0,10000.0
-B0CC46J9RQ,Women‘s Yoga Jumpsuits Ribbed One Piece Workout Short Sleeve Tops Exercise Jumpsuits,116,Women's Clothing,300,130.0,100.0,170.0,200.0,28900.0,40000.0
-B075FJBZ8Q,"Plackers 303290518 Twin Line Whitening Floss Picks, Blue, 75 Count (Pack of 4)",126,Oral Care Products,100,400.0,300.0,300.0,200.0,90000.0,40000.0
-B088Q5RPZ9,"Teeth Whitening Kit with LED Light, 35% Carbamide Peroxide, Teeth Whitening Gel, Helps to Remove Stains from Coffee, Smoking, Wines, Soda, Food, Home Dental Products for Sensitive Teeth",126,Oral Care Products,200,400.0,300.0,200.0,100.0,40000.0,10000.0
-B0063GMAAI,"The Doctor's BrushPicks Interdental Toothpicks, 275 pieces per Pack (1-Pack)",126,Oral Care Products,400,400.0,300.0,0.0,100.0,0.0,10000.0
-B09LD8PTNJ,"PHILIPS Sonicare 2100 Power Toothbrush, Rechargeable Electric Toothbrush, White Mint, HX3661/04",126,Oral Care Products,2000,400.0,300.0,1600.0,1700.0,2560000.0,2890000.0
-B0C2T9ZQDR,Replacement Toothbrush Heads Fits Oral B Braun for Precision/Precision Clean PRO/Sensitive/Cross Clean Replacement Brush Heads Pack of 8 Black Standard Clean Heads Refill for 7000/Pro1000/3000/8000,126,Oral Care Products,600,400.0,300.0,200.0,300.0,40000.0,90000.0
-B095K5R5ZR,"Rechargeable Fabric Shaver, Electric Commercial Lint Remover with LED Display & Big Trash Box, 3-Speeds for Removing Fuzz and Pill from Clothes, Furniture, Sweater, Couch and Blanket, Silver",130,Household Supplies,600,1480.0,1000.0,880.0,400.0,774400.0,160000.0
-B088BBV7DS,"POWEROWL High Capacity LR44 Batteries 40 Pack, L1154F AG13 357 303 SR44 A76 Premium Alkaline Battery 1.5V Button Coin Cell Batteries",130,Household Supplies,10000,1480.0,1000.0,8520.0,9000.0,72590400.0,81000000.0
-B00OHZ78RM,"ATTITUDE Liquid Fabric Softener, Plant- and Mineral-Based Effective Formula, Vegan and Cruelty-free, Wildflowers, 40 Loads, 33.8 Fl Oz",130,Household Supplies,1000,1480.0,1000.0,480.0,0.0,230400.0,0.0
-B082L49F6S,20 pcs Pack LR41 AG3 SR41 392 384 192 Battery 1.5V Button Coin Cell Batteries,130,Household Supplies,900,1480.0,1000.0,580.0,100.0,336400.0,10000.0
-B004R1BM0U,"Energizer CR2 Lithium Battery, Pack of 2",130,Household Supplies,3000,1480.0,1000.0,1520.0,2000.0,2310400.0,4000000.0
-B0BX92ZT75,"Touchat Wearable Blanket Hoodie, Oversized Sherpa Fleece Sweatshirt Blanket with Giant Hood Pocket and Sleeves for Adult, Warm & Cozy Grey Hooded Blanket Gifts for Adult Women Men",164,Bedding,1000,130.0,100.0,870.0,900.0,756900.0,810000.0
-B0B5RPHDJ4,Viscose Body Pillows with 100% Viscose Cover Full 21x54 Body Pillows for Adults Premium Adjustable Quilted Body Pillows Firm and Fluffy Pillow (Gray),164,Bedding,100,130.0,100.0,30.0,0.0,900.0,0.0
-B0B31P88GB,"Leg Elevation Pillow Inflatable, Wedge Pillows for Sleeping, Comfort Leg Pillows Improve Circulation, Suitable for Relax Muscles & Comfort Swelling, Pregnant, Surgery and Injury",164,Bedding,300,130.0,100.0,170.0,200.0,28900.0,40000.0
-B09N8P5379,"Standard Size Pillow Shams Set of 2, Ultra Soft Breathable 20 x 26 Inches Pillow Case Envelope Closure, Microfiber Farmhouse Bed Pillowcases for Easy Care, White",164,Bedding,200,130.0,100.0,70.0,100.0,4900.0,10000.0
-B07283237Y,"U-Haul King Pillow Top Mattress Bag (Fits Mattresses up to 17"" Thick) - 78"" x 103"" x 17""",164,Bedding,200,130.0,100.0,70.0,100.0,4900.0,10000.0
-B0833F8HWB,"Clear Kitchen Trash Bags 7-10 Gallon Clear Plastic Garbage Bag for Kitchen, Home, Office, Bathroom - Wastebasket Bin Liners - High Density, Leak-Proof Waste Basket Bags 24x24-48 Pack",167,Household Cleaning Supplies,100,360.0,200.0,260.0,100.0,67600.0,10000.0
-B099GCSSM1,"MagicFiber Microfiber Cleaning Cloth (12 Pack,13x13 in) - Thick, Soft, & Ultra Absorbent Reusable Microfiber Towel, Cleaning Rags, Micro Fiber Cloths or Dusting, Windows, Kitchenware, Cars & More!",167,Household Cleaning Supplies,1000,360.0,200.0,640.0,800.0,409600.0,640000.0
-B07ML4GD4P,Bambaw Bottle Cleaner Brush Set | 4 Cleaning Brushes | Bottle Brush Cleaner Set | Water Bottle Brush | Bottle Scrubber | Small & Long Bottle Brush for Glass - Soft Cotton Tip to Prevent Scratches,167,Household Cleaning Supplies,100,360.0,200.0,260.0,100.0,67600.0,10000.0
-B0BKFRPH15,Silicone Toilet Brush 2 Pack Toilet Bowl Brush and Holder Toilet Cleaner Brush with Silicone Bristles Ventilated Toilet Brushes for Bathroom with Holder for Toilet Scrubber Cleaning,167,Household Cleaning Supplies,3000,360.0,200.0,2640.0,2800.0,6969600.0,7840000.0
-B09QD9LPGN,"Wipex Gym Wipes Antibacterial Refills - EPA Registered Bulk Size Disinfecting Cleaning Wipes for Dispensers, Safely Kill Viruses and Bacteria in 15 Seconds, Sanitize Gym Equipment, Fitness Equipment and Surfaces, 800ct Gym Refill Rolls",167,Household Cleaning Supplies,100,360.0,200.0,260.0,100.0,67600.0,10000.0
-B077KQB7SJ,"KSPOWWIN Biscuit Cookie Cutters Set,Stainless Steel Circle Round Cookie Biscuit Cutters in Graduated Sizes Shape Molds for Pastries Doughs Doughnuts, 5 Pieces",170,Kitchen & Dining,1000,1380.0,1000.0,380.0,0.0,144400.0,0.0
-B09W4GL91J,"GE 3-in-1 Countertop Microwave Oven | Complete With Air Fryer, Broiler & Convection Mode | 1.0 Cubic Feet Capacity, 1,050 Watts | Kitchen Essentials for the Countertop or Dorm Room | Stainless Steel",170,Kitchen & Dining,3000,1380.0,1000.0,1620.0,2000.0,2624400.0,4000000.0
-B07TKMY2NW,"KitchenAid Gourmet Stainless Steel Wire Masher, 10.24-Inch, Black",170,Kitchen & Dining,4000,1380.0,1000.0,2620.0,3000.0,6864400.0,9000000.0
-B09SQ4SSL6,"Cutting Boards for Kitchen - Plastic Board Set of 3, Dishwasher Safe with Juice Grooves, Thick Chopping Meat, Veggies, Fruits, Easy Grip Handle, Non-Slip (Black)",170,Kitchen & Dining,1000,1380.0,1000.0,380.0,0.0,144400.0,0.0
-B00LLILH98,"Flavored Coffee in Single Serve Coffee Pods - Flavor Coffee Variety Pack for Keurig K Cups Machine from Crazy Cups, 30 Count",170,Kitchen & Dining,1000,1380.0,1000.0,380.0,0.0,144400.0,0.0
+asin,category_id,category_name,actual_demand,baseline_mean,baseline_median,se_mean,mae_mean,se_median,mae_median
+B0CB2YNTPD,47,Hair Care Products,200,1840.0,300.0,2689600.0,1640.0,10000.0,100.0
+B0C5C5BCQ8,47,Hair Care Products,200,1840.0,300.0,2689600.0,1640.0,10000.0,100.0
+B0B44G1V73,47,Hair Care Products,5000,1840.0,300.0,9985600.0,3160.0,22090000.0,4700.0
+B0041QZOF0,47,Hair Care Products,2000,1840.0,300.0,25600.0,160.0,2890000.0,1700.0
+B074M6577N,47,Hair Care Products,600,1840.0,300.0,1537600.0,1240.0,90000.0,300.0
+B08XKSDW9M,52,Personal Care Products,400,760.0,700.0,129600.0,360.0,90000.0,300.0
+B08GCX5V9G,52,Personal Care Products,3000,760.0,700.0,5017600.0,2240.0,5290000.0,2300.0
+B06ZZHGYGV,52,Personal Care Products,900,760.0,700.0,19600.0,140.0,40000.0,200.0
+B0B85BJ488,52,Personal Care Products,2000,760.0,700.0,1537600.0,1240.0,1690000.0,1300.0
+B07VR6BBY8,52,Personal Care Products,1000,760.0,700.0,57600.0,240.0,90000.0,300.0
+B006XA7JY6,71,Headphones & Earbuds,100,160.0,100.0,3600.0,60.0,0.0,0.0
+B004Z4C0RI,71,Headphones & Earbuds,200,160.0,100.0,1600.0,40.0,10000.0,100.0
+B0C5F7JYJC,71,Headphones & Earbuds,50,160.0,100.0,12100.0,110.0,2500.0,50.0
+B00HVLUR54,71,Headphones & Earbuds,800,160.0,100.0,409600.0,640.0,490000.0,700.0
+B08WJLZVHB,71,Headphones & Earbuds,200,160.0,100.0,1600.0,40.0,10000.0,100.0
+B09M5ZK6PY,110,Men's Clothing,50,440.0,100.0,152100.0,390.0,2500.0,50.0
+B07HPGVJPN,110,Men's Clothing,50,440.0,100.0,152100.0,390.0,2500.0,50.0
+B06XHVMV9C,110,Men's Clothing,100,440.0,100.0,115600.0,340.0,0.0,0.0
+B000BRUGKQ,110,Men's Clothing,100,440.0,100.0,115600.0,340.0,0.0,0.0
+B06WP2MM64,110,Men's Clothing,50,440.0,100.0,152100.0,390.0,2500.0,50.0
+B09BN4BBBG,116,Women's Clothing,50,130.0,100.0,6400.0,80.0,2500.0,50.0
+B08N5K6DT1,116,Women's Clothing,100,130.0,100.0,900.0,30.0,0.0,0.0
+B01CSC6MM2,116,Women's Clothing,100,130.0,100.0,900.0,30.0,0.0,0.0
+B089SZ26DR,116,Women's Clothing,200,130.0,100.0,4900.0,70.0,10000.0,100.0
+B0CC46J9RQ,116,Women's Clothing,300,130.0,100.0,28900.0,170.0,40000.0,200.0
+B075FJBZ8Q,126,Oral Care Products,100,400.0,300.0,90000.0,300.0,40000.0,200.0
+B088Q5RPZ9,126,Oral Care Products,200,400.0,300.0,40000.0,200.0,10000.0,100.0
+B0063GMAAI,126,Oral Care Products,400,400.0,300.0,0.0,0.0,10000.0,100.0
+B09LD8PTNJ,126,Oral Care Products,2000,400.0,300.0,2560000.0,1600.0,2890000.0,1700.0
+B0C2T9ZQDR,126,Oral Care Products,600,400.0,300.0,40000.0,200.0,90000.0,300.0
+B095K5R5ZR,130,Household Supplies,600,1480.0,1000.0,774400.0,880.0,160000.0,400.0
+B088BBV7DS,130,Household Supplies,10000,1480.0,1000.0,72590400.0,8520.0,81000000.0,9000.0
+B00OHZ78RM,130,Household Supplies,1000,1480.0,1000.0,230400.0,480.0,0.0,0.0
+B082L49F6S,130,Household Supplies,900,1480.0,1000.0,336400.0,580.0,10000.0,100.0
+B004R1BM0U,130,Household Supplies,3000,1480.0,1000.0,2310400.0,1520.0,4000000.0,2000.0
+B0BX92ZT75,164,Bedding,1000,130.0,100.0,756900.0,870.0,810000.0,900.0
+B0B5RPHDJ4,164,Bedding,100,130.0,100.0,900.0,30.0,0.0,0.0
+B0B31P88GB,164,Bedding,300,130.0,100.0,28900.0,170.0,40000.0,200.0
+B09N8P5379,164,Bedding,200,130.0,100.0,4900.0,70.0,10000.0,100.0
+B07283237Y,164,Bedding,200,130.0,100.0,4900.0,70.0,10000.0,100.0
+B0833F8HWB,167,Household Cleaning Supplies,100,360.0,200.0,67600.0,260.0,10000.0,100.0
+B099GCSSM1,167,Household Cleaning Supplies,1000,360.0,200.0,409600.0,640.0,640000.0,800.0
+B07ML4GD4P,167,Household Cleaning Supplies,100,360.0,200.0,67600.0,260.0,10000.0,100.0
+B0BKFRPH15,167,Household Cleaning Supplies,3000,360.0,200.0,6969600.0,2640.0,7840000.0,2800.0
+B09QD9LPGN,167,Household Cleaning Supplies,100,360.0,200.0,67600.0,260.0,10000.0,100.0
+B077KQB7SJ,170,Kitchen & Dining,1000,1380.0,1000.0,144400.0,380.0,0.0,0.0
+B09W4GL91J,170,Kitchen & Dining,3000,1380.0,1000.0,2624400.0,1620.0,4000000.0,2000.0
+B07TKMY2NW,170,Kitchen & Dining,4000,1380.0,1000.0,6864400.0,2620.0,9000000.0,3000.0
+B09SQ4SSL6,170,Kitchen & Dining,1000,1380.0,1000.0,144400.0,380.0,0.0,0.0
+B00LLILH98,170,Kitchen & Dining,1000,1380.0,1000.0,144400.0,380.0,0.0,0.0
